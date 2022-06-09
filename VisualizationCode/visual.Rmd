@@ -4,7 +4,7 @@ library(dplyr)
 ```
 
 ```{r}
-data = read.csv("combinedData.csv")
+data = read.csv("../combinedData2.csv")
 ```
 
 #For this visualization I want to look at the correctness of the averaged polling data from FiveThirtyEight.
@@ -76,7 +76,7 @@ ggplot( data = govPolls, aes(x = RepPoll, y = DemPoll, color = StateResult)) +
 
 
 ```{r}
-UR = read.csv("NationalUnemploymentRatesFixed.csv")
+UR = read.csv("../Data/NationalDataUS/NationalUnemploymentRatesFixed.csv")
 ```
 
 ```{r}

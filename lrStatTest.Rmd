@@ -11,7 +11,7 @@ library(tidyverse)
 ```
 
 ```{r}
-df <- read.csv("C:/Users/sshim/JupyterNotebook/STATS170AB/Project/df_ml.csv")
+df <- read.csv("./df_ml.csv")
 glimpse(df)
 ```
 
@@ -162,18 +162,4 @@ df_pres2 <- df_pres2[, !grepl(".*male$",names(df_pres2))]
 model_pres2 <- glm(demWon ~ . + I(year_since_1990*DemPoll) + I(year_since_1990*RepPoll),
                   data=df_pres2,
                   family = "binomial")
-```
-
-```{r}
-library(MASS)
-model_pres <- stepAIC(model_pres, direction="backward")
-```
-
-```{r}
-X <- df_pres %>% 
-  mutate(year.DemPoll = year_since_1990 * DemPoll,
-         year.RepPoll = year_since_1990 * RepPoll) %>% 
-  drop(demWon)
-
-model_pres3 <- glmnet(X, df_pres$demWon)
 ```
