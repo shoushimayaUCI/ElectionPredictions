@@ -1,0 +1,2807 @@
+,state,county,fips total,1992,1996,2000,2004,2008,2012,2016,2020
+0,Alabama,Autauga,01001,R,R,R,R,R,R,R,R
+1,Alabama,Baldwin,01003,R,R,R,R,R,R,R,R
+2,Alabama,Barbour,01005,D,D,D,R,R,D,R,R
+3,Alabama,Bibb,01007,R,R,R,R,R,R,R,R
+4,Alabama,Blount,01009,R,R,R,R,R,R,R,R
+5,Alabama,Bullock,01011,D,D,D,D,D,D,D,D
+6,Alabama,Butler,01013,D,D,R,R,R,R,R,R
+7,Alabama,Calhoun,01015,R,R,R,R,R,R,R,R
+8,Alabama,Chambers,01017,D,D,R,R,R,R,R,R
+9,Alabama,Cherokee,01019,D,D,R,R,R,R,R,R
+10,Alabama,Chilton,01021,R,R,R,R,R,R,R,R
+11,Alabama,Choctaw,01023,D,D,D,R,R,R,R,R
+12,Alabama,Clarke,01025,R,D,R,R,R,R,R,R
+13,Alabama,Clay,01027,R,R,R,R,R,R,R,R
+14,Alabama,Cleburne,01029,R,R,R,R,R,R,R,R
+15,Alabama,Coffee,01031,R,R,R,R,R,R,R,R
+16,Alabama,Colbert,01033,D,D,D,R,R,R,R,R
+17,Alabama,Conecuh,01035,D,D,D,R,R,D,R,R
+18,Alabama,Coosa,01037,D,D,R,R,R,R,R,R
+19,Alabama,Covington,01039,R,R,R,R,R,R,R,R
+20,Alabama,Crenshaw,01041,D,D,R,R,R,R,R,R
+21,Alabama,Cullman,01043,R,R,R,R,R,R,R,R
+22,Alabama,Dale,01045,R,R,R,R,R,R,R,R
+23,Alabama,Dallas,01047,D,D,D,D,D,D,D,D
+24,Alabama,Elmore,01051,R,R,R,R,R,R,R,R
+25,Alabama,Escambia,01053,R,R,R,R,R,R,R,R
+26,Alabama,Etowah,01055,D,D,R,R,R,R,R,R
+27,Alabama,Fayette,01057,D,D,R,R,R,R,R,R
+28,Alabama,Franklin,01059,D,D,R,R,R,R,R,R
+29,Alabama,Geneva,01061,R,R,R,R,R,R,R,R
+30,Alabama,Greene,01063,D,D,D,D,D,D,D,D
+31,Alabama,Hale,01065,D,D,D,D,D,D,D,D
+32,Alabama,Henry,01067,R,R,R,R,R,R,R,R
+33,Alabama,Houston,01069,R,R,R,R,R,R,R,R
+34,Alabama,Jackson,01071,D,D,D,R,R,R,R,R
+35,Alabama,Jefferson,01073,R,R,R,R,D,D,D,D
+36,Alabama,Lamar,01075,R,R,R,R,R,R,R,R
+37,Alabama,Lauderdale,01077,D,R,R,R,R,R,R,R
+38,Alabama,Lawrence,01079,D,D,D,R,R,R,R,R
+39,Alabama,Lee,01081,R,R,R,R,R,R,R,R
+40,Alabama,Limestone,01083,R,R,R,R,R,R,R,R
+41,Alabama,Lowndes,01085,D,D,D,D,D,D,D,D
+42,Alabama,Macon,01087,D,D,D,D,D,D,D,D
+43,Alabama,Madison,01089,R,R,R,R,R,R,R,R
+44,Alabama,Marengo,01091,D,D,D,R,D,D,D,D
+45,Alabama,Marion,01093,D,D,R,R,R,R,R,R
+46,Alabama,Marshall,01095,R,R,R,R,R,R,R,R
+47,Alabama,Mobile,01097,R,R,R,R,R,R,R,R
+48,Alabama,Monroe,01099,R,R,R,R,R,R,R,R
+49,Alabama,Montgomery,01101,R,D,D,D,D,D,D,D
+50,Alabama,Morgan,01103,R,R,R,R,R,R,R,R
+51,Alabama,Perry,01105,D,D,D,D,D,D,D,D
+52,Alabama,Pickens,01107,D,D,R,R,R,R,R,R
+53,Alabama,Pike,01109,R,R,R,R,R,R,R,R
+54,Alabama,Randolph,01111,R,R,R,R,R,R,R,R
+55,Alabama,Russell,01113,D,D,D,D,D,D,D,D
+56,Alabama,Shelby,01117,R,R,R,R,R,R,R,R
+58,Alabama,Sumter,01119,D,D,D,D,D,D,D,D
+59,Alabama,Talladega,01121,R,R,R,R,R,R,R,R
+60,Alabama,Tallapoosa,01123,R,R,R,R,R,R,R,R
+61,Alabama,Tuscaloosa,01125,R,R,R,R,R,R,R,R
+62,Alabama,Walker,01127,D,D,R,R,R,R,R,R
+63,Alabama,Washington,01129,D,D,R,R,R,R,R,R
+64,Alabama,Wilcox,01131,D,D,D,D,D,D,D,D
+65,Alabama,Winston,01133,R,R,R,R,R,R,R,R
+66,Arizona,Apache,04001,D,D,D,D,D,D,D,D
+67,Arizona,Cochise,04003,D,R,R,R,R,R,R,R
+68,Arizona,Coconino,04005,D,D,D,D,D,D,D,D
+69,Arizona,Gila,04007,D,D,R,R,R,R,R,R
+70,Arizona,Graham,04009,R,R,R,R,R,R,R,R
+71,Arizona,Greenlee,04011,D,D,R,R,R,R,R,R
+72,Arizona,La Paz,04012,D,D,R,R,R,R,R,R
+73,Arizona,Maricopa,04013,R,R,R,R,R,R,R,D
+74,Arizona,Mohave,04015,R,R,R,R,R,R,R,R
+75,Arizona,Navajo,04017,D,D,R,R,R,R,R,R
+76,Arizona,Pima,04019,D,D,D,D,D,D,D,D
+77,Arizona,Pinal,04021,D,D,R,R,R,R,R,R
+78,Arizona,Santa Cruz,04023,D,D,D,D,D,D,D,D
+79,Arizona,Yavapai,04025,R,R,R,R,R,R,R,R
+80,Arizona,Yuma,04027,R,R,R,R,R,R,R,R
+81,Arkansas,Arkansas,05001,D,D,R,R,R,R,R,R
+82,Arkansas,Ashley,05003,D,D,D,R,R,R,R,R
+83,Arkansas,Baxter,05005,D,R,R,R,R,R,R,R
+84,Arkansas,Benton,05007,R,R,R,R,R,R,R,R
+85,Arkansas,Boone,05009,D,R,R,R,R,R,R,R
+86,Arkansas,Bradley,05011,D,D,D,D,R,R,R,R
+87,Arkansas,Calhoun,05013,D,D,R,R,R,R,R,R
+88,Arkansas,Carroll,05015,D,R,R,R,R,R,R,R
+89,Arkansas,Chicot,05017,D,D,D,D,D,D,D,D
+90,Arkansas,Clark,05019,D,D,D,D,R,R,R,R
+91,Arkansas,Clay,05021,D,D,D,D,R,R,R,R
+92,Arkansas,Cleburne,05023,D,D,R,R,R,R,R,R
+93,Arkansas,Cleveland,05025,D,D,R,R,R,R,R,R
+94,Arkansas,Columbia,05027,D,D,R,R,R,R,R,R
+95,Arkansas,Conway,05029,D,D,R,R,R,R,R,R
+96,Arkansas,Craighead,05031,D,D,D,R,R,R,R,R
+97,Arkansas,Crawford,05033,R,R,R,R,R,R,R,R
+98,Arkansas,Crittenden,05035,D,D,D,D,D,D,D,D
+99,Arkansas,Cross,05037,D,D,D,R,R,R,R,R
+100,Arkansas,Dallas,05039,D,D,D,R,R,R,R,R
+101,Arkansas,Desha,05041,D,D,D,D,D,D,D,D
+102,Arkansas,Drew,05043,D,D,D,R,R,R,R,R
+103,Arkansas,Faulkner,05045,D,D,R,R,R,R,R,R
+104,Arkansas,Franklin,05047,D,D,R,R,R,R,R,R
+105,Arkansas,Fulton,05049,D,D,R,R,R,R,R,R
+106,Arkansas,Garland,05051,D,D,R,R,R,R,R,R
+107,Arkansas,Grant,05053,D,D,R,R,R,R,R,R
+108,Arkansas,Greene,05055,D,D,D,R,R,R,R,R
+109,Arkansas,Hempstead,05057,D,D,D,D,R,R,R,R
+110,Arkansas,Hot Spring,05059,D,D,D,R,R,R,R,R
+111,Arkansas,Howard,05061,D,D,R,R,R,R,R,R
+112,Arkansas,Independence,05063,D,D,R,R,R,R,R,R
+113,Arkansas,Izard,05065,D,D,D,R,R,R,R,R
+114,Arkansas,Jackson,05067,D,D,D,D,R,R,R,R
+115,Arkansas,Jefferson,05069,D,D,D,D,D,D,D,D
+116,Arkansas,Johnson,05071,D,D,R,R,R,R,R,R
+117,Arkansas,Lafayette,05073,D,D,D,R,R,R,R,R
+118,Arkansas,Lawrence,05075,D,D,D,D,R,R,R,R
+119,Arkansas,Lee,05077,D,D,D,D,D,D,D,D
+120,Arkansas,Lincoln,05079,D,D,D,D,R,R,R,R
+121,Arkansas,Little River,05081,D,D,D,D,R,R,R,R
+122,Arkansas,Logan,05083,D,D,R,R,R,R,R,R
+123,Arkansas,Lonoke,05085,D,D,R,R,R,R,R,R
+124,Arkansas,Madison,05087,D,D,R,R,R,R,R,R
+125,Arkansas,Marion,05089,D,D,R,R,R,R,R,R
+126,Arkansas,Miller,05091,D,D,R,R,R,R,R,R
+127,Arkansas,Mississippi,05093,D,D,D,D,R,R,R,R
+128,Arkansas,Monroe,05095,D,D,D,D,R,R,R,R
+130,Arkansas,Nevada,05099,D,D,D,R,R,R,R,R
+131,Arkansas,Newton,05101,D,R,R,R,R,R,R,R
+132,Arkansas,Ouachita,05103,D,D,D,R,R,R,R,R
+133,Arkansas,Perry,05105,D,D,R,R,R,R,R,R
+134,Arkansas,Phillips,05107,D,D,D,D,D,D,D,D
+135,Arkansas,Pike,05109,D,D,R,R,R,R,R,R
+136,Arkansas,Poinsett,05111,D,D,D,D,R,R,R,R
+137,Arkansas,Polk,05113,D,R,R,R,R,R,R,R
+138,Arkansas,Pope,05115,R,D,R,R,R,R,R,R
+139,Arkansas,Prairie,05117,D,D,R,R,R,R,R,R
+140,Arkansas,Pulaski,05119,D,D,D,D,D,D,D,D
+141,Arkansas,Randolph,05121,D,D,D,D,R,R,R,R
+142,Arkansas,Saline,05125,D,D,R,R,R,R,R,R
+143,Arkansas,Scott,05127,D,D,R,R,R,R,R,R
+144,Arkansas,Searcy,05129,R,R,R,R,R,R,R,R
+145,Arkansas,Sebastian,05131,R,R,R,R,R,R,R,R
+146,Arkansas,Sevier,05133,D,D,R,R,R,R,R,R
+147,Arkansas,Sharp,05135,D,D,R,R,R,R,R,R
+149,Arkansas,Stone,05137,D,D,R,R,R,R,R,R
+150,Arkansas,Union,05139,D,D,R,R,R,R,R,R
+151,Arkansas,Van Buren,05141,D,D,R,R,R,R,R,R
+152,Arkansas,Washington,05143,D,D,R,R,R,R,R,R
+153,Arkansas,White,05145,D,D,R,R,R,R,R,R
+154,Arkansas,Woodruff,05147,D,D,D,D,D,D,R,R
+155,Arkansas,Yell,05149,D,D,R,R,R,R,R,R
+156,California,Alameda,06001,D,D,D,D,D,D,D,D
+157,California,Alpine,06003,R,R,R,D,D,D,D,D
+158,California,Amador,06005,R,R,R,R,R,R,R,R
+159,California,Butte,06007,D,R,R,R,D,R,R,D
+160,California,Calaveras,06009,R,R,R,R,R,R,R,R
+161,California,Colusa,06011,R,R,R,R,R,R,R,R
+162,California,Contra Costa,06013,D,D,D,D,D,D,D,D
+163,California,Del Norte,06015,D,R,R,R,R,R,R,R
+164,California,El Dorado,06017,R,R,R,R,R,R,R,R
+165,California,Fresno,06019,D,R,R,R,D,D,D,D
+166,California,Glenn,06021,R,R,R,R,R,R,R,R
+167,California,Humboldt,06023,D,D,D,D,D,D,D,D
+168,California,Imperial,06025,D,D,D,D,D,D,D,D
+169,California,Inyo,06027,R,R,R,R,R,R,R,D
+170,California,Kern,06029,R,R,R,R,R,R,R,R
+171,California,Kings,06031,R,R,R,R,R,R,R,R
+172,California,Lake,06033,D,D,D,D,D,D,D,D
+173,California,Lassen,06035,R,R,R,R,R,R,R,R
+174,California,Los Angeles,06037,D,D,D,D,D,D,D,D
+175,California,Madera,06039,R,R,R,R,R,R,R,R
+176,California,Marin,06041,D,D,D,D,D,D,D,D
+177,California,Mariposa,06043,D,R,R,R,R,R,R,R
+178,California,Mendocino,06045,D,D,D,D,D,D,D,D
+179,California,Merced,06047,D,D,R,R,D,D,D,D
+180,California,Modoc,06049,R,R,R,R,R,R,R,R
+181,California,Mono,06051,R,R,R,D,D,D,D,D
+182,California,Monterey,06053,D,D,D,D,D,D,D,D
+183,California,Napa,06055,D,D,D,D,D,D,D,D
+184,California,Nevada,06057,R,R,R,R,D,R,D,D
+185,California,Orange,06059,R,R,R,R,R,R,D,D
+186,California,Placer,06061,R,R,R,R,R,R,R,R
+187,California,Plumas,06063,D,R,R,R,R,R,R,R
+188,California,Riverside,06065,D,R,R,R,D,D,D,D
+189,California,Sacramento,06067,D,D,D,D,D,D,D,D
+190,California,San Benito,06069,D,D,D,D,D,D,D,D
+191,California,San Bernardino,06071,D,D,R,R,D,D,D,D
+192,California,San Diego,06073,D,R,R,R,D,D,D,D
+193,California,San Francisco,06075,D,D,D,D,D,D,D,D
+194,California,San Joaquin,06077,D,D,R,R,D,D,D,D
+195,California,San Luis Obispo,06079,D,R,R,R,D,D,D,D
+196,California,San Mateo,06081,D,D,D,D,D,D,D,D
+197,California,Santa Barbara,06083,D,D,D,D,D,D,D,D
+198,California,Santa Clara,06085,D,D,D,D,D,D,D,D
+199,California,Santa Cruz,06087,D,D,D,D,D,D,D,D
+200,California,Shasta,06089,R,R,R,R,R,R,R,R
+201,California,Sierra,06091,R,R,R,R,R,R,R,R
+202,California,Siskiyou,06093,D,R,R,R,R,R,R,R
+203,California,Solano,06095,D,D,D,D,D,D,D,D
+204,California,Sonoma,06097,D,D,D,D,D,D,D,D
+205,California,Stanislaus,06099,D,D,R,R,D,D,D,D
+206,California,Sutter,06101,R,R,R,R,R,R,R,R
+207,California,Tehama,06103,D,R,R,R,R,R,R,R
+209,California,Tulare,06107,R,R,R,R,R,R,R,R
+210,California,Tuolumne,06109,D,R,R,R,R,R,R,R
+211,California,Ventura,06111,D,D,R,R,D,D,D,D
+212,California,Yolo,06113,D,D,D,D,D,D,D,D
+213,California,Yuba,06115,R,R,R,R,R,R,R,R
+214,Colorado,Adams,08001,D,D,D,D,D,D,D,D
+215,Colorado,Alamosa,08003,D,D,R,R,D,D,D,R
+216,Colorado,Arapahoe,08005,R,R,R,R,D,D,D,D
+217,Colorado,Archuleta,08007,R,R,R,R,R,R,R,R
+218,Colorado,Baca,08009,R,R,R,R,R,R,R,R
+219,Colorado,Bent,08011,D,D,R,R,R,R,R,R
+220,Colorado,Boulder,08013,D,D,D,D,D,D,D,D
+222,Colorado,Chaffee,08015,R,R,R,R,R,D,R,D
+223,Colorado,Cheyenne,08017,R,R,R,R,R,R,R,R
+224,Colorado,Clear Creek,08019,D,D,R,D,D,D,D,D
+225,Colorado,Conejos,08021,D,D,R,D,D,D,R,R
+226,Colorado,Costilla,08023,D,D,D,D,D,D,D,D
+227,Colorado,Crowley,08025,R,R,R,R,R,R,R,R
+228,Colorado,Custer,08027,R,R,R,R,R,R,R,R
+229,Colorado,Delta,08029,R,R,R,R,R,R,R,R
+230,Colorado,Denver,08031,D,D,D,D,D,D,D,D
+231,Colorado,Dolores,08033,R,R,R,R,R,R,R,R
+232,Colorado,Douglas,08035,R,R,R,R,R,R,R,R
+233,Colorado,Eagle,08037,D,D,R,D,D,D,D,D
+234,Colorado,El Paso,08041,R,R,R,R,R,R,R,R
+235,Colorado,Elbert,08039,R,R,R,R,R,R,R,R
+236,Colorado,Fremont,08043,R,R,R,R,R,R,R,R
+237,Colorado,Garfield,08045,D,R,R,R,R,R,R,D
+238,Colorado,Gilpin,08047,D,D,D,D,D,D,D,D
+239,Colorado,Grand,08049,R,R,R,R,R,R,R,R
+240,Colorado,Gunnison,08051,D,D,R,D,D,D,D,D
+241,Colorado,Hinsdale,08053,R,R,R,R,R,R,R,R
+242,Colorado,Huerfano,08055,D,D,D,R,D,D,R,R
+243,Colorado,Jackson,08057,R,R,R,R,R,R,R,R
+244,Colorado,Jefferson,08059,R,R,R,R,D,D,D,D
+245,Colorado,Kiowa,08061,R,R,R,R,R,R,R,R
+246,Colorado,Kit Carson,08063,R,R,R,R,R,R,R,R
+247,Colorado,La Plata,08067,D,R,R,D,D,D,D,D
+248,Colorado,Lake,08065,D,D,D,D,D,D,D,D
+249,Colorado,Larimer,08069,D,R,R,R,D,D,D,D
+250,Colorado,Las Animas,08071,D,D,D,D,D,D,R,R
+251,Colorado,Lincoln,08073,R,R,R,R,R,R,R,R
+252,Colorado,Logan,08075,R,R,R,R,R,R,R,R
+253,Colorado,Mesa,08077,R,R,R,R,R,R,R,R
+254,Colorado,Mineral,08079,D,D,R,R,R,R,R,R
+256,Colorado,Montezuma,08083,R,R,R,R,R,R,R,R
+257,Colorado,Montrose,08085,R,R,R,R,R,R,R,R
+258,Colorado,Morgan,08087,R,R,R,R,R,R,R,R
+259,Colorado,Otero,08089,D,D,R,R,R,R,R,R
+260,Colorado,Ouray,08091,R,R,R,R,D,D,D,D
+261,Colorado,Park,08093,R,R,R,R,R,R,R,R
+262,Colorado,Phillips,08095,R,R,R,R,R,R,R,R
+263,Colorado,Pitkin,08097,D,D,D,D,D,D,D,D
+264,Colorado,Prowers,08099,R,R,R,R,R,R,R,R
+265,Colorado,Pueblo,08101,D,D,D,D,D,D,R,D
+266,Colorado,Rio Blanco,08103,R,R,R,R,R,R,R,R
+267,Colorado,Rio Grande,08105,R,R,R,R,R,R,R,R
+268,Colorado,Routt,08107,D,D,R,D,D,D,D,D
+269,Colorado,Saguache,08109,D,D,D,D,D,D,D,D
+271,Colorado,San Miguel,08113,D,D,D,D,D,D,D,D
+272,Colorado,Sedgwick,08115,R,R,R,R,R,R,R,R
+273,Colorado,Summit,08117,D,D,D,D,D,D,D,D
+274,Colorado,Teller,08119,R,R,R,R,R,R,R,R
+275,Colorado,Washington,08121,R,R,R,R,R,R,R,R
+276,Colorado,Weld,08123,R,R,R,R,R,R,R,R
+277,Colorado,Yuma,08125,R,R,R,R,R,R,R,R
+278,Connecticut,Fairfield,09001,R,D,D,D,D,D,D,D
+279,Connecticut,Hartford,09003,D,D,D,D,D,D,D,D
+280,Connecticut,Litchfield,09005,R,D,D,R,D,R,R,R
+281,Connecticut,Middlesex,09007,D,D,D,D,D,D,D,D
+282,Connecticut,New Haven,09009,D,D,D,D,D,D,D,D
+283,Connecticut,New London,09011,D,D,D,D,D,D,D,D
+284,Connecticut,Tolland,09013,D,D,D,D,D,D,D,D
+285,Connecticut,Windham,09015,D,D,D,D,D,D,R,R
+289,Florida,Alachua,12001,D,D,D,D,D,D,D,D
+290,Florida,Baker,12003,R,R,R,R,R,R,R,R
+291,Florida,Bay,12005,R,R,R,R,R,R,R,R
+292,Florida,Bradford,12007,R,R,R,R,R,R,R,R
+293,Florida,Brevard,12009,R,R,R,R,R,R,R,R
+294,Florida,Broward,12011,D,D,D,D,D,D,D,D
+295,Florida,Calhoun,12013,R,D,R,R,R,R,R,R
+296,Florida,Charlotte,12015,R,R,R,R,R,R,R,R
+297,Florida,Citrus,12017,R,D,R,R,R,R,R,R
+298,Florida,Clay,12019,R,R,R,R,R,R,R,R
+299,Florida,Collier,12021,R,R,R,R,R,R,R,R
+300,Florida,Columbia,12023,R,R,R,R,R,R,R,R
+301,Florida,Dixie,12029,D,D,R,R,R,R,R,R
+302,Florida,Duval,12031,R,R,R,R,R,R,R,D
+303,Florida,Escambia,12033,R,R,R,R,R,R,R,R
+304,Florida,Flagler,12035,D,D,D,R,D,R,R,R
+305,Florida,Franklin,12037,R,D,R,R,R,R,R,R
+306,Florida,Gadsden,12039,D,D,D,D,D,D,D,D
+307,Florida,Gilchrist,12041,D,D,R,R,R,R,R,R
+308,Florida,Glades,12043,D,D,R,R,R,R,R,R
+309,Florida,Gulf,12045,R,D,R,R,R,R,R,R
+310,Florida,Hamilton,12047,D,D,R,R,R,R,R,R
+311,Florida,Hardee,12049,R,R,R,R,R,R,R,R
+312,Florida,Hendry,12051,R,D,R,R,R,R,R,R
+313,Florida,Hernando,12053,D,D,D,R,R,R,R,R
+314,Florida,Highlands,12055,R,R,R,R,R,R,R,R
+315,Florida,Hillsborough,12057,R,D,R,R,D,D,D,D
+316,Florida,Holmes,12059,R,R,R,R,R,R,R,R
+317,Florida,Indian River,12061,R,R,R,R,R,R,R,R
+318,Florida,Jackson,12063,R,R,R,R,R,R,R,R
+319,Florida,Jefferson,12065,D,D,D,D,D,D,R,R
+320,Florida,Lafayette,12067,R,R,R,R,R,R,R,R
+321,Florida,Lake,12069,R,R,R,R,R,R,R,R
+322,Florida,Lee,12071,R,R,R,R,R,R,R,R
+323,Florida,Leon,12073,D,D,D,D,D,D,D,D
+324,Florida,Levy,12075,D,D,R,R,R,R,R,R
+325,Florida,Liberty,12077,R,R,R,R,R,R,R,R
+326,Florida,Madison,12079,D,D,R,R,R,R,R,R
+327,Florida,Manatee,12081,R,R,R,R,R,R,R,R
+328,Florida,Marion,12083,R,R,R,R,R,R,R,R
+329,Florida,Martin,12085,R,R,R,R,R,R,R,R
+330,Florida,Miami-Dade,12086,D,D,D,D,D,D,D,D
+331,Florida,Monroe,12087,D,D,D,D,D,D,R,R
+332,Florida,Nassau,12089,R,R,R,R,R,R,R,R
+333,Florida,Okaloosa,12091,R,R,R,R,R,R,R,R
+334,Florida,Okeechobee,12093,D,D,R,R,R,R,R,R
+335,Florida,Orange,12095,R,R,D,D,D,D,D,D
+336,Florida,Osceola,12097,R,D,D,R,D,D,D,D
+337,Florida,Palm Beach,12099,D,D,D,D,D,D,D,D
+338,Florida,Pasco,12101,D,D,D,R,R,R,R,R
+339,Florida,Pinellas,12103,D,D,D,R,D,D,R,D
+340,Florida,Polk,12105,R,R,R,R,R,R,R,R
+341,Florida,Putnam,12107,D,D,R,R,R,R,R,R
+342,Florida,Santa Rosa,12113,R,R,R,R,R,R,R,R
+343,Florida,Sarasota,12115,R,R,R,R,R,R,R,R
+344,Florida,Seminole,12117,R,R,R,R,R,R,R,D
+347,Florida,Sumter,12119,D,D,R,R,R,R,R,R
+348,Florida,Suwannee,12121,R,R,R,R,R,R,R,R
+349,Florida,Taylor,12123,R,D,R,R,R,R,R,R
+350,Florida,Union,12125,R,R,R,R,R,R,R,R
+351,Florida,Volusia,12127,D,D,D,D,D,R,R,R
+352,Florida,Wakulla,12129,R,D,R,R,R,R,R,R
+353,Florida,Walton,12131,R,R,R,R,R,R,R,R
+354,Florida,Washington,12133,R,R,R,R,R,R,R,R
+355,Georgia,Appling,13001,R,R,R,R,R,R,R,R
+356,Georgia,Atkinson,13003,D,D,R,R,R,R,R,R
+357,Georgia,Bacon,13005,D,R,R,R,R,R,R,R
+358,Georgia,Baker,13007,D,D,D,D,D,D,R,R
+359,Georgia,Baldwin,13009,D,D,R,R,D,D,D,D
+360,Georgia,Banks,13011,R,R,R,R,R,R,R,R
+361,Georgia,Barrow,13013,R,R,R,R,R,R,R,R
+362,Georgia,Bartow,13015,R,R,R,R,R,R,R,R
+363,Georgia,Ben Hill,13017,D,D,R,R,R,R,R,R
+364,Georgia,Berrien,13019,D,D,R,R,R,R,R,R
+365,Georgia,Bibb,13021,D,D,D,D,D,D,D,D
+366,Georgia,Bleckley,13023,D,R,R,R,R,R,R,R
+367,Georgia,Brantley,13025,D,R,R,R,R,R,R,R
+368,Georgia,Brooks,13027,D,D,R,R,R,R,R,R
+369,Georgia,Bryan,13029,R,R,R,R,R,R,R,R
+370,Georgia,Bulloch,13031,R,R,R,R,R,R,R,R
+371,Georgia,Burke,13033,D,D,D,R,D,D,D,R
+372,Georgia,Butts,13035,D,D,R,R,R,R,R,R
+373,Georgia,Calhoun,13037,D,D,D,D,D,D,D,D
+374,Georgia,Camden,13039,R,R,R,R,R,R,R,R
+375,Georgia,Candler,13043,D,R,R,R,R,R,R,R
+376,Georgia,Carroll,13045,R,R,R,R,R,R,R,R
+377,Georgia,Catoosa,13047,R,R,R,R,R,R,R,R
+378,Georgia,Charlton,13049,R,R,R,R,R,R,R,R
+379,Georgia,Chatham,13051,R,D,R,D,D,D,D,D
+380,Georgia,Chattahoochee,13053,D,D,D,R,D,R,R,R
+381,Georgia,Chattooga,13055,D,D,R,R,R,R,R,R
+382,Georgia,Cherokee,13057,R,R,R,R,R,R,R,R
+383,Georgia,Clarke,13059,D,D,D,D,D,D,D,D
+384,Georgia,Clay,13061,D,D,D,D,D,D,D,D
+385,Georgia,Clayton,13063,D,D,D,D,D,D,D,D
+386,Georgia,Clinch,13065,R,D,R,R,R,R,R,R
+387,Georgia,Cobb,13067,R,R,R,R,R,R,D,D
+388,Georgia,Coffee,13069,R,R,R,R,R,R,R,R
+389,Georgia,Colquitt,13071,R,R,R,R,R,R,R,R
+390,Georgia,Columbia,13073,R,R,R,R,R,R,R,R
+391,Georgia,Cook,13075,D,D,R,R,R,R,R,R
+392,Georgia,Coweta,13077,R,R,R,R,R,R,R,R
+393,Georgia,Crawford,13079,D,D,R,R,R,R,R,R
+394,Georgia,Crisp,13081,D,D,R,R,R,R,R,R
+395,Georgia,Dade,13083,R,R,R,R,R,R,R,R
+396,Georgia,Dawson,13085,R,R,R,R,R,R,R,R
+397,Georgia,Decatur,13087,D,D,R,R,R,R,R,R
+398,Georgia,Dodge,13091,D,D,R,R,R,R,R,R
+399,Georgia,Dooly,13093,D,D,D,D,D,D,R,R
+400,Georgia,Dougherty,13095,D,D,D,D,D,D,D,D
+401,Georgia,Douglas,13097,R,R,R,R,D,D,D,D
+402,Georgia,Early,13099,D,D,R,R,R,D,R,R
+403,Georgia,Echols,13101,R,R,R,R,R,R,R,R
+404,Georgia,Effingham,13103,R,R,R,R,R,R,R,R
+405,Georgia,Elbert,13105,D,D,R,R,R,R,R,R
+406,Georgia,Emanuel,13107,D,D,R,R,R,R,R,R
+407,Georgia,Evans,13109,R,R,R,R,R,R,R,R
+408,Georgia,Fannin,13111,R,R,R,R,R,R,R,R
+409,Georgia,Fayette,13113,R,R,R,R,R,R,R,R
+410,Georgia,Floyd,13115,R,R,R,R,R,R,R,R
+411,Georgia,Forsyth,13117,R,R,R,R,R,R,R,R
+412,Georgia,Franklin,13119,D,R,R,R,R,R,R,R
+413,Georgia,Fulton,13121,D,D,D,D,D,D,D,D
+414,Georgia,Gilmer,13123,R,R,R,R,R,R,R,R
+415,Georgia,Glascock,13125,R,R,R,R,R,R,R,R
+416,Georgia,Glynn,13127,R,R,R,R,R,R,R,R
+417,Georgia,Gordon,13129,R,R,R,R,R,R,R,R
+418,Georgia,Grady,13131,D,D,R,R,R,R,R,R
+419,Georgia,Greene,13133,D,D,R,R,R,R,R,R
+420,Georgia,Gwinnett,13135,R,R,R,R,R,R,D,D
+421,Georgia,Habersham,13137,R,R,R,R,R,R,R,R
+422,Georgia,Hall,13139,R,R,R,R,R,R,R,R
+423,Georgia,Hancock,13141,D,D,D,D,D,D,D,D
+424,Georgia,Haralson,13143,D,R,R,R,R,R,R,R
+425,Georgia,Harris,13145,R,R,R,R,R,R,R,R
+426,Georgia,Hart,13147,D,D,R,R,R,R,R,R
+427,Georgia,Heard,13149,D,D,R,R,R,R,R,R
+428,Georgia,Henry,13151,R,R,R,R,R,R,D,D
+429,Georgia,Houston,13153,R,R,R,R,R,R,R,R
+430,Georgia,Irwin,13155,D,D,R,R,R,R,R,R
+431,Georgia,Jackson,13157,R,R,R,R,R,R,R,R
+432,Georgia,Jasper,13159,D,D,R,R,R,R,R,R
+433,Georgia,Jeff Davis,13161,D,R,R,R,R,R,R,R
+434,Georgia,Jefferson,13163,D,D,D,D,D,D,D,D
+435,Georgia,Jenkins,13165,D,D,R,R,R,R,R,R
+436,Georgia,Johnson,13167,D,D,R,R,R,R,R,R
+437,Georgia,Jones,13169,D,R,R,R,R,R,R,R
+438,Georgia,Lamar,13171,D,D,R,R,R,R,R,R
+439,Georgia,Lanier,13173,D,D,R,R,R,R,R,R
+440,Georgia,Laurens,13175,D,R,R,R,R,R,R,R
+441,Georgia,Lee,13177,R,R,R,R,R,R,R,R
+442,Georgia,Liberty,13179,D,D,D,D,D,D,D,D
+443,Georgia,Lincoln,13181,D,R,R,R,R,R,R,R
+444,Georgia,Long,13183,D,D,R,R,R,R,R,R
+445,Georgia,Lowndes,13185,R,R,R,R,R,R,R,R
+446,Georgia,Lumpkin,13187,D,R,R,R,R,R,R,R
+447,Georgia,Macon,13193,D,D,D,D,D,D,D,D
+448,Georgia,Madison,13195,R,R,R,R,R,R,R,R
+449,Georgia,Marion,13197,D,D,R,R,R,R,R,R
+450,Georgia,Meriwether,13199,D,D,D,R,R,R,R,R
+451,Georgia,Miller,13201,D,D,R,R,R,R,R,R
+452,Georgia,Mitchell,13205,D,D,D,R,R,R,R,R
+453,Georgia,Monroe,13207,D,R,R,R,R,R,R,R
+454,Georgia,Montgomery,13209,D,D,R,R,R,R,R,R
+455,Georgia,Morgan,13211,D,R,R,R,R,R,R,R
+456,Georgia,Murray,13213,R,R,R,R,R,R,R,R
+457,Georgia,Muscogee,13215,D,D,D,D,D,D,D,D
+458,Georgia,Newton,13217,D,R,R,R,D,D,D,D
+459,Georgia,Oconee,13219,R,R,R,R,R,R,R,R
+460,Georgia,Oglethorpe,13221,R,R,R,R,R,R,R,R
+461,Georgia,Paulding,13223,R,R,R,R,R,R,R,R
+462,Georgia,Peach,13225,D,D,D,R,D,D,R,R
+463,Georgia,Pickens,13227,D,R,R,R,R,R,R,R
+464,Georgia,Pierce,13229,R,R,R,R,R,R,R,R
+465,Georgia,Pike,13231,R,R,R,R,R,R,R,R
+466,Georgia,Polk,13233,D,D,R,R,R,R,R,R
+467,Georgia,Pulaski,13235,D,D,R,R,R,R,R,R
+468,Georgia,Putnam,13237,D,D,R,R,R,R,R,R
+469,Georgia,Quitman,13239,D,D,D,D,D,D,R,R
+470,Georgia,Rabun,13241,R,R,R,R,R,R,R,R
+471,Georgia,Randolph,13243,D,D,D,D,D,D,D,D
+472,Georgia,Richmond,13245,D,D,D,D,D,D,D,D
+473,Georgia,Rockdale,13247,R,R,R,R,D,D,D,D
+474,Georgia,Schley,13249,D,D,R,R,R,R,R,R
+475,Georgia,Screven,13251,D,D,R,R,R,R,R,R
+476,Georgia,Seminole,13253,D,D,R,R,R,R,R,R
+477,Georgia,Spalding,13255,R,R,R,R,R,R,R,R
+478,Georgia,Stephens,13257,R,R,R,R,R,R,R,R
+479,Georgia,Stewart,13259,D,D,D,D,D,D,D,D
+480,Georgia,Sumter,13261,D,D,R,R,D,D,D,D
+481,Georgia,Talbot,13263,D,D,D,D,D,D,D,D
+482,Georgia,Taliaferro,13265,D,D,D,D,D,D,D,D
+483,Georgia,Tattnall,13267,R,R,R,R,R,R,R,R
+484,Georgia,Taylor,13269,D,D,R,R,R,R,R,R
+485,Georgia,Telfair,13271,D,D,D,R,R,R,R,R
+486,Georgia,Terrell,13273,D,D,D,D,D,D,D,D
+487,Georgia,Thomas,13275,R,R,R,R,R,R,R,R
+488,Georgia,Tift,13277,R,R,R,R,R,R,R,R
+489,Georgia,Toombs,13279,R,R,R,R,R,R,R,R
+490,Georgia,Towns,13281,R,R,R,R,R,R,R,R
+491,Georgia,Treutlen,13283,D,D,R,R,R,R,R,R
+492,Georgia,Troup,13285,R,R,R,R,R,R,R,R
+493,Georgia,Turner,13287,D,D,R,R,R,R,R,R
+494,Georgia,Twiggs,13289,D,D,D,D,D,D,R,R
+495,Georgia,Union,13291,R,R,R,R,R,R,R,R
+496,Georgia,Upson,13293,R,R,R,R,R,R,R,R
+497,Georgia,Walker,13295,R,R,R,R,R,R,R,R
+498,Georgia,Walton,13297,R,R,R,R,R,R,R,R
+499,Georgia,Ware,13299,R,R,R,R,R,R,R,R
+500,Georgia,Warren,13301,D,D,D,D,D,D,D,D
+501,Georgia,Washington,13303,D,D,D,R,D,D,D,D
+502,Georgia,Wayne,13305,R,R,R,R,R,R,R,R
+503,Georgia,Webster,13307,D,D,D,D,R,R,R,R
+504,Georgia,Wheeler,13309,D,D,R,R,R,R,R,R
+505,Georgia,White,13311,R,R,R,R,R,R,R,R
+506,Georgia,Whitfield,13313,R,R,R,R,R,R,R,R
+507,Georgia,Wilcox,13315,D,D,R,R,R,R,R,R
+508,Georgia,Wilkes,13317,D,D,R,R,R,R,R,R
+509,Georgia,Wilkinson,13319,D,D,D,R,R,R,R,R
+510,Georgia,Worth,13321,D,R,R,R,R,R,R,R
+511,Hawaii,Hawaii,15001,D,D,D,D,D,D,D,D
+512,Hawaii,Honolulu,15003,D,D,D,D,D,D,D,D
+513,Hawaii,Kauai,15007,D,D,D,D,D,D,D,D
+514,Hawaii,Maui,15009,D,D,D,D,D,D,D,D
+515,Idaho,Ada,16001,R,R,R,R,R,R,R,R
+516,Idaho,Adams,16003,R,R,R,R,R,R,R,R
+517,Idaho,Bannock,16005,R,R,R,R,R,R,R,R
+518,Idaho,Bear Lake,16007,R,R,R,R,R,R,R,R
+519,Idaho,Benewah,16009,D,R,R,R,R,R,R,R
+520,Idaho,Bingham,16011,R,R,R,R,R,R,R,R
+521,Idaho,Blaine,16013,D,D,D,D,D,D,D,D
+522,Idaho,Boise,16015,R,R,R,R,R,R,R,R
+523,Idaho,Bonner,16017,D,R,R,R,R,R,R,R
+524,Idaho,Bonneville,16019,R,R,R,R,R,R,R,R
+525,Idaho,Boundary,16021,R,R,R,R,R,R,R,R
+526,Idaho,Butte,16023,R,R,R,R,R,R,R,R
+527,Idaho,Camas,16025,R,R,R,R,R,R,R,R
+528,Idaho,Canyon,16027,R,R,R,R,R,R,R,R
+529,Idaho,Caribou,16029,R,R,R,R,R,R,R,R
+530,Idaho,Cassia,16031,R,R,R,R,R,R,R,R
+531,Idaho,Clark,16033,R,R,R,R,R,R,R,R
+532,Idaho,Clearwater,16035,D,R,R,R,R,R,R,R
+533,Idaho,Custer,16037,R,R,R,R,R,R,R,R
+534,Idaho,Elmore,16039,R,R,R,R,R,R,R,R
+535,Idaho,Franklin,16041,R,R,R,R,R,R,R,R
+536,Idaho,Fremont,16043,R,R,R,R,R,R,R,R
+537,Idaho,Gem,16045,R,R,R,R,R,R,R,R
+538,Idaho,Gooding,16047,R,R,R,R,R,R,R,R
+539,Idaho,Idaho,16049,R,R,R,R,R,R,R,R
+540,Idaho,Jefferson,16051,R,R,R,R,R,R,R,R
+541,Idaho,Jerome,16053,R,R,R,R,R,R,R,R
+542,Idaho,Kootenai,16055,R,R,R,R,R,R,R,R
+543,Idaho,Latah,16057,D,D,R,R,D,D,D,D
+544,Idaho,Lemhi,16059,R,R,R,R,R,R,R,R
+545,Idaho,Lewis,16061,D,R,R,R,R,R,R,R
+546,Idaho,Lincoln,16063,R,R,R,R,R,R,R,R
+547,Idaho,Madison,16065,R,R,R,R,R,R,R,R
+548,Idaho,Minidoka,16067,R,R,R,R,R,R,R,R
+549,Idaho,Nez Perce,16069,D,D,R,R,R,R,R,R
+550,Idaho,Oneida,16071,R,R,R,R,R,R,R,R
+551,Idaho,Owyhee,16073,R,R,R,R,R,R,R,R
+552,Idaho,Payette,16075,R,R,R,R,R,R,R,R
+553,Idaho,Power,16077,R,R,R,R,R,R,R,R
+554,Idaho,Shoshone,16079,D,D,R,R,R,R,R,R
+555,Idaho,Teton,16081,R,R,R,R,D,R,R,D
+556,Idaho,Twin Falls,16083,R,R,R,R,R,R,R,R
+557,Idaho,Valley,16085,R,R,R,R,R,R,R,R
+558,Idaho,Washington,16087,R,R,R,R,R,R,R,R
+559,Illinois,Adams,17001,R,R,R,R,R,R,R,R
+560,Illinois,Alexander,17003,D,D,D,D,D,D,R,R
+561,Illinois,Bond,17005,D,D,R,R,R,R,R,R
+562,Illinois,Boone,17007,R,R,R,R,D,R,R,R
+563,Illinois,Brown,17009,D,R,R,R,R,R,R,R
+564,Illinois,Bureau,17011,D,D,R,R,D,R,R,R
+565,Illinois,Calhoun,17013,D,D,D,D,D,R,R,R
+566,Illinois,Carroll,17015,R,R,R,R,D,D,R,R
+567,Illinois,Cass,17017,D,D,R,R,D,R,R,R
+568,Illinois,Champaign,17019,D,D,D,D,D,D,D,D
+569,Illinois,Christian,17021,D,D,R,R,R,R,R,R
+570,Illinois,Clark,17023,D,R,R,R,R,R,R,R
+571,Illinois,Clay,17025,D,D,R,R,R,R,R,R
+572,Illinois,Clinton,17027,D,D,R,R,R,R,R,R
+573,Illinois,Coles,17029,D,D,R,R,D,R,R,R
+574,Illinois,Cook,17031,D,D,D,D,D,D,D,D
+575,Illinois,Crawford,17033,D,R,R,R,R,R,R,R
+576,Illinois,Cumberland,17035,D,R,R,R,R,R,R,R
+578,Illinois,Douglas,17041,D,R,R,R,R,R,R,R
+579,Illinois,Edgar,17045,D,R,R,R,R,R,R,R
+580,Illinois,Edwards,17047,R,R,R,R,R,R,R,R
+581,Illinois,Effingham,17049,R,R,R,R,R,R,R,R
+582,Illinois,Fayette,17051,D,D,R,R,R,R,R,R
+583,Illinois,Ford,17053,R,R,R,R,R,R,R,R
+584,Illinois,Franklin,17055,D,D,D,R,R,R,R,R
+585,Illinois,Fulton,17057,D,D,D,D,D,D,R,R
+586,Illinois,Gallatin,17059,D,D,D,R,D,R,R,R
+587,Illinois,Greene,17061,D,D,R,R,R,R,R,R
+588,Illinois,Grundy,17063,R,D,R,R,D,R,R,R
+589,Illinois,Hamilton,17065,D,D,R,R,R,R,R,R
+590,Illinois,Hancock,17067,D,D,R,R,R,R,R,R
+591,Illinois,Hardin,17069,D,D,R,R,R,R,R,R
+592,Illinois,Henderson,17071,D,D,D,D,D,D,R,R
+593,Illinois,Henry,17073,D,D,D,R,D,D,R,R
+594,Illinois,Iroquois,17075,R,R,R,R,R,R,R,R
+595,Illinois,Jackson,17077,D,D,D,D,D,D,D,D
+596,Illinois,Jasper,17079,D,R,R,R,R,R,R,R
+597,Illinois,Jefferson,17081,D,D,R,R,R,R,R,R
+598,Illinois,Jersey,17083,D,D,R,R,R,R,R,R
+599,Illinois,Jo Daviess,17085,R,D,R,R,D,D,R,R
+600,Illinois,Johnson,17087,D,R,R,R,R,R,R,R
+601,Illinois,Kane,17089,R,R,R,R,D,D,D,D
+602,Illinois,Kankakee,17091,D,D,R,R,D,R,R,R
+603,Illinois,Kendall,17093,R,R,R,R,D,R,R,D
+604,Illinois,Knox,17095,D,D,D,D,D,D,R,R
+605,Illinois,Lake,17097,R,D,R,R,D,D,D,D
+606,Illinois,Lawrence,17101,D,D,R,R,R,R,R,R
+607,Illinois,Lee,17103,R,R,R,R,R,R,R,R
+608,Illinois,Livingston,17105,R,R,R,R,R,R,R,R
+609,Illinois,Logan,17107,R,R,R,R,R,R,R,R
+610,Illinois,Macon,17115,D,D,D,R,D,R,R,R
+611,Illinois,Macoupin,17117,D,D,D,R,D,R,R,R
+612,Illinois,Madison,17119,D,D,D,D,D,R,R,R
+613,Illinois,Marion,17121,D,D,R,R,R,R,R,R
+614,Illinois,Marshall,17123,D,D,R,R,R,R,R,R
+615,Illinois,Mason,17125,D,D,R,R,D,R,R,R
+616,Illinois,Massac,17127,D,D,R,R,R,R,R,R
+617,Illinois,Menard,17129,R,R,R,R,R,R,R,R
+618,Illinois,Mercer,17131,D,D,D,D,D,D,R,R
+619,Illinois,Monroe,17133,D,R,R,R,R,R,R,R
+620,Illinois,Montgomery,17135,D,D,D,R,D,R,R,R
+621,Illinois,Morgan,17137,R,R,R,R,R,R,R,R
+622,Illinois,Moultrie,17139,D,D,R,R,R,R,R,R
+623,Illinois,Ogle,17141,R,R,R,R,R,R,R,R
+624,Illinois,Peoria,17143,D,D,D,D,D,D,D,D
+625,Illinois,Perry,17145,D,D,D,R,R,R,R,R
+626,Illinois,Piatt,17147,D,D,R,R,R,R,R,R
+627,Illinois,Pike,17149,D,D,R,R,R,R,R,R
+628,Illinois,Pope,17151,D,D,R,R,R,R,R,R
+629,Illinois,Pulaski,17153,D,D,D,R,D,R,R,R
+630,Illinois,Putnam,17155,D,D,D,D,D,D,R,R
+631,Illinois,Randolph,17157,D,D,R,R,R,R,R,R
+632,Illinois,Richland,17159,D,R,R,R,R,R,R,R
+633,Illinois,Rock Island,17161,D,D,D,D,D,D,D,D
+634,Illinois,Saline,17165,D,D,R,R,R,R,R,R
+635,Illinois,Sangamon,17167,D,R,R,R,D,R,R,R
+636,Illinois,Schuyler,17169,D,D,R,R,D,R,R,R
+637,Illinois,Scott,17171,R,R,R,R,R,R,R,R
+638,Illinois,Shelby,17173,D,D,R,R,R,R,R,R
+640,Illinois,Stark,17175,R,R,R,R,R,R,R,R
+641,Illinois,Stephenson,17177,R,R,R,R,D,R,R,R
+642,Illinois,Tazewell,17179,D,R,R,R,R,R,R,R
+643,Illinois,Union,17181,D,D,R,R,R,R,R,R
+644,Illinois,Vermilion,17183,D,D,R,R,D,R,R,R
+645,Illinois,Wabash,17185,R,R,R,R,R,R,R,R
+646,Illinois,Warren,17187,D,D,R,R,D,D,R,R
+647,Illinois,Washington,17189,R,R,R,R,R,R,R,R
+648,Illinois,Wayne,17191,R,R,R,R,R,R,R,R
+649,Illinois,White,17193,D,D,R,R,R,R,R,R
+650,Illinois,Whiteside,17195,D,D,D,D,D,D,R,R
+651,Illinois,Will,17197,D,D,R,R,D,D,D,D
+652,Illinois,Williamson,17199,D,D,R,R,R,R,R,R
+653,Illinois,Winnebago,17201,D,D,R,R,D,D,D,D
+654,Illinois,Woodford,17203,R,R,R,R,R,R,R,R
+655,Indiana,Adams,18001,R,R,R,R,R,R,R,R
+656,Indiana,Allen,18003,R,R,R,R,R,R,R,R
+657,Indiana,Bartholomew,18005,R,R,R,R,R,R,R,R
+658,Indiana,Benton,18007,R,R,R,R,R,R,R,R
+659,Indiana,Blackford,18009,R,D,R,R,R,R,R,R
+660,Indiana,Boone,18011,R,R,R,R,R,R,R,R
+661,Indiana,Brown,18013,R,R,R,R,R,R,R,R
+662,Indiana,Carroll,18015,R,R,R,R,R,R,R,R
+663,Indiana,Cass,18017,R,R,R,R,R,R,R,R
+664,Indiana,Clark,18019,D,D,R,R,R,R,R,R
+665,Indiana,Clay,18021,R,R,R,R,R,R,R,R
+666,Indiana,Clinton,18023,R,R,R,R,R,R,R,R
+667,Indiana,Crawford,18025,D,D,R,R,R,R,R,R
+668,Indiana,Daviess,18027,R,R,R,R,R,R,R,R
+669,Indiana,Dearborn,18029,R,R,R,R,R,R,R,R
+670,Indiana,Decatur,18031,R,R,R,R,R,R,R,R
+671,Indiana,Delaware,18035,R,D,R,R,D,D,R,R
+672,Indiana,Dubois,18037,R,R,R,R,R,R,R,R
+673,Indiana,Elkhart,18039,R,R,R,R,R,R,R,R
+674,Indiana,Fayette,18041,R,R,R,R,R,R,R,R
+675,Indiana,Floyd,18043,D,D,R,R,R,R,R,R
+676,Indiana,Fountain,18045,R,R,R,R,R,R,R,R
+677,Indiana,Franklin,18047,R,R,R,R,R,R,R,R
+678,Indiana,Fulton,18049,R,R,R,R,R,R,R,R
+679,Indiana,Gibson,18051,D,D,R,R,R,R,R,R
+680,Indiana,Grant,18053,R,R,R,R,R,R,R,R
+681,Indiana,Greene,18055,D,R,R,R,R,R,R,R
+682,Indiana,Hamilton,18057,R,R,R,R,R,R,R,R
+683,Indiana,Hancock,18059,R,R,R,R,R,R,R,R
+684,Indiana,Harrison,18061,D,R,R,R,R,R,R,R
+685,Indiana,Hendricks,18063,R,R,R,R,R,R,R,R
+686,Indiana,Henry,18065,R,R,R,R,R,R,R,R
+687,Indiana,Howard,18067,R,R,R,R,R,R,R,R
+688,Indiana,Huntington,18069,R,R,R,R,R,R,R,R
+689,Indiana,Jackson,18071,R,R,R,R,R,R,R,R
+690,Indiana,Jasper,18073,R,R,R,R,R,R,R,R
+691,Indiana,Jay,18075,R,R,R,R,R,R,R,R
+692,Indiana,Jefferson,18077,D,D,R,R,R,R,R,R
+693,Indiana,Jennings,18079,R,R,R,R,R,R,R,R
+694,Indiana,Johnson,18081,R,R,R,R,R,R,R,R
+695,Indiana,Knox,18083,D,D,R,R,R,R,R,R
+696,Indiana,Kosciusko,18085,R,R,R,R,R,R,R,R
+697,Indiana,Lake,18089,D,D,D,D,D,D,D,D
+698,Indiana,Lawrence,18093,R,R,R,R,R,R,R,R
+699,Indiana,Madison,18095,R,D,R,R,D,R,R,R
+700,Indiana,Marion,18097,R,R,R,D,D,D,D,D
+701,Indiana,Marshall,18099,R,R,R,R,R,R,R,R
+702,Indiana,Martin,18101,R,R,R,R,R,R,R,R
+703,Indiana,Miami,18103,R,R,R,R,R,R,R,R
+704,Indiana,Monroe,18105,D,D,R,D,D,D,D,D
+705,Indiana,Montgomery,18107,R,R,R,R,R,R,R,R
+706,Indiana,Morgan,18109,R,R,R,R,R,R,R,R
+707,Indiana,Newton,18111,R,R,R,R,R,R,R,R
+708,Indiana,Noble,18113,R,R,R,R,R,R,R,R
+709,Indiana,Ohio,18115,R,R,R,R,R,R,R,R
+710,Indiana,Orange,18117,R,R,R,R,R,R,R,R
+711,Indiana,Owen,18119,R,R,R,R,R,R,R,R
+712,Indiana,Parke,18121,R,R,R,R,R,R,R,R
+713,Indiana,Perry,18123,D,D,D,R,D,D,R,R
+714,Indiana,Pike,18125,D,D,R,R,R,R,R,R
+715,Indiana,Porter,18127,R,D,R,R,D,D,R,R
+716,Indiana,Posey,18129,D,D,R,R,R,R,R,R
+717,Indiana,Pulaski,18131,R,R,R,R,R,R,R,R
+718,Indiana,Putnam,18133,R,R,R,R,R,R,R,R
+719,Indiana,Randolph,18135,R,R,R,R,R,R,R,R
+720,Indiana,Ripley,18137,R,R,R,R,R,R,R,R
+721,Indiana,Rush,18139,R,R,R,R,R,R,R,R
+722,Indiana,Scott,18143,D,D,D,R,R,R,R,R
+723,Indiana,Shelby,18145,R,R,R,R,R,R,R,R
+724,Indiana,Spencer,18147,D,D,R,R,D,R,R,R
+726,Indiana,Starke,18149,D,D,R,R,D,R,R,R
+727,Indiana,Steuben,18151,R,R,R,R,R,R,R,R
+728,Indiana,Sullivan,18153,D,D,R,R,R,R,R,R
+729,Indiana,Switzerland,18155,D,D,R,R,R,R,R,R
+730,Indiana,Tippecanoe,18157,R,R,R,R,D,R,R,D
+731,Indiana,Tipton,18159,R,R,R,R,R,R,R,R
+732,Indiana,Union,18161,R,R,R,R,R,R,R,R
+733,Indiana,Vanderburgh,18163,D,D,R,R,D,R,R,R
+734,Indiana,Vermillion,18165,D,D,D,R,D,R,R,R
+735,Indiana,Vigo,18167,D,D,R,R,D,D,R,R
+736,Indiana,Wabash,18169,R,R,R,R,R,R,R,R
+737,Indiana,Warren,18171,R,R,R,R,R,R,R,R
+738,Indiana,Warrick,18173,D,D,R,R,R,R,R,R
+739,Indiana,Washington,18175,D,R,R,R,R,R,R,R
+740,Indiana,Wayne,18177,R,R,R,R,R,R,R,R
+741,Indiana,Wells,18179,R,R,R,R,R,R,R,R
+742,Indiana,White,18181,R,R,R,R,R,R,R,R
+743,Indiana,Whitley,18183,R,R,R,R,R,R,R,R
+744,Iowa,Adair,19001,R,D,R,R,R,R,R,R
+745,Iowa,Adams,19003,D,D,R,R,D,R,R,R
+746,Iowa,Allamakee,19005,R,D,R,R,D,D,R,R
+747,Iowa,Appanoose,19007,D,D,R,R,R,R,R,R
+748,Iowa,Audubon,19009,D,D,R,R,D,R,R,R
+749,Iowa,Benton,19011,D,D,D,D,D,R,R,R
+750,Iowa,Black Hawk,19013,D,D,D,D,D,D,D,D
+751,Iowa,Boone,19015,D,D,D,D,D,D,R,R
+752,Iowa,Bremer,19017,D,D,R,R,D,D,R,R
+753,Iowa,Buchanan,19019,D,D,D,D,D,D,R,R
+754,Iowa,Buena Vista,19021,R,R,R,R,R,R,R,R
+755,Iowa,Butler,19023,R,D,R,R,R,R,R,R
+756,Iowa,Calhoun,19025,R,D,R,R,R,R,R,R
+757,Iowa,Carroll,19027,D,D,R,R,D,R,R,R
+758,Iowa,Cass,19029,R,R,R,R,R,R,R,R
+759,Iowa,Cedar,19031,D,D,D,R,D,D,R,R
+760,Iowa,Cerro Gordo,19033,D,D,D,D,D,D,R,R
+761,Iowa,Cherokee,19035,R,D,R,R,R,R,R,R
+762,Iowa,Chickasaw,19037,D,D,D,D,D,D,R,R
+763,Iowa,Clarke,19039,D,D,D,D,D,D,R,R
+764,Iowa,Clay,19041,D,D,R,R,R,R,R,R
+765,Iowa,Clayton,19043,D,D,D,D,D,D,R,R
+766,Iowa,Clinton,19045,D,D,D,D,D,D,R,R
+767,Iowa,Crawford,19047,D,D,R,R,D,R,R,R
+768,Iowa,Dallas,19049,D,D,R,R,R,R,R,R
+769,Iowa,Davis,19051,D,D,R,R,R,R,R,R
+770,Iowa,Decatur,19053,D,D,R,R,R,R,R,R
+771,Iowa,Delaware,19055,R,D,R,R,D,R,R,R
+772,Iowa,Des Moines,19057,D,D,D,D,D,D,R,R
+773,Iowa,Dickinson,19059,R,D,R,R,R,R,R,R
+774,Iowa,Dubuque,19061,D,D,D,D,D,D,R,R
+775,Iowa,Emmet,19063,D,D,R,R,D,R,R,R
+776,Iowa,Fayette,19065,D,D,R,D,D,D,R,R
+777,Iowa,Floyd,19067,D,D,D,D,D,D,R,R
+778,Iowa,Franklin,19069,R,D,R,R,D,R,R,R
+779,Iowa,Fremont,19071,R,R,R,R,R,R,R,R
+780,Iowa,Greene,19073,D,D,D,R,D,R,R,R
+781,Iowa,Grundy,19075,R,R,R,R,R,R,R,R
+782,Iowa,Guthrie,19077,D,D,R,R,R,R,R,R
+783,Iowa,Hamilton,19079,D,D,R,R,D,R,R,R
+784,Iowa,Hancock,19081,R,D,R,R,R,R,R,R
+785,Iowa,Hardin,19083,D,D,R,R,D,R,R,R
+786,Iowa,Harrison,19085,R,R,R,R,R,R,R,R
+787,Iowa,Henry,19087,D,D,R,R,R,R,R,R
+788,Iowa,Howard,19089,D,D,D,D,D,D,R,R
+789,Iowa,Humboldt,19091,R,R,R,R,R,R,R,R
+790,Iowa,Ida,19093,R,R,R,R,R,R,R,R
+791,Iowa,Iowa,19095,R,D,R,R,D,R,R,R
+792,Iowa,Jackson,19097,D,D,D,D,D,D,R,R
+793,Iowa,Jasper,19099,D,D,R,D,D,D,R,R
+794,Iowa,Jefferson,19101,D,D,R,D,D,D,R,R
+795,Iowa,Johnson,19103,D,D,D,D,D,D,D,D
+796,Iowa,Jones,19105,D,D,D,D,D,D,R,R
+797,Iowa,Keokuk,19107,D,D,R,R,R,R,R,R
+798,Iowa,Kossuth,19109,D,D,R,R,D,R,R,R
+799,Iowa,Lee,19111,D,D,D,D,D,D,R,R
+800,Iowa,Linn,19113,D,D,D,D,D,D,D,D
+801,Iowa,Louisa,19115,D,D,D,R,D,D,R,R
+802,Iowa,Lucas,19117,D,D,R,R,R,R,R,R
+803,Iowa,Lyon,19119,R,R,R,R,R,R,R,R
+804,Iowa,Madison,19121,D,D,R,R,R,R,R,R
+805,Iowa,Mahaska,19123,R,R,R,R,R,R,R,R
+806,Iowa,Marion,19125,R,R,R,R,R,R,R,R
+807,Iowa,Marshall,19127,D,D,R,R,D,D,R,R
+808,Iowa,Mills,19129,R,R,R,R,R,R,R,R
+809,Iowa,Mitchell,19131,D,D,D,D,D,D,R,R
+810,Iowa,Monona,19133,D,D,R,R,R,R,R,R
+811,Iowa,Monroe,19135,D,D,R,R,R,R,R,R
+812,Iowa,Montgomery,19137,R,R,R,R,R,R,R,R
+813,Iowa,Muscatine,19139,D,D,D,D,D,D,R,R
+815,Iowa,Osceola,19143,R,R,R,R,R,R,R,R
+816,Iowa,Page,19145,R,R,R,R,R,R,R,R
+817,Iowa,Palo Alto,19147,D,D,R,R,D,R,R,R
+818,Iowa,Plymouth,19149,R,R,R,R,R,R,R,R
+819,Iowa,Pocahontas,19151,D,D,R,R,R,R,R,R
+820,Iowa,Polk,19153,D,D,D,D,D,D,D,D
+821,Iowa,Pottawattamie,19155,R,R,R,R,R,R,R,R
+822,Iowa,Poweshiek,19157,D,D,R,D,D,D,R,R
+823,Iowa,Ringgold,19159,D,D,R,R,R,R,R,R
+824,Iowa,Sac,19161,R,R,R,R,R,R,R,R
+825,Iowa,Scott,19163,D,D,D,D,D,D,D,D
+826,Iowa,Shelby,19165,R,R,R,R,R,R,R,R
+827,Iowa,Sioux,19167,R,R,R,R,R,R,R,R
+828,Iowa,Story,19169,D,D,D,D,D,D,D,D
+829,Iowa,Tama,19171,D,D,D,D,D,D,R,R
+830,Iowa,Taylor,19173,D,D,R,R,R,R,R,R
+831,Iowa,Union,19175,D,D,R,R,D,D,R,R
+832,Iowa,Van Buren,19177,D,D,R,R,R,R,R,R
+833,Iowa,Wapello,19179,D,D,D,D,D,D,R,R
+834,Iowa,Warren,19181,D,D,R,R,D,R,R,R
+835,Iowa,Washington,19183,R,D,R,R,R,R,R,R
+836,Iowa,Wayne,19185,D,D,R,R,R,R,R,R
+837,Iowa,Webster,19187,D,D,D,D,D,D,R,R
+838,Iowa,Winnebago,19189,R,D,D,R,D,R,R,R
+839,Iowa,Winneshiek,19191,D,D,R,D,D,D,R,R
+840,Iowa,Woodbury,19193,R,D,R,R,R,D,R,R
+841,Iowa,Worth,19195,D,D,D,D,D,D,R,R
+842,Iowa,Wright,19197,D,D,R,R,R,R,R,R
+843,Kansas,Allen,20001,R,R,R,R,R,R,R,R
+845,Kansas,Atchison,20005,D,D,R,R,R,R,R,R
+846,Kansas,Barber,20007,R,R,R,R,R,R,R,R
+847,Kansas,Barton,20009,R,R,R,R,R,R,R,R
+848,Kansas,Bourbon,20011,R,R,R,R,R,R,R,R
+849,Kansas,Brown,20013,R,R,R,R,R,R,R,R
+850,Kansas,Butler,20015,R,R,R,R,R,R,R,R
+851,Kansas,Chase,20017,R,R,R,R,R,R,R,R
+852,Kansas,Chautauqua,20019,R,R,R,R,R,R,R,R
+853,Kansas,Cherokee,20021,D,R,R,R,R,R,R,R
+854,Kansas,Cheyenne,20023,R,R,R,R,R,R,R,R
+855,Kansas,Clark,20025,R,R,R,R,R,R,R,R
+856,Kansas,Clay,20027,R,R,R,R,R,R,R,R
+857,Kansas,Cloud,20029,R,R,R,R,R,R,R,R
+858,Kansas,Coffey,20031,R,R,R,R,R,R,R,R
+859,Kansas,Comanche,20033,R,R,R,R,R,R,R,R
+860,Kansas,Cowley,20035,R,R,R,R,R,R,R,R
+861,Kansas,Crawford,20037,D,D,R,R,D,R,R,R
+862,Kansas,Decatur,20039,R,R,R,R,R,R,R,R
+863,Kansas,Dickinson,20041,R,R,R,R,R,R,R,R
+864,Kansas,Doniphan,20043,R,R,R,R,R,R,R,R
+865,Kansas,Douglas,20045,D,D,D,D,D,D,D,D
+866,Kansas,Edwards,20047,R,R,R,R,R,R,R,R
+867,Kansas,Elk,20049,R,R,R,R,R,R,R,R
+868,Kansas,Ellis,20051,D,R,R,R,R,R,R,R
+869,Kansas,Ellsworth,20053,R,R,R,R,R,R,R,R
+870,Kansas,Finney,20055,R,R,R,R,R,R,R,R
+871,Kansas,Ford,20057,R,R,R,R,R,R,R,R
+872,Kansas,Franklin,20059,R,R,R,R,R,R,R,R
+873,Kansas,Geary,20061,R,R,R,R,R,R,R,R
+874,Kansas,Gove,20063,R,R,R,R,R,R,R,R
+875,Kansas,Graham,20065,R,R,R,R,R,R,R,R
+876,Kansas,Grant,20067,R,R,R,R,R,R,R,R
+877,Kansas,Gray,20069,R,R,R,R,R,R,R,R
+878,Kansas,Greeley,20071,R,R,R,R,R,R,R,R
+879,Kansas,Greenwood,20073,R,R,R,R,R,R,R,R
+880,Kansas,Hamilton,20075,R,R,R,R,R,R,R,R
+881,Kansas,Harper,20077,R,R,R,R,R,R,R,R
+882,Kansas,Harvey,20079,R,R,R,R,R,R,R,R
+883,Kansas,Haskell,20081,R,R,R,R,R,R,R,R
+884,Kansas,Hodgeman,20083,R,R,R,R,R,R,R,R
+885,Kansas,Jackson,20085,R,R,R,R,R,R,R,R
+887,Kansas,Jewell,20089,R,R,R,R,R,R,R,R
+888,Kansas,Johnson,20091,R,R,R,R,R,R,R,D
+889,Kansas,Kearny,20093,R,R,R,R,R,R,R,R
+890,Kansas,Kingman,20095,R,R,R,R,R,R,R,R
+891,Kansas,Kiowa,20097,R,R,R,R,R,R,R,R
+892,Kansas,Labette,20099,D,R,R,R,R,R,R,R
+893,Kansas,Lane,20101,R,R,R,R,R,R,R,R
+894,Kansas,Leavenworth,20103,D,R,R,R,R,R,R,R
+895,Kansas,Lincoln,20105,R,R,R,R,R,R,R,R
+896,Kansas,Linn,20107,R,R,R,R,R,R,R,R
+897,Kansas,Logan,20109,R,R,R,R,R,R,R,R
+898,Kansas,Lyon,20111,R,R,R,R,R,R,R,R
+899,Kansas,Marion,20115,R,R,R,R,R,R,R,R
+900,Kansas,Marshall,20117,R,R,R,R,R,R,R,R
+901,Kansas,Meade,20119,R,R,R,R,R,R,R,R
+902,Kansas,Miami,20121,D,R,R,R,R,R,R,R
+903,Kansas,Mitchell,20123,R,R,R,R,R,R,R,R
+904,Kansas,Montgomery,20125,R,R,R,R,R,R,R,R
+905,Kansas,Morris,20127,R,R,R,R,R,R,R,R
+906,Kansas,Morton,20129,R,R,R,R,R,R,R,R
+907,Kansas,Nemaha,20131,R,R,R,R,R,R,R,R
+908,Kansas,Neosho,20133,R,R,R,R,R,R,R,R
+909,Kansas,Ness,20135,R,R,R,R,R,R,R,R
+910,Kansas,Norton,20137,R,R,R,R,R,R,R,R
+911,Kansas,Osage,20139,R,R,R,R,R,R,R,R
+912,Kansas,Osborne,20141,R,R,R,R,R,R,R,R
+913,Kansas,Ottawa,20143,R,R,R,R,R,R,R,R
+914,Kansas,Pawnee,20145,R,R,R,R,R,R,R,R
+915,Kansas,Phillips,20147,R,R,R,R,R,R,R,R
+916,Kansas,Pottawatomie,20149,R,R,R,R,R,R,R,R
+917,Kansas,Pratt,20151,R,R,R,R,R,R,R,R
+918,Kansas,Rawlins,20153,R,R,R,R,R,R,R,R
+919,Kansas,Reno,20155,R,R,R,R,R,R,R,R
+920,Kansas,Republic,20157,R,R,R,R,R,R,R,R
+921,Kansas,Rice,20159,R,R,R,R,R,R,R,R
+922,Kansas,Riley,20161,R,R,R,R,R,R,R,D
+923,Kansas,Rooks,20163,R,R,R,R,R,R,R,R
+924,Kansas,Rush,20165,R,R,R,R,R,R,R,R
+925,Kansas,Russell,20167,R,R,R,R,R,R,R,R
+926,Kansas,Saline,20169,R,R,R,R,R,R,R,R
+927,Kansas,Scott,20171,R,R,R,R,R,R,R,R
+928,Kansas,Sedgwick,20173,R,R,R,R,R,R,R,R
+929,Kansas,Seward,20175,R,R,R,R,R,R,R,R
+930,Kansas,Shawnee,20177,D,R,R,R,R,R,R,D
+931,Kansas,Sheridan,20179,R,R,R,R,R,R,R,R
+932,Kansas,Sherman,20181,R,R,R,R,R,R,R,R
+933,Kansas,Smith,20183,R,R,R,R,R,R,R,R
+934,Kansas,Stafford,20185,R,R,R,R,R,R,R,R
+935,Kansas,Stanton,20187,R,R,R,R,R,R,R,R
+936,Kansas,Stevens,20189,R,R,R,R,R,R,R,R
+937,Kansas,Sumner,20191,R,R,R,R,R,R,R,R
+938,Kansas,Thomas,20193,R,R,R,R,R,R,R,R
+939,Kansas,Trego,20195,R,R,R,R,R,R,R,R
+941,Kansas,Wallace,20199,R,R,R,R,R,R,R,R
+942,Kansas,Washington,20201,R,R,R,R,R,R,R,R
+943,Kansas,Wichita,20203,R,R,R,R,R,R,R,R
+944,Kansas,Wilson,20205,R,R,R,R,R,R,R,R
+945,Kansas,Woodson,20207,R,R,R,R,R,R,R,R
+946,Kansas,Wyandotte,20209,D,D,D,D,D,D,D,D
+947,Kentucky,Adair,21001,R,R,R,R,R,R,R,R
+948,Kentucky,Allen,21003,R,R,R,R,R,R,R,R
+949,Kentucky,Anderson,21005,R,R,R,R,R,R,R,R
+950,Kentucky,Ballard,21007,D,D,D,R,R,R,R,R
+951,Kentucky,Barren,21009,D,R,R,R,R,R,R,R
+952,Kentucky,Bath,21011,D,D,R,D,R,R,R,R
+953,Kentucky,Bell,21013,D,D,R,R,R,R,R,R
+954,Kentucky,Boone,21015,R,R,R,R,R,R,R,R
+955,Kentucky,Bourbon,21017,D,D,R,R,R,R,R,R
+956,Kentucky,Boyd,21019,D,D,D,R,R,R,R,R
+957,Kentucky,Boyle,21021,R,R,R,R,R,R,R,R
+958,Kentucky,Bracken,21023,D,R,R,R,R,R,R,R
+959,Kentucky,Breathitt,21025,D,D,D,D,R,R,R,R
+960,Kentucky,Breckinridge,21027,D,R,R,R,R,R,R,R
+961,Kentucky,Bullitt,21029,D,R,R,R,R,R,R,R
+962,Kentucky,Butler,21031,R,R,R,R,R,R,R,R
+963,Kentucky,Caldwell,21033,D,D,R,R,R,R,R,R
+964,Kentucky,Calloway,21035,D,D,R,R,R,R,R,R
+965,Kentucky,Campbell,21037,R,R,R,R,R,R,R,R
+966,Kentucky,Carlisle,21039,D,D,R,R,R,R,R,R
+967,Kentucky,Carroll,21041,D,D,R,R,R,R,R,R
+968,Kentucky,Carter,21043,D,D,R,D,R,R,R,R
+969,Kentucky,Casey,21045,R,R,R,R,R,R,R,R
+970,Kentucky,Christian,21047,R,R,R,R,R,R,R,R
+971,Kentucky,Clark,21049,D,D,R,R,R,R,R,R
+972,Kentucky,Clay,21051,R,R,R,R,R,R,R,R
+973,Kentucky,Clinton,21053,R,R,R,R,R,R,R,R
+974,Kentucky,Crittenden,21055,D,R,R,R,R,R,R,R
+975,Kentucky,Cumberland,21057,R,R,R,R,R,R,R,R
+976,Kentucky,Daviess,21059,D,R,R,R,R,R,R,R
+977,Kentucky,Edmonson,21061,R,R,R,R,R,R,R,R
+978,Kentucky,Elliott,21063,D,D,D,D,D,D,R,R
+979,Kentucky,Estill,21065,R,R,R,R,R,R,R,R
+980,Kentucky,Fayette,21067,R,D,R,R,D,D,D,D
+981,Kentucky,Fleming,21069,D,R,R,R,R,R,R,R
+982,Kentucky,Floyd,21071,D,D,D,D,R,R,R,R
+983,Kentucky,Franklin,21073,D,D,D,R,R,D,R,R
+984,Kentucky,Fulton,21075,D,D,D,R,R,R,R,R
+985,Kentucky,Gallatin,21077,D,D,R,R,R,R,R,R
+986,Kentucky,Garrard,21079,R,R,R,R,R,R,R,R
+987,Kentucky,Grant,21081,R,R,R,R,R,R,R,R
+988,Kentucky,Graves,21083,D,D,R,R,R,R,R,R
+989,Kentucky,Grayson,21085,R,R,R,R,R,R,R,R
+990,Kentucky,Green,21087,R,R,R,R,R,R,R,R
+991,Kentucky,Greenup,21089,D,D,R,R,R,R,R,R
+992,Kentucky,Hancock,21091,D,D,R,R,D,R,R,R
+993,Kentucky,Hardin,21093,R,R,R,R,R,R,R,R
+994,Kentucky,Harlan,21095,D,D,D,R,R,R,R,R
+995,Kentucky,Harrison,21097,D,D,R,R,R,R,R,R
+996,Kentucky,Hart,21099,D,R,R,R,R,R,R,R
+997,Kentucky,Henderson,21101,D,D,D,R,D,R,R,R
+998,Kentucky,Henry,21103,D,D,R,R,R,R,R,R
+999,Kentucky,Hickman,21105,D,D,R,R,R,R,R,R
+1000,Kentucky,Hopkins,21107,D,D,R,R,R,R,R,R
+1001,Kentucky,Jackson,21109,R,R,R,R,R,R,R,R
+1002,Kentucky,Jefferson,21111,D,D,D,D,D,D,D,D
+1003,Kentucky,Jessamine,21113,R,R,R,R,R,R,R,R
+1004,Kentucky,Johnson,21115,D,D,R,R,R,R,R,R
+1005,Kentucky,Kenton,21117,R,R,R,R,R,R,R,R
+1006,Kentucky,Knott,21119,D,D,D,D,R,R,R,R
+1007,Kentucky,Knox,21121,R,R,R,R,R,R,R,R
+1008,Kentucky,Larue,21123,D,R,R,R,R,R,R,R
+1009,Kentucky,Laurel,21125,R,R,R,R,R,R,R,R
+1010,Kentucky,Lawrence,21127,D,D,R,R,R,R,R,R
+1011,Kentucky,Lee,21129,R,R,R,R,R,R,R,R
+1012,Kentucky,Leslie,21131,R,R,R,R,R,R,R,R
+1013,Kentucky,Letcher,21133,D,D,D,R,R,R,R,R
+1014,Kentucky,Lewis,21135,R,R,R,R,R,R,R,R
+1015,Kentucky,Lincoln,21137,R,R,R,R,R,R,R,R
+1016,Kentucky,Livingston,21139,D,D,R,R,R,R,R,R
+1017,Kentucky,Logan,21141,D,D,R,R,R,R,R,R
+1018,Kentucky,Lyon,21143,D,D,R,R,R,R,R,R
+1019,Kentucky,Madison,21151,R,R,R,R,R,R,R,R
+1020,Kentucky,Magoffin,21153,D,D,R,D,R,R,R,R
+1021,Kentucky,Marion,21155,D,D,R,R,R,R,R,R
+1022,Kentucky,Marshall,21157,D,D,R,R,R,R,R,R
+1023,Kentucky,Martin,21159,R,D,R,R,R,R,R,R
+1024,Kentucky,Mason,21161,D,R,R,R,R,R,R,R
+1025,Kentucky,Meade,21163,D,D,R,R,R,R,R,R
+1026,Kentucky,Menifee,21165,D,D,R,D,D,R,R,R
+1027,Kentucky,Mercer,21167,R,R,R,R,R,R,R,R
+1028,Kentucky,Metcalfe,21169,D,R,R,R,R,R,R,R
+1029,Kentucky,Monroe,21171,R,R,R,R,R,R,R,R
+1030,Kentucky,Montgomery,21173,D,D,R,R,R,R,R,R
+1031,Kentucky,Morgan,21175,D,D,R,R,R,R,R,R
+1032,Kentucky,Muhlenberg,21177,D,D,D,R,R,R,R,R
+1033,Kentucky,Nelson,21179,D,D,R,R,R,R,R,R
+1034,Kentucky,Nicholas,21181,D,D,R,R,R,R,R,R
+1035,Kentucky,Ohio,21183,D,D,R,R,R,R,R,R
+1036,Kentucky,Oldham,21185,R,R,R,R,R,R,R,R
+1037,Kentucky,Owen,21187,D,R,R,R,R,R,R,R
+1038,Kentucky,Owsley,21189,R,R,R,R,R,R,R,R
+1039,Kentucky,Pendleton,21191,R,R,R,R,R,R,R,R
+1040,Kentucky,Perry,21193,D,D,D,R,R,R,R,R
+1041,Kentucky,Pike,21195,D,D,D,D,R,R,R,R
+1042,Kentucky,Powell,21197,D,D,R,R,R,R,R,R
+1043,Kentucky,Pulaski,21199,R,R,R,R,R,R,R,R
+1044,Kentucky,Robertson,21201,D,R,R,R,R,R,R,R
+1045,Kentucky,Rockcastle,21203,R,R,R,R,R,R,R,R
+1046,Kentucky,Rowan,21205,D,D,R,D,D,R,R,R
+1047,Kentucky,Russell,21207,R,R,R,R,R,R,R,R
+1048,Kentucky,Scott,21209,R,R,R,R,R,R,R,R
+1049,Kentucky,Shelby,21211,R,R,R,R,R,R,R,R
+1050,Kentucky,Simpson,21213,D,D,R,R,R,R,R,R
+1051,Kentucky,Spencer,21215,D,R,R,R,R,R,R,R
+1052,Kentucky,Taylor,21217,R,R,R,R,R,R,R,R
+1053,Kentucky,Todd,21219,D,R,R,R,R,R,R,R
+1054,Kentucky,Trigg,21221,D,D,R,R,R,R,R,R
+1055,Kentucky,Trimble,21223,D,D,R,R,R,R,R,R
+1056,Kentucky,Union,21225,D,D,R,R,R,R,R,R
+1057,Kentucky,Warren,21227,R,R,R,R,R,R,R,R
+1058,Kentucky,Washington,21229,R,R,R,R,R,R,R,R
+1059,Kentucky,Wayne,21231,R,R,R,R,R,R,R,R
+1060,Kentucky,Webster,21233,D,D,R,R,R,R,R,R
+1061,Kentucky,Whitley,21235,R,R,R,R,R,R,R,R
+1062,Kentucky,Wolfe,21237,D,D,R,D,D,R,R,R
+1063,Kentucky,Woodford,21239,R,R,R,R,R,R,R,R
+1064,Maine,Androscoggin,23001,D,D,D,D,D,D,R,R
+1065,Maine,Aroostook,23003,D,D,D,D,D,D,R,R
+1066,Maine,Cumberland,23005,D,D,D,D,D,D,D,D
+1067,Maine,Franklin,23007,D,D,D,D,D,D,R,R
+1068,Maine,Hancock,23009,D,D,D,D,D,D,D,D
+1069,Maine,Kennebec,23011,D,D,D,D,D,D,R,D
+1070,Maine,Knox,23013,D,D,D,D,D,D,D,D
+1071,Maine,Lincoln,23015,D,D,R,D,D,D,D,D
+1072,Maine,Oxford,23017,D,D,D,D,D,D,R,R
+1073,Maine,Penobscot,23019,D,D,R,D,D,D,R,R
+1075,Maine,Sagadahoc,23023,D,D,D,D,D,D,D,D
+1078,Maine,Washington,23029,D,D,R,R,D,D,R,R
+1079,Maine,York,23031,D,D,D,D,D,D,D,D
+1080,Maryland,Allegany,24001,R,R,R,R,R,R,R,R
+1081,Maryland,Anne Arundel,24003,R,R,R,R,R,R,D,D
+1082,Maryland,Baltimore,24005,D,D,D,D,D,D,D,D
+1083,Maryland,Calvert,24009,R,R,R,R,R,R,R,R
+1084,Maryland,Caroline,24011,R,R,R,R,R,R,R,R
+1085,Maryland,Carroll,24013,R,R,R,R,R,R,R,R
+1086,Maryland,Cecil,24015,R,R,R,R,R,R,R,R
+1087,Maryland,Charles,24017,R,R,D,D,D,D,D,D
+1088,Maryland,Dorchester,24019,R,D,R,R,R,R,R,R
+1089,Maryland,Frederick,24021,R,R,R,R,R,R,R,D
+1090,Maryland,Garrett,24023,R,R,R,R,R,R,R,R
+1091,Maryland,Harford,24025,R,R,R,R,R,R,R,R
+1092,Maryland,Howard,24027,D,D,D,D,D,D,D,D
+1093,Maryland,Kent,24029,R,D,R,R,D,R,R,D
+1094,Maryland,Montgomery,24031,D,D,D,D,D,D,D,D
+1095,Maryland,Somerset,24039,R,D,D,R,R,D,R,R
+1096,Maryland,Talbot,24041,R,R,R,R,R,R,R,D
+1097,Maryland,Washington,24043,R,R,R,R,R,R,R,R
+1098,Maryland,Wicomico,24045,R,R,R,R,R,R,R,R
+1099,Maryland,Worcester,24047,R,R,R,R,R,R,R,R
+1100,Massachusetts,Barnstable,25001,D,D,D,D,D,D,D,D
+1101,Massachusetts,Berkshire,25003,D,D,D,D,D,D,D,D
+1102,Massachusetts,Bristol,25005,D,D,D,D,D,D,D,D
+1103,Massachusetts,Dukes,25007,D,D,D,D,D,D,D,D
+1104,Massachusetts,Essex,25009,D,D,D,D,D,D,D,D
+1105,Massachusetts,Franklin,25011,D,D,D,D,D,D,D,D
+1106,Massachusetts,Hampden,25013,D,D,D,D,D,D,D,D
+1107,Massachusetts,Hampshire,25015,D,D,D,D,D,D,D,D
+1108,Massachusetts,Middlesex,25017,D,D,D,D,D,D,D,D
+1109,Massachusetts,Nantucket,25019,D,D,D,D,D,D,D,D
+1110,Massachusetts,Norfolk,25021,D,D,D,D,D,D,D,D
+1111,Massachusetts,Plymouth,25023,D,D,D,D,D,D,D,D
+1112,Massachusetts,Suffolk,25025,D,D,D,D,D,D,D,D
+1113,Massachusetts,Worcester,25027,D,D,D,D,D,D,D,D
+1114,Michigan,Alcona,26001,D,D,R,R,R,R,R,R
+1115,Michigan,Alger,26003,D,D,R,D,D,R,R,R
+1116,Michigan,Allegan,26005,R,R,R,R,R,R,R,R
+1117,Michigan,Alpena,26007,D,D,D,R,D,R,R,R
+1118,Michigan,Antrim,26009,R,R,R,R,R,R,R,R
+1119,Michigan,Arenac,26011,D,D,D,D,D,R,R,R
+1120,Michigan,Baraga,26013,D,D,R,R,R,R,R,R
+1121,Michigan,Barry,26015,R,R,R,R,R,R,R,R
+1122,Michigan,Bay,26017,D,D,D,D,D,D,R,R
+1123,Michigan,Benzie,26019,D,D,R,R,D,R,R,R
+1124,Michigan,Berrien,26021,R,R,R,R,D,R,R,R
+1125,Michigan,Branch,26023,R,D,R,R,R,R,R,R
+1126,Michigan,Calhoun,26025,D,D,D,R,D,D,R,R
+1127,Michigan,Cass,26027,D,D,R,R,D,R,R,R
+1128,Michigan,Charlevoix,26029,D,R,R,R,R,R,R,R
+1129,Michigan,Cheboygan,26031,D,D,R,R,R,R,R,R
+1130,Michigan,Chippewa,26033,R,D,R,R,R,R,R,R
+1131,Michigan,Clare,26035,D,D,D,R,D,R,R,R
+1132,Michigan,Clinton,26037,R,R,R,R,D,R,R,R
+1133,Michigan,Crawford,26039,D,D,R,R,R,R,R,R
+1134,Michigan,Delta,26041,D,D,R,R,D,R,R,R
+1135,Michigan,Dickinson,26043,D,D,R,R,R,R,R,R
+1136,Michigan,Eaton,26045,R,R,R,R,D,D,R,R
+1137,Michigan,Emmet,26047,R,R,R,R,R,R,R,R
+1138,Michigan,Genesee,26049,D,D,D,D,D,D,D,D
+1139,Michigan,Gladwin,26051,D,D,R,R,D,R,R,R
+1140,Michigan,Gogebic,26053,D,D,D,D,D,D,R,R
+1141,Michigan,Grand Traverse,26055,R,R,R,R,R,R,R,R
+1142,Michigan,Gratiot,26057,R,D,R,R,D,R,R,R
+1143,Michigan,Hillsdale,26059,R,R,R,R,R,R,R,R
+1144,Michigan,Houghton,26061,D,D,R,R,R,R,R,R
+1145,Michigan,Huron,26063,R,D,R,R,R,R,R,R
+1146,Michigan,Ingham,26065,D,D,D,D,D,D,D,D
+1147,Michigan,Ionia,26067,R,R,R,R,R,R,R,R
+1148,Michigan,Iosco,26069,D,D,D,R,D,R,R,R
+1149,Michigan,Iron,26071,D,D,D,R,D,R,R,R
+1150,Michigan,Isabella,26073,D,D,D,D,D,D,R,R
+1151,Michigan,Jackson,26075,R,R,R,R,D,R,R,R
+1152,Michigan,Kalamazoo,26077,D,D,D,D,D,D,D,D
+1153,Michigan,Kalkaska,26079,D,D,R,R,R,R,R,R
+1154,Michigan,Kent,26081,R,R,R,R,D,R,R,D
+1155,Michigan,Keweenaw,26083,D,D,R,R,R,R,R,R
+1156,Michigan,Lake,26085,D,D,D,D,D,D,R,R
+1157,Michigan,Lapeer,26087,R,D,R,R,R,R,R,R
+1158,Michigan,Leelanau,26089,R,R,R,R,D,R,R,D
+1159,Michigan,Lenawee,26091,D,D,R,R,D,R,R,R
+1160,Michigan,Livingston,26093,R,R,R,R,R,R,R,R
+1161,Michigan,Luce,26095,D,D,R,R,R,R,R,R
+1162,Michigan,Mackinac,26097,D,D,R,R,R,R,R,R
+1163,Michigan,Macomb,26099,R,D,D,R,D,D,R,R
+1164,Michigan,Manistee,26101,D,D,D,R,D,D,R,R
+1165,Michigan,Marquette,26103,D,D,D,D,D,D,D,D
+1166,Michigan,Mason,26105,R,D,R,R,D,R,R,R
+1167,Michigan,Mecosta,26107,D,D,R,R,R,R,R,R
+1168,Michigan,Menominee,26109,D,D,R,R,D,R,R,R
+1169,Michigan,Midland,26111,R,R,R,R,R,R,R,R
+1170,Michigan,Missaukee,26113,R,R,R,R,R,R,R,R
+1171,Michigan,Monroe,26115,D,D,D,R,D,D,R,R
+1172,Michigan,Montcalm,26117,D,D,R,R,R,R,R,R
+1173,Michigan,Montmorency,26119,D,D,R,R,R,R,R,R
+1174,Michigan,Muskegon,26121,D,D,D,D,D,D,D,D
+1175,Michigan,Newaygo,26123,R,R,R,R,R,R,R,R
+1176,Michigan,Oakland,26125,R,D,D,D,D,D,D,D
+1177,Michigan,Oceana,26127,R,D,R,R,D,R,R,R
+1178,Michigan,Ogemaw,26129,D,D,D,R,D,R,R,R
+1179,Michigan,Ontonagon,26131,D,D,R,R,D,R,R,R
+1180,Michigan,Osceola,26133,R,D,R,R,R,R,R,R
+1181,Michigan,Oscoda,26135,R,D,R,R,R,R,R,R
+1182,Michigan,Otsego,26137,R,R,R,R,R,R,R,R
+1183,Michigan,Ottawa,26139,R,R,R,R,R,R,R,R
+1184,Michigan,Presque Isle,26141,D,D,R,R,D,R,R,R
+1185,Michigan,Roscommon,26143,D,D,D,R,D,R,R,R
+1186,Michigan,Saginaw,26145,D,D,D,D,D,D,R,D
+1187,Michigan,Sanilac,26151,R,R,R,R,R,R,R,R
+1188,Michigan,Schoolcraft,26153,D,D,R,R,D,R,R,R
+1189,Michigan,Shiawassee,26155,D,D,R,R,D,D,R,R
+1192,Michigan,Tuscola,26157,D,D,R,R,R,R,R,R
+1193,Michigan,Van Buren,26159,D,D,R,R,D,D,R,R
+1194,Michigan,Washtenaw,26161,D,D,D,D,D,D,D,D
+1195,Michigan,Wayne,26163,D,D,D,D,D,D,D,D
+1196,Michigan,Wexford,26165,D,D,R,R,R,R,R,R
+1197,Minnesota,Aitkin,27001,D,D,D,R,D,R,R,R
+1198,Minnesota,Anoka,27003,D,D,R,R,R,R,R,R
+1199,Minnesota,Becker,27005,R,D,R,R,R,R,R,R
+1200,Minnesota,Beltrami,27007,D,D,R,D,D,D,R,R
+1201,Minnesota,Benton,27009,D,D,R,R,R,R,R,R
+1202,Minnesota,Big Stone,27011,D,D,D,D,D,R,R,R
+1203,Minnesota,Blue Earth,27013,D,D,R,D,D,D,R,D
+1204,Minnesota,Brown,27015,R,R,R,R,R,R,R,R
+1205,Minnesota,Carlton,27017,D,D,D,D,D,D,D,D
+1206,Minnesota,Carver,27019,R,R,R,R,R,R,R,R
+1207,Minnesota,Cass,27021,D,D,R,R,R,R,R,R
+1208,Minnesota,Chippewa,27023,D,D,R,D,D,D,R,R
+1209,Minnesota,Chisago,27025,D,D,R,R,R,R,R,R
+1210,Minnesota,Clay,27027,D,D,R,R,D,D,R,D
+1211,Minnesota,Clearwater,27029,D,D,R,R,R,R,R,R
+1212,Minnesota,Cook,27031,D,D,R,D,D,D,D,D
+1213,Minnesota,Cottonwood,27033,R,D,R,R,R,R,R,R
+1214,Minnesota,Crow Wing,27035,R,D,R,R,R,R,R,R
+1215,Minnesota,Dakota,27037,D,D,R,R,D,D,D,D
+1216,Minnesota,Dodge,27039,R,D,R,R,R,R,R,R
+1217,Minnesota,Douglas,27041,R,R,R,R,R,R,R,R
+1218,Minnesota,Faribault,27043,R,D,R,R,R,R,R,R
+1219,Minnesota,Fillmore,27045,D,D,D,D,D,D,R,R
+1220,Minnesota,Freeborn,27047,D,D,D,D,D,D,R,R
+1221,Minnesota,Goodhue,27049,D,D,R,R,R,R,R,R
+1222,Minnesota,Grant,27051,D,D,R,R,D,R,R,R
+1223,Minnesota,Hennepin,27053,D,D,D,D,D,D,D,D
+1224,Minnesota,Houston,27055,R,D,R,R,D,D,R,R
+1225,Minnesota,Hubbard,27057,D,D,R,R,R,R,R,R
+1226,Minnesota,Isanti,27059,D,D,R,R,R,R,R,R
+1227,Minnesota,Itasca,27061,D,D,D,D,D,D,R,R
+1228,Minnesota,Jackson,27063,D,D,R,R,R,R,R,R
+1229,Minnesota,Kanabec,27065,D,D,R,R,R,R,R,R
+1230,Minnesota,Kandiyohi,27067,D,D,R,R,R,R,R,R
+1231,Minnesota,Kittson,27069,D,D,R,D,D,D,R,R
+1232,Minnesota,Koochiching,27071,D,D,R,D,D,D,R,R
+1233,Minnesota,Lake,27075,D,D,D,D,D,D,D,D
+1234,Minnesota,Le Sueur,27079,D,D,R,R,R,R,R,R
+1235,Minnesota,Lincoln,27081,D,D,D,R,D,R,R,R
+1236,Minnesota,Lyon,27083,R,D,R,R,R,R,R,R
+1237,Minnesota,Mahnomen,27087,D,D,R,D,D,D,R,R
+1238,Minnesota,Marshall,27089,D,D,R,R,D,R,R,R
+1239,Minnesota,Martin,27091,R,D,R,R,R,R,R,R
+1240,Minnesota,Meeker,27093,D,D,R,R,R,R,R,R
+1241,Minnesota,Mille Lacs,27095,D,D,R,R,R,R,R,R
+1242,Minnesota,Morrison,27097,D,D,R,R,R,R,R,R
+1243,Minnesota,Mower,27099,D,D,D,D,D,D,R,R
+1244,Minnesota,Murray,27101,D,D,R,R,D,R,R,R
+1245,Minnesota,Nicollet,27103,D,D,R,D,D,D,R,D
+1246,Minnesota,Nobles,27105,D,D,R,R,R,R,R,R
+1247,Minnesota,Norman,27107,D,D,R,D,D,D,R,R
+1248,Minnesota,Olmsted,27109,R,R,R,R,D,D,D,D
+1249,Minnesota,Otter Tail,27111,R,R,R,R,R,R,R,R
+1250,Minnesota,Pennington,27113,D,D,R,R,D,R,R,R
+1251,Minnesota,Pine,27115,D,D,D,D,D,R,R,R
+1252,Minnesota,Pipestone,27117,R,R,R,R,R,R,R,R
+1253,Minnesota,Polk,27119,D,D,R,R,D,R,R,R
+1254,Minnesota,Pope,27121,D,D,R,R,D,R,R,R
+1255,Minnesota,Ramsey,27123,D,D,D,D,D,D,D,D
+1256,Minnesota,Red Lake,27125,D,D,R,R,D,R,R,R
+1257,Minnesota,Redwood,27127,R,R,R,R,R,R,R,R
+1258,Minnesota,Renville,27129,D,D,R,R,R,R,R,R
+1259,Minnesota,Rice,27131,D,D,D,D,D,D,R,R
+1260,Minnesota,Rock,27133,R,R,R,R,R,R,R,R
+1261,Minnesota,Roseau,27135,R,R,R,R,R,R,R,R
+1262,Minnesota,Scott,27139,D,D,R,R,R,R,R,R
+1263,Minnesota,Sherburne,27141,D,D,R,R,R,R,R,R
+1264,Minnesota,Sibley,27143,D,D,R,R,R,R,R,R
+1266,Minnesota,Stearns,27145,R,D,R,R,R,R,R,R
+1267,Minnesota,Steele,27147,R,D,R,R,R,R,R,R
+1268,Minnesota,Stevens,27149,D,D,R,R,D,R,R,R
+1269,Minnesota,Swift,27151,D,D,D,D,D,D,R,R
+1270,Minnesota,Todd,27153,D,D,R,R,R,R,R,R
+1271,Minnesota,Traverse,27155,D,D,R,R,D,D,R,R
+1272,Minnesota,Wabasha,27157,D,D,R,R,R,R,R,R
+1273,Minnesota,Wadena,27159,R,R,R,R,R,R,R,R
+1274,Minnesota,Waseca,27161,D,D,R,R,R,R,R,R
+1275,Minnesota,Washington,27163,D,D,R,R,D,D,D,D
+1276,Minnesota,Watonwan,27165,D,D,R,R,D,R,R,R
+1277,Minnesota,Wilkin,27167,R,R,R,R,R,R,R,R
+1278,Minnesota,Winona,27169,D,D,D,D,D,D,R,D
+1279,Minnesota,Wright,27171,D,D,R,R,R,R,R,R
+1280,Minnesota,Yellow Medicine,27173,D,D,R,R,D,R,R,R
+1362,Missouri,Adair,29001,D,R,R,R,R,R,R,R
+1363,Missouri,Andrew,29003,D,R,R,R,R,R,R,R
+1364,Missouri,Atchison,29005,D,R,R,R,R,R,R,R
+1365,Missouri,Audrain,29007,D,D,R,R,R,R,R,R
+1366,Missouri,Barry,29009,R,R,R,R,R,R,R,R
+1367,Missouri,Barton,29011,R,R,R,R,R,R,R,R
+1368,Missouri,Bates,29013,D,D,R,R,R,R,R,R
+1369,Missouri,Benton,29015,D,D,R,R,R,R,R,R
+1370,Missouri,Bollinger,29017,R,R,R,R,R,R,R,R
+1371,Missouri,Boone,29019,D,D,D,R,D,D,D,D
+1372,Missouri,Buchanan,29021,D,D,D,R,D,R,R,R
+1373,Missouri,Butler,29023,D,R,R,R,R,R,R,R
+1374,Missouri,Caldwell,29025,D,D,R,R,R,R,R,R
+1375,Missouri,Callaway,29027,D,D,R,R,R,R,R,R
+1376,Missouri,Camden,29029,R,R,R,R,R,R,R,R
+1377,Missouri,Cape Girardeau,29031,R,R,R,R,R,R,R,R
+1378,Missouri,Carroll,29033,D,D,R,R,R,R,R,R
+1379,Missouri,Carter,29035,D,R,R,R,R,R,R,R
+1380,Missouri,Cass,29037,R,R,R,R,R,R,R,R
+1381,Missouri,Cedar,29039,R,R,R,R,R,R,R,R
+1382,Missouri,Chariton,29041,D,D,R,R,R,R,R,R
+1383,Missouri,Christian,29043,R,R,R,R,R,R,R,R
+1384,Missouri,Clark,29045,D,D,R,R,R,R,R,R
+1385,Missouri,Clay,29047,D,D,D,R,R,R,R,R
+1386,Missouri,Clinton,29049,D,D,R,R,R,R,R,R
+1387,Missouri,Cole,29051,R,R,R,R,R,R,R,R
+1388,Missouri,Cooper,29053,R,R,R,R,R,R,R,R
+1389,Missouri,Crawford,29055,D,D,R,R,R,R,R,R
+1390,Missouri,Dade,29057,R,R,R,R,R,R,R,R
+1391,Missouri,Dallas,29059,D,R,R,R,R,R,R,R
+1392,Missouri,Daviess,29061,D,D,R,R,R,R,R,R
+1393,Missouri,Dent,29065,D,R,R,R,R,R,R,R
+1394,Missouri,Douglas,29067,R,R,R,R,R,R,R,R
+1395,Missouri,Dunklin,29069,D,D,R,R,R,R,R,R
+1396,Missouri,Franklin,29071,D,D,R,R,R,R,R,R
+1397,Missouri,Gasconade,29073,R,R,R,R,R,R,R,R
+1398,Missouri,Gentry,29075,D,D,R,R,R,R,R,R
+1399,Missouri,Greene,29077,R,R,R,R,R,R,R,R
+1400,Missouri,Grundy,29079,D,D,R,R,R,R,R,R
+1401,Missouri,Harrison,29081,D,R,R,R,R,R,R,R
+1402,Missouri,Henry,29083,D,D,R,R,R,R,R,R
+1403,Missouri,Hickory,29085,D,D,R,R,R,R,R,R
+1404,Missouri,Holt,29087,R,R,R,R,R,R,R,R
+1405,Missouri,Howard,29089,D,D,R,R,R,R,R,R
+1406,Missouri,Howell,29091,D,R,R,R,R,R,R,R
+1407,Missouri,Iron,29093,D,D,R,R,D,R,R,R
+1408,Missouri,Jackson,29095,D,D,D,R,R,R,R,R
+1409,Missouri,Jasper,29097,R,R,R,R,R,R,R,R
+1410,Missouri,Jefferson,29099,D,D,D,R,D,R,R,R
+1411,Missouri,Johnson,29101,D,R,R,R,R,R,R,R
+1412,Missouri,Knox,29103,D,D,R,R,R,R,R,R
+1413,Missouri,Laclede,29105,R,R,R,R,R,R,R,R
+1414,Missouri,Lafayette,29107,D,D,R,R,R,R,R,R
+1415,Missouri,Lawrence,29109,R,R,R,R,R,R,R,R
+1416,Missouri,Lewis,29111,D,D,R,R,R,R,R,R
+1417,Missouri,Lincoln,29113,D,D,R,R,R,R,R,R
+1418,Missouri,Linn,29115,D,D,R,R,R,R,R,R
+1419,Missouri,Livingston,29117,D,D,R,R,R,R,R,R
+1420,Missouri,Macon,29121,D,D,R,R,R,R,R,R
+1421,Missouri,Madison,29123,D,D,R,R,R,R,R,R
+1422,Missouri,Maries,29125,D,R,R,R,R,R,R,R
+1423,Missouri,Marion,29127,D,D,R,R,R,R,R,R
+1424,Missouri,Mercer,29129,D,D,R,R,R,R,R,R
+1425,Missouri,Miller,29131,R,R,R,R,R,R,R,R
+1426,Missouri,Mississippi,29133,D,D,D,R,R,R,R,R
+1427,Missouri,Moniteau,29135,R,R,R,R,R,R,R,R
+1428,Missouri,Monroe,29137,D,D,R,R,R,R,R,R
+1429,Missouri,Montgomery,29139,D,D,R,R,R,R,R,R
+1430,Missouri,Morgan,29141,D,R,R,R,R,R,R,R
+1431,Missouri,New Madrid,29143,D,D,D,R,R,R,R,R
+1432,Missouri,Newton,29145,R,R,R,R,R,R,R,R
+1433,Missouri,Nodaway,29147,D,D,R,R,R,R,R,R
+1434,Missouri,Oregon,29149,D,D,R,R,R,R,R,R
+1435,Missouri,Osage,29151,R,R,R,R,R,R,R,R
+1436,Missouri,Ozark,29153,R,R,R,R,R,R,R,R
+1437,Missouri,Pemiscot,29155,D,D,D,R,R,R,R,R
+1438,Missouri,Perry,29157,R,R,R,R,R,R,R,R
+1439,Missouri,Pettis,29159,R,R,R,R,R,R,R,R
+1440,Missouri,Phelps,29161,D,R,R,R,R,R,R,R
+1441,Missouri,Pike,29163,D,D,R,R,R,R,R,R
+1442,Missouri,Platte,29165,D,R,R,R,R,R,R,R
+1443,Missouri,Polk,29167,R,R,R,R,R,R,R,R
+1444,Missouri,Pulaski,29169,D,R,R,R,R,R,R,R
+1445,Missouri,Putnam,29171,R,R,R,R,R,R,R,R
+1446,Missouri,Ralls,29173,D,D,R,R,R,R,R,R
+1447,Missouri,Randolph,29175,D,D,R,R,R,R,R,R
+1448,Missouri,Ray,29177,D,D,D,R,R,R,R,R
+1449,Missouri,Reynolds,29179,D,D,R,R,R,R,R,R
+1450,Missouri,Ripley,29181,D,D,R,R,R,R,R,R
+1451,Missouri,Saline,29195,D,D,D,R,R,R,R,R
+1452,Missouri,Schuyler,29197,D,D,R,R,R,R,R,R
+1453,Missouri,Scotland,29199,D,D,R,R,R,R,R,R
+1454,Missouri,Scott,29201,D,D,R,R,R,R,R,R
+1455,Missouri,Shannon,29203,D,D,R,R,R,R,R,R
+1456,Missouri,Shelby,29205,D,D,R,R,R,R,R,R
+1462,Missouri,Stoddard,29207,D,R,R,R,R,R,R,R
+1463,Missouri,Stone,29209,R,R,R,R,R,R,R,R
+1464,Missouri,Sullivan,29211,D,D,R,R,R,R,R,R
+1465,Missouri,Taney,29213,R,R,R,R,R,R,R,R
+1466,Missouri,Texas,29215,D,R,R,R,R,R,R,R
+1467,Missouri,Vernon,29217,D,D,R,R,R,R,R,R
+1468,Missouri,Warren,29219,D,R,R,R,R,R,R,R
+1469,Missouri,Washington,29221,D,D,D,R,D,R,R,R
+1470,Missouri,Wayne,29223,D,D,R,R,R,R,R,R
+1471,Missouri,Webster,29225,R,R,R,R,R,R,R,R
+1472,Missouri,Worth,29227,D,D,R,R,R,R,R,R
+1473,Missouri,Wright,29229,R,R,R,R,R,R,R,R
+1474,Montana,Beaverhead,30001,R,R,R,R,R,R,R,R
+1475,Montana,Big Horn,30003,D,D,D,D,D,D,D,D
+1476,Montana,Blaine,30005,D,D,R,R,D,D,R,D
+1477,Montana,Broadwater,30007,R,R,R,R,R,R,R,R
+1478,Montana,Carbon,30009,R,R,R,R,R,R,R,R
+1479,Montana,Carter,30011,R,R,R,R,R,R,R,R
+1480,Montana,Cascade,30013,D,D,R,R,D,R,R,R
+1481,Montana,Chouteau,30015,R,R,R,R,R,R,R,R
+1482,Montana,Custer,30017,R,R,R,R,R,R,R,R
+1483,Montana,Daniels,30019,R,R,R,R,R,R,R,R
+1484,Montana,Dawson,30021,D,D,R,R,R,R,R,R
+1485,Montana,Deer Lodge,30023,D,D,D,D,D,D,D,D
+1486,Montana,Fallon,30025,R,R,R,R,R,R,R,R
+1487,Montana,Fergus,30027,R,R,R,R,R,R,R,R
+1488,Montana,Flathead,30029,R,R,R,R,R,R,R,R
+1489,Montana,Gallatin,30031,R,R,R,R,D,R,D,D
+1490,Montana,Garfield,30033,R,R,R,R,R,R,R,R
+1491,Montana,Glacier,30035,D,D,D,D,D,D,D,D
+1492,Montana,Golden Valley,30037,R,R,R,R,R,R,R,R
+1493,Montana,Granite,30039,R,R,R,R,R,R,R,R
+1494,Montana,Hill,30041,D,D,R,R,D,D,R,R
+1495,Montana,Jefferson,30043,R,R,R,R,R,R,R,R
+1496,Montana,Judith Basin,30045,R,R,R,R,R,R,R,R
+1497,Montana,Lake,30047,D,R,R,R,D,R,R,R
+1498,Montana,Liberty,30051,R,R,R,R,R,R,R,R
+1499,Montana,Lincoln,30053,R,R,R,R,R,R,R,R
+1500,Montana,Madison,30057,R,R,R,R,R,R,R,R
+1501,Montana,Meagher,30059,R,R,R,R,R,R,R,R
+1502,Montana,Mineral,30061,D,D,R,R,R,R,R,R
+1503,Montana,Missoula,30063,D,D,R,D,D,D,D,D
+1504,Montana,Musselshell,30065,R,R,R,R,R,R,R,R
+1505,Montana,Park,30067,R,R,R,R,R,R,R,R
+1506,Montana,Petroleum,30069,R,R,R,R,R,R,R,R
+1507,Montana,Phillips,30071,R,R,R,R,R,R,R,R
+1508,Montana,Pondera,30073,R,R,R,R,R,R,R,R
+1509,Montana,Powder River,30075,R,R,R,R,R,R,R,R
+1510,Montana,Powell,30077,R,R,R,R,R,R,R,R
+1511,Montana,Prairie,30079,R,R,R,R,R,R,R,R
+1512,Montana,Ravalli,30081,R,R,R,R,R,R,R,R
+1513,Montana,Richland,30083,R,R,R,R,R,R,R,R
+1514,Montana,Roosevelt,30085,D,D,D,D,D,D,R,R
+1515,Montana,Rosebud,30087,D,D,R,R,D,R,R,R
+1516,Montana,Sanders,30089,D,R,R,R,R,R,R,R
+1517,Montana,Sheridan,30091,D,D,R,R,R,R,R,R
+1518,Montana,Silver Bow,30093,D,D,D,D,D,D,D,D
+1519,Montana,Stillwater,30095,R,R,R,R,R,R,R,R
+1520,Montana,Sweet Grass,30097,R,R,R,R,R,R,R,R
+1521,Montana,Teton,30099,R,R,R,R,R,R,R,R
+1522,Montana,Toole,30101,R,R,R,R,R,R,R,R
+1523,Montana,Treasure,30103,R,R,R,R,R,R,R,R
+1524,Montana,Valley,30105,D,R,R,R,R,R,R,R
+1525,Montana,Wheatland,30107,R,R,R,R,R,R,R,R
+1526,Montana,Wibaux,30109,R,R,R,R,R,R,R,R
+1527,Montana,Yellowstone,30111,R,R,R,R,R,R,R,R
+1528,Nebraska,Adams,31001,R,R,R,R,R,R,R,R
+1529,Nebraska,Antelope,31003,R,R,R,R,R,R,R,R
+1530,Nebraska,Arthur,31005,R,R,R,R,R,R,R,R
+1531,Nebraska,Banner,31007,R,R,R,R,R,R,R,R
+1532,Nebraska,Blaine,31009,R,R,R,R,R,R,R,R
+1533,Nebraska,Boone,31011,R,R,R,R,R,R,R,R
+1534,Nebraska,Box Butte,31013,R,R,R,R,R,R,R,R
+1535,Nebraska,Boyd,31015,R,R,R,R,R,R,R,R
+1536,Nebraska,Brown,31017,R,R,R,R,R,R,R,R
+1537,Nebraska,Buffalo,31019,R,R,R,R,R,R,R,R
+1538,Nebraska,Burt,31021,R,R,R,R,R,R,R,R
+1539,Nebraska,Butler,31023,R,R,R,R,R,R,R,R
+1540,Nebraska,Cass,31025,R,R,R,R,R,R,R,R
+1541,Nebraska,Cedar,31027,R,R,R,R,R,R,R,R
+1542,Nebraska,Chase,31029,R,R,R,R,R,R,R,R
+1543,Nebraska,Cherry,31031,R,R,R,R,R,R,R,R
+1544,Nebraska,Cheyenne,31033,R,R,R,R,R,R,R,R
+1545,Nebraska,Clay,31035,R,R,R,R,R,R,R,R
+1546,Nebraska,Colfax,31037,R,R,R,R,R,R,R,R
+1547,Nebraska,Cuming,31039,R,R,R,R,R,R,R,R
+1548,Nebraska,Custer,31041,R,R,R,R,R,R,R,R
+1549,Nebraska,Dakota,31043,R,D,R,R,R,R,R,R
+1550,Nebraska,Dawes,31045,R,R,R,R,R,R,R,R
+1551,Nebraska,Dawson,31047,R,R,R,R,R,R,R,R
+1552,Nebraska,Deuel,31049,R,R,R,R,R,R,R,R
+1553,Nebraska,Dixon,31051,R,R,R,R,R,R,R,R
+1554,Nebraska,Dodge,31053,R,R,R,R,R,R,R,R
+1555,Nebraska,Douglas,31055,R,R,R,R,D,R,D,D
+1556,Nebraska,Dundy,31057,R,R,R,R,R,R,R,R
+1557,Nebraska,Fillmore,31059,R,R,R,R,R,R,R,R
+1558,Nebraska,Franklin,31061,R,R,R,R,R,R,R,R
+1559,Nebraska,Frontier,31063,R,R,R,R,R,R,R,R
+1560,Nebraska,Furnas,31065,R,R,R,R,R,R,R,R
+1561,Nebraska,Gage,31067,R,R,R,R,R,R,R,R
+1562,Nebraska,Garden,31069,R,R,R,R,R,R,R,R
+1563,Nebraska,Garfield,31071,R,R,R,R,R,R,R,R
+1564,Nebraska,Gosper,31073,R,R,R,R,R,R,R,R
+1565,Nebraska,Grant,31075,R,R,R,R,R,R,R,R
+1566,Nebraska,Greeley,31077,R,R,R,R,R,R,R,R
+1567,Nebraska,Hall,31079,R,R,R,R,R,R,R,R
+1568,Nebraska,Hamilton,31081,R,R,R,R,R,R,R,R
+1569,Nebraska,Harlan,31083,R,R,R,R,R,R,R,R
+1570,Nebraska,Hayes,31085,R,R,R,R,R,R,R,R
+1571,Nebraska,Hitchcock,31087,R,R,R,R,R,R,R,R
+1572,Nebraska,Holt,31089,R,R,R,R,R,R,R,R
+1573,Nebraska,Hooker,31091,R,R,R,R,R,R,R,R
+1574,Nebraska,Howard,31093,R,R,R,R,R,R,R,R
+1575,Nebraska,Jefferson,31095,R,R,R,R,R,R,R,R
+1576,Nebraska,Johnson,31097,R,R,R,R,R,R,R,R
+1577,Nebraska,Kearney,31099,R,R,R,R,R,R,R,R
+1578,Nebraska,Keith,31101,R,R,R,R,R,R,R,R
+1579,Nebraska,Keya Paha,31103,R,R,R,R,R,R,R,R
+1580,Nebraska,Kimball,31105,R,R,R,R,R,R,R,R
+1581,Nebraska,Knox,31107,R,R,R,R,R,R,R,R
+1582,Nebraska,Lancaster,31109,R,R,R,R,D,R,D,D
+1583,Nebraska,Lincoln,31111,R,R,R,R,R,R,R,R
+1584,Nebraska,Logan,31113,R,R,R,R,R,R,R,R
+1585,Nebraska,Loup,31115,R,R,R,R,R,R,R,R
+1586,Nebraska,Madison,31119,R,R,R,R,R,R,R,R
+1587,Nebraska,Merrick,31121,R,R,R,R,R,R,R,R
+1588,Nebraska,Morrill,31123,R,R,R,R,R,R,R,R
+1589,Nebraska,Nance,31125,R,R,R,R,R,R,R,R
+1590,Nebraska,Nemaha,31127,R,R,R,R,R,R,R,R
+1591,Nebraska,Nuckolls,31129,R,R,R,R,R,R,R,R
+1592,Nebraska,Otoe,31131,R,R,R,R,R,R,R,R
+1593,Nebraska,Pawnee,31133,R,R,R,R,R,R,R,R
+1594,Nebraska,Perkins,31135,R,R,R,R,R,R,R,R
+1595,Nebraska,Phelps,31137,R,R,R,R,R,R,R,R
+1596,Nebraska,Pierce,31139,R,R,R,R,R,R,R,R
+1597,Nebraska,Platte,31141,R,R,R,R,R,R,R,R
+1598,Nebraska,Polk,31143,R,R,R,R,R,R,R,R
+1599,Nebraska,Red Willow,31145,R,R,R,R,R,R,R,R
+1600,Nebraska,Richardson,31147,R,R,R,R,R,R,R,R
+1601,Nebraska,Rock,31149,R,R,R,R,R,R,R,R
+1602,Nebraska,Saline,31151,D,D,R,R,D,R,R,R
+1603,Nebraska,Sarpy,31153,R,R,R,R,R,R,R,R
+1604,Nebraska,Saunders,31155,R,R,R,R,R,R,R,R
+1605,Nebraska,Scotts Bluff,31157,R,R,R,R,R,R,R,R
+1606,Nebraska,Seward,31159,R,R,R,R,R,R,R,R
+1607,Nebraska,Sheridan,31161,R,R,R,R,R,R,R,R
+1608,Nebraska,Sherman,31163,R,R,R,R,R,R,R,R
+1609,Nebraska,Sioux,31165,R,R,R,R,R,R,R,R
+1610,Nebraska,Stanton,31167,R,R,R,R,R,R,R,R
+1611,Nebraska,Thayer,31169,R,R,R,R,R,R,R,R
+1612,Nebraska,Thomas,31171,R,R,R,R,R,R,R,R
+1613,Nebraska,Thurston,31173,R,D,R,D,D,D,R,R
+1614,Nebraska,Valley,31175,R,R,R,R,R,R,R,R
+1615,Nebraska,Washington,31177,R,R,R,R,R,R,R,R
+1616,Nebraska,Wayne,31179,R,R,R,R,R,R,R,R
+1617,Nebraska,Webster,31181,R,R,R,R,R,R,R,R
+1618,Nebraska,Wheeler,31183,R,R,R,R,R,R,R,R
+1619,Nebraska,York,31185,R,R,R,R,R,R,R,R
+1620,Nevada,Churchill,32001,R,R,R,R,R,R,R,R
+1621,Nevada,Clark,32003,D,D,D,D,D,D,D,D
+1622,Nevada,Douglas,32005,R,R,R,R,R,R,R,R
+1623,Nevada,Elko,32007,R,R,R,R,R,R,R,R
+1624,Nevada,Esmeralda,32009,R,R,R,R,R,R,R,R
+1625,Nevada,Eureka,32011,R,R,R,R,R,R,R,R
+1626,Nevada,Humboldt,32013,R,R,R,R,R,R,R,R
+1627,Nevada,Lander,32015,R,R,R,R,R,R,R,R
+1628,Nevada,Lincoln,32017,R,R,R,R,R,R,R,R
+1629,Nevada,Lyon,32019,R,R,R,R,R,R,R,R
+1630,Nevada,Mineral,32021,R,D,R,R,R,R,R,R
+1631,Nevada,Nye,32023,R,R,R,R,R,R,R,R
+1632,Nevada,Pershing,32027,R,R,R,R,R,R,R,R
+1634,Nevada,Washoe,32031,R,R,R,R,D,D,D,D
+1635,Nevada,White Pine,32033,D,R,R,R,R,R,R,R
+1636,New Hampshire,Belknap,33001,R,R,R,R,D,R,R,R
+1637,New Hampshire,Carroll,33003,R,R,R,R,D,R,R,D
+1638,New Hampshire,Cheshire,33005,D,D,D,D,D,D,D,D
+1639,New Hampshire,Coos,33007,D,D,R,D,D,D,R,R
+1640,New Hampshire,Grafton,33009,D,D,D,D,D,D,D,D
+1641,New Hampshire,Hillsborough,33011,R,D,R,R,D,D,R,D
+1642,New Hampshire,Merrimack,33013,D,D,D,D,D,D,D,D
+1643,New Hampshire,Rockingham,33015,R,D,R,R,D,R,R,D
+1644,New Hampshire,Strafford,33017,D,D,D,D,D,D,D,D
+1645,New Hampshire,Sullivan,33019,D,D,R,D,D,D,R,D
+1646,New Jersey,Atlantic,34001,D,D,D,D,D,D,D,D
+1647,New Jersey,Bergen,34003,R,D,D,D,D,D,D,D
+1648,New Jersey,Burlington,34005,D,D,D,D,D,D,D,D
+1649,New Jersey,Camden,34007,D,D,D,D,D,D,D,D
+1650,New Jersey,Cape May,34009,R,D,R,R,R,R,R,R
+1651,New Jersey,Cumberland,34011,D,D,D,D,D,D,D,D
+1652,New Jersey,Essex,34013,D,D,D,D,D,D,D,D
+1653,New Jersey,Gloucester,34015,D,D,D,D,D,D,R,D
+1654,New Jersey,Hudson,34017,D,D,D,D,D,D,D,D
+1655,New Jersey,Hunterdon,34019,R,R,R,R,R,R,R,R
+1656,New Jersey,Mercer,34021,D,D,D,D,D,D,D,D
+1657,New Jersey,Middlesex,34023,D,D,D,D,D,D,D,D
+1658,New Jersey,Monmouth,34025,R,D,D,R,R,R,R,R
+1659,New Jersey,Morris,34027,R,R,R,R,R,R,R,D
+1660,New Jersey,Ocean,34029,R,D,R,R,R,R,R,R
+1661,New Jersey,Passaic,34031,R,D,D,D,D,D,D,D
+1662,New Jersey,Salem,34033,R,D,D,R,D,D,R,R
+1663,New Jersey,Somerset,34035,R,R,R,R,D,D,D,D
+1664,New Jersey,Sussex,34037,R,R,R,R,R,R,R,R
+1665,New Jersey,Union,34039,D,D,D,D,D,D,D,D
+1666,New Jersey,Warren,34041,R,R,R,R,R,R,R,R
+1667,New Mexico,Bernalillo,35001,D,D,D,D,D,D,D,D
+1668,New Mexico,Catron,35003,R,R,R,R,R,R,R,R
+1669,New Mexico,Chaves,35005,R,R,R,R,R,R,R,R
+1670,New Mexico,Cibola,35006,D,D,D,D,D,D,D,D
+1671,New Mexico,Colfax,35007,D,D,D,R,D,D,R,R
+1672,New Mexico,Curry,35009,R,R,R,R,R,R,R,R
+1673,New Mexico,De Baca,35011,R,D,R,R,R,R,R,R
+1674,New Mexico,Eddy,35015,D,D,R,R,R,R,R,R
+1675,New Mexico,Grant,35017,D,D,D,D,D,D,D,D
+1676,New Mexico,Guadalupe,35019,D,D,D,D,D,D,D,D
+1677,New Mexico,Harding,35021,R,R,R,R,R,R,R,R
+1678,New Mexico,Hidalgo,35023,D,D,R,R,D,D,R,R
+1679,New Mexico,Lea,35025,R,R,R,R,R,R,R,R
+1680,New Mexico,Lincoln,35027,R,R,R,R,R,R,R,R
+1681,New Mexico,Los Alamos,35028,R,R,R,R,D,D,D,D
+1682,New Mexico,Luna,35029,D,D,R,R,D,R,R,R
+1683,New Mexico,Mora,35033,D,D,D,D,D,D,D,D
+1684,New Mexico,Otero,35035,R,R,R,R,R,R,R,R
+1685,New Mexico,Quay,35037,R,R,R,R,R,R,R,R
+1686,New Mexico,Rio Arriba,35039,D,D,D,D,D,D,D,D
+1687,New Mexico,Roosevelt,35041,R,R,R,R,R,R,R,R
+1688,New Mexico,San Juan,35045,R,R,R,R,R,R,R,R
+1689,New Mexico,San Miguel,35047,D,D,D,D,D,D,D,D
+1690,New Mexico,Sandoval,35043,D,D,R,R,D,D,D,D
+1691,New Mexico,Santa Fe,35049,D,D,D,D,D,D,D,D
+1692,New Mexico,Sierra,35051,D,D,R,R,R,R,R,R
+1693,New Mexico,Socorro,35053,D,D,D,D,D,D,D,D
+1694,New Mexico,Taos,35055,D,D,D,D,D,D,D,D
+1695,New Mexico,Torrance,35057,R,R,R,R,R,R,R,R
+1696,New Mexico,Union,35059,R,R,R,R,R,R,R,R
+1697,New Mexico,Valencia,35061,D,D,R,R,D,D,R,R
+1698,New York,Albany,36001,D,D,D,D,D,D,D,D
+1699,New York,Allegany,36003,R,R,R,R,R,R,R,R
+1700,New York,Bronx,36005,D,D,D,D,D,D,D,D
+1701,New York,Broome,36007,D,D,D,D,D,D,R,D
+1702,New York,Cattaraugus,36009,R,D,R,R,R,R,R,R
+1703,New York,Cayuga,36011,D,D,D,R,D,D,R,R
+1704,New York,Chautauqua,36013,D,D,R,R,D,R,R,R
+1705,New York,Chemung,36015,R,D,R,R,R,R,R,R
+1706,New York,Chenango,36017,R,D,R,R,R,R,R,R
+1707,New York,Clinton,36019,R,D,D,D,D,D,D,D
+1708,New York,Columbia,36021,R,D,D,D,D,D,D,D
+1709,New York,Cortland,36023,D,D,R,R,D,D,R,R
+1710,New York,Delaware,36025,R,D,R,R,R,R,R,R
+1711,New York,Dutchess,36027,R,D,R,R,D,D,D,D
+1712,New York,Erie,36029,D,D,D,D,D,D,D,D
+1713,New York,Essex,36031,R,D,R,R,D,D,R,D
+1714,New York,Franklin,36033,D,D,D,D,D,D,R,R
+1715,New York,Fulton,36035,R,D,R,R,R,R,R,R
+1716,New York,Genesee,36037,R,R,R,R,R,R,R,R
+1717,New York,Greene,36039,R,R,R,R,R,R,R,R
+1718,New York,Hamilton,36041,R,R,R,R,R,R,R,R
+1719,New York,Herkimer,36043,R,D,R,R,R,R,R,R
+1720,New York,Jefferson,36045,R,D,R,R,R,R,R,R
+1721,New York,Kings,36047,D,D,D,D,D,D,D,D
+1722,New York,Lewis,36049,R,D,R,R,R,R,R,R
+1723,New York,Livingston,36051,R,R,R,R,R,R,R,R
+1724,New York,Madison,36053,R,D,R,R,D,D,R,R
+1725,New York,Monroe,36055,D,D,D,D,D,D,D,D
+1726,New York,Montgomery,36057,D,D,D,R,R,R,R,R
+1727,New York,Nassau,36059,D,D,D,D,D,D,D,D
+1728,New York,New York,36061,D,D,D,D,D,D,D,D
+1729,New York,Niagara,36063,D,D,D,D,D,D,R,R
+1730,New York,Oneida,36065,R,D,R,R,R,R,R,R
+1731,New York,Onondaga,36067,D,D,D,D,D,D,D,D
+1732,New York,Ontario,36069,R,D,R,R,R,R,R,R
+1733,New York,Orange,36071,R,D,R,R,D,D,R,R
+1734,New York,Orleans,36073,R,R,R,R,R,R,R,R
+1735,New York,Oswego,36075,R,D,R,R,D,D,R,R
+1736,New York,Otsego,36077,D,D,R,R,D,D,R,R
+1737,New York,Putnam,36079,R,R,R,R,R,R,R,R
+1738,New York,Queens,36081,D,D,D,D,D,D,D,D
+1739,New York,Rensselaer,36083,D,D,D,D,D,D,R,D
+1740,New York,Richmond,36085,R,D,D,R,R,D,R,R
+1741,New York,Rockland,36087,D,D,D,R,D,D,D,D
+1742,New York,Saratoga,36091,R,D,R,R,D,D,R,D
+1743,New York,Schenectady,36093,D,D,D,D,D,D,D,D
+1744,New York,Schoharie,36095,R,D,R,R,R,R,R,R
+1745,New York,Schuyler,36097,R,D,R,R,R,R,R,R
+1746,New York,Seneca,36099,D,D,D,R,D,D,R,R
+1748,New York,Steuben,36101,R,R,R,R,R,R,R,R
+1749,New York,Suffolk,36103,R,D,D,D,D,D,R,R
+1750,New York,Sullivan,36105,D,D,D,R,D,D,R,R
+1751,New York,Tioga,36107,R,R,R,R,R,R,R,R
+1752,New York,Tompkins,36109,D,D,D,D,D,D,D,D
+1753,New York,Ulster,36111,D,D,D,D,D,D,D,D
+1754,New York,Warren,36113,R,D,R,R,D,D,R,R
+1755,New York,Washington,36115,R,D,R,R,D,D,R,R
+1756,New York,Wayne,36117,R,R,R,R,R,R,R,R
+1757,New York,Westchester,36119,D,D,D,D,D,D,D,D
+1758,New York,Wyoming,36121,R,R,R,R,R,R,R,R
+1759,New York,Yates,36123,R,D,R,R,R,R,R,R
+1760,North Carolina,Alamance,37001,R,R,R,R,R,R,R,R
+1761,North Carolina,Alexander,37003,R,R,R,R,R,R,R,R
+1762,North Carolina,Alleghany,37005,D,R,R,R,R,R,R,R
+1763,North Carolina,Anson,37007,D,D,D,D,D,D,D,D
+1764,North Carolina,Ashe,37009,R,R,R,R,R,R,R,R
+1765,North Carolina,Avery,37011,R,R,R,R,R,R,R,R
+1766,North Carolina,Beaufort,37013,R,R,R,R,R,R,R,R
+1767,North Carolina,Bertie,37015,D,D,D,D,D,D,D,D
+1768,North Carolina,Bladen,37017,D,D,D,R,D,D,R,R
+1769,North Carolina,Brunswick,37019,D,R,R,R,R,R,R,R
+1770,North Carolina,Buncombe,37021,D,D,R,R,D,D,D,D
+1771,North Carolina,Burke,37023,R,R,R,R,R,R,R,R
+1772,North Carolina,Cabarrus,37025,R,R,R,R,R,R,R,R
+1773,North Carolina,Caldwell,37027,R,R,R,R,R,R,R,R
+1774,North Carolina,Camden,37029,D,D,R,R,R,R,R,R
+1775,North Carolina,Carteret,37031,R,R,R,R,R,R,R,R
+1776,North Carolina,Caswell,37033,D,D,R,R,D,R,R,R
+1777,North Carolina,Catawba,37035,R,R,R,R,R,R,R,R
+1778,North Carolina,Chatham,37037,D,D,D,D,D,D,D,D
+1779,North Carolina,Cherokee,37039,R,R,R,R,R,R,R,R
+1780,North Carolina,Chowan,37041,D,D,D,R,R,R,R,R
+1781,North Carolina,Clay,37043,R,R,R,R,R,R,R,R
+1782,North Carolina,Cleveland,37045,R,R,R,R,R,R,R,R
+1783,North Carolina,Columbus,37047,D,D,D,R,R,R,R,R
+1784,North Carolina,Craven,37049,R,R,R,R,R,R,R,R
+1785,North Carolina,Cumberland,37051,D,D,D,R,D,D,D,D
+1786,North Carolina,Currituck,37053,R,R,R,R,R,R,R,R
+1787,North Carolina,Dare,37055,R,R,R,R,R,R,R,R
+1788,North Carolina,Davidson,37057,R,R,R,R,R,R,R,R
+1789,North Carolina,Davie,37059,R,R,R,R,R,R,R,R
+1790,North Carolina,Duplin,37061,D,D,R,R,R,R,R,R
+1791,North Carolina,Durham,37063,D,D,D,D,D,D,D,D
+1792,North Carolina,Edgecombe,37065,D,D,D,D,D,D,D,D
+1793,North Carolina,Forsyth,37067,R,R,R,R,D,D,D,D
+1794,North Carolina,Franklin,37069,D,D,R,R,R,R,R,R
+1795,North Carolina,Gaston,37071,R,R,R,R,R,R,R,R
+1796,North Carolina,Gates,37073,D,D,D,D,D,D,R,R
+1797,North Carolina,Graham,37075,R,R,R,R,R,R,R,R
+1798,North Carolina,Granville,37077,D,D,D,R,D,D,R,R
+1799,North Carolina,Greene,37079,D,R,R,R,R,R,R,R
+1800,North Carolina,Guilford,37081,D,D,R,D,D,D,D,D
+1801,North Carolina,Halifax,37083,D,D,D,D,D,D,D,D
+1802,North Carolina,Harnett,37085,R,R,R,R,R,R,R,R
+1803,North Carolina,Haywood,37087,D,D,R,R,R,R,R,R
+1804,North Carolina,Henderson,37089,R,R,R,R,R,R,R,R
+1805,North Carolina,Hertford,37091,D,D,D,D,D,D,D,D
+1806,North Carolina,Hoke,37093,D,D,D,D,D,D,D,D
+1807,North Carolina,Hyde,37095,D,D,R,R,D,R,R,R
+1808,North Carolina,Iredell,37097,R,R,R,R,R,R,R,R
+1809,North Carolina,Jackson,37099,D,D,R,R,D,R,R,R
+1810,North Carolina,Johnston,37101,R,R,R,R,R,R,R,R
+1811,North Carolina,Jones,37103,D,D,R,R,R,R,R,R
+1812,North Carolina,Lee,37105,R,R,R,R,R,R,R,R
+1813,North Carolina,Lenoir,37107,R,R,R,R,R,R,R,R
+1814,North Carolina,Lincoln,37109,R,R,R,R,R,R,R,R
+1815,North Carolina,Macon,37113,R,R,R,R,R,R,R,R
+1816,North Carolina,Madison,37115,D,D,R,R,R,R,R,R
+1817,North Carolina,Martin,37117,D,D,D,R,D,D,R,R
+1818,North Carolina,Mecklenburg,37119,R,D,R,D,D,D,D,D
+1819,North Carolina,Mitchell,37121,R,R,R,R,R,R,R,R
+1820,North Carolina,Montgomery,37123,D,D,R,R,R,R,R,R
+1821,North Carolina,Moore,37125,R,R,R,R,R,R,R,R
+1822,North Carolina,Nash,37127,R,R,R,R,R,D,R,D
+1823,North Carolina,New Hanover,37129,R,R,R,R,R,R,R,D
+1824,North Carolina,Northampton,37131,D,D,D,D,D,D,D,D
+1825,North Carolina,Onslow,37133,R,R,R,R,R,R,R,R
+1826,North Carolina,Orange,37135,D,D,D,D,D,D,D,D
+1827,North Carolina,Pamlico,37137,D,R,R,R,R,R,R,R
+1828,North Carolina,Pasquotank,37139,D,D,D,D,D,D,D,D
+1829,North Carolina,Pender,37141,D,R,R,R,R,R,R,R
+1830,North Carolina,Perquimans,37143,D,D,R,R,R,R,R,R
+1831,North Carolina,Person,37145,R,R,R,R,R,R,R,R
+1832,North Carolina,Pitt,37147,D,R,R,R,D,D,D,D
+1833,North Carolina,Polk,37149,R,R,R,R,R,R,R,R
+1834,North Carolina,Randolph,37151,R,R,R,R,R,R,R,R
+1835,North Carolina,Richmond,37153,D,D,D,D,D,D,R,R
+1836,North Carolina,Robeson,37155,D,D,D,D,D,D,R,R
+1837,North Carolina,Rockingham,37157,D,R,R,R,R,R,R,R
+1838,North Carolina,Rowan,37159,R,R,R,R,R,R,R,R
+1839,North Carolina,Rutherford,37161,R,R,R,R,R,R,R,R
+1840,North Carolina,Sampson,37163,D,R,R,R,R,R,R,R
+1841,North Carolina,Scotland,37165,D,D,D,D,D,D,D,R
+1842,North Carolina,Stanly,37167,R,R,R,R,R,R,R,R
+1843,North Carolina,Stokes,37169,R,R,R,R,R,R,R,R
+1844,North Carolina,Surry,37171,R,R,R,R,R,R,R,R
+1845,North Carolina,Swain,37173,D,D,R,R,R,R,R,R
+1846,North Carolina,Transylvania,37175,R,R,R,R,R,R,R,R
+1847,North Carolina,Tyrrell,37177,D,D,D,R,R,R,R,R
+1848,North Carolina,Union,37179,R,R,R,R,R,R,R,R
+1849,North Carolina,Vance,37181,D,D,D,D,D,D,D,D
+1850,North Carolina,Wake,37183,D,R,R,R,D,D,D,D
+1851,North Carolina,Warren,37185,D,D,D,D,D,D,D,D
+1852,North Carolina,Washington,37187,D,D,D,D,D,D,D,D
+1853,North Carolina,Watauga,37189,D,R,R,R,D,R,D,D
+1854,North Carolina,Wayne,37191,R,R,R,R,R,R,R,R
+1855,North Carolina,Wilkes,37193,R,R,R,R,R,R,R,R
+1856,North Carolina,Wilson,37195,R,R,R,R,D,D,D,D
+1857,North Carolina,Yadkin,37197,R,R,R,R,R,R,R,R
+1858,North Carolina,Yancey,37199,D,R,R,R,R,R,R,R
+1859,North Dakota,Adams,38001,R,R,R,R,R,R,R,R
+1860,North Dakota,Barnes,38003,R,R,R,R,R,R,R,R
+1861,North Dakota,Benson,38005,D,D,R,D,D,D,R,R
+1862,North Dakota,Billings,38007,R,R,R,R,R,R,R,R
+1863,North Dakota,Bottineau,38009,R,R,R,R,R,R,R,R
+1864,North Dakota,Bowman,38011,R,R,R,R,R,R,R,R
+1865,North Dakota,Burke,38013,R,R,R,R,R,R,R,R
+1866,North Dakota,Burleigh,38015,R,R,R,R,R,R,R,R
+1867,North Dakota,Cass,38017,R,R,R,R,D,R,R,R
+1868,North Dakota,Cavalier,38019,R,R,R,R,R,R,R,R
+1869,North Dakota,Dickey,38021,R,R,R,R,R,R,R,R
+1870,North Dakota,Divide,38023,D,D,R,R,R,R,R,R
+1871,North Dakota,Dunn,38025,R,R,R,R,R,R,R,R
+1872,North Dakota,Eddy,38027,R,D,R,R,D,R,R,R
+1873,North Dakota,Emmons,38029,R,R,R,R,R,R,R,R
+1874,North Dakota,Foster,38031,R,R,R,R,R,R,R,R
+1875,North Dakota,Golden Valley,38033,R,R,R,R,R,R,R,R
+1876,North Dakota,Grand Forks,38035,R,R,R,R,D,R,R,R
+1877,North Dakota,Grant,38037,R,R,R,R,R,R,R,R
+1878,North Dakota,Griggs,38039,R,R,R,R,R,R,R,R
+1879,North Dakota,Hettinger,38041,R,R,R,R,R,R,R,R
+1880,North Dakota,Kidder,38043,R,R,R,R,R,R,R,R
+1881,North Dakota,Logan,38047,R,R,R,R,R,R,R,R
+1882,North Dakota,Mercer,38057,R,R,R,R,R,R,R,R
+1883,North Dakota,Morton,38059,R,R,R,R,R,R,R,R
+1884,North Dakota,Mountrail,38061,D,D,R,R,D,R,R,R
+1885,North Dakota,Nelson,38063,R,D,R,R,D,R,R,R
+1886,North Dakota,Oliver,38065,R,R,R,R,R,R,R,R
+1887,North Dakota,Pembina,38067,R,R,R,R,R,R,R,R
+1888,North Dakota,Pierce,38069,R,R,R,R,R,R,R,R
+1889,North Dakota,Ramsey,38071,R,D,R,R,R,R,R,R
+1890,North Dakota,Ransom,38073,D,D,R,R,D,D,R,R
+1891,North Dakota,Renville,38075,R,R,R,R,R,R,R,R
+1892,North Dakota,Richland,38077,R,R,R,R,R,R,R,R
+1893,North Dakota,Rolette,38079,D,D,D,D,D,D,D,D
+1894,North Dakota,Sargent,38081,D,D,R,R,D,D,R,R
+1895,North Dakota,Sheridan,38083,R,R,R,R,R,R,R,R
+1896,North Dakota,Sioux,38085,D,D,D,D,D,D,D,D
+1897,North Dakota,Slope,38087,R,R,R,R,R,R,R,R
+1898,North Dakota,Stark,38089,R,R,R,R,R,R,R,R
+1899,North Dakota,Steele,38091,D,D,R,D,D,D,R,R
+1900,North Dakota,Stutsman,38093,R,R,R,R,R,R,R,R
+1901,North Dakota,Towner,38095,D,D,R,R,D,R,R,R
+1902,North Dakota,Traill,38097,R,D,R,R,D,R,R,R
+1903,North Dakota,Walsh,38099,R,R,R,R,R,R,R,R
+1904,North Dakota,Ward,38101,R,R,R,R,R,R,R,R
+1905,North Dakota,Wells,38103,R,R,R,R,R,R,R,R
+1906,North Dakota,Williams,38105,R,R,R,R,R,R,R,R
+1907,Ohio,Adams,39001,R,R,R,R,R,R,R,R
+1908,Ohio,Allen,39003,R,R,R,R,R,R,R,R
+1909,Ohio,Ashland,39005,R,R,R,R,R,R,R,R
+1910,Ohio,Ashtabula,39007,D,D,D,D,D,D,R,R
+1911,Ohio,Athens,39009,D,D,D,D,D,D,D,D
+1912,Ohio,Auglaize,39011,R,R,R,R,R,R,R,R
+1913,Ohio,Belmont,39013,D,D,D,D,D,R,R,R
+1914,Ohio,Brown,39015,R,R,R,R,R,R,R,R
+1915,Ohio,Butler,39017,R,R,R,R,R,R,R,R
+1916,Ohio,Carroll,39019,D,D,R,R,R,R,R,R
+1917,Ohio,Champaign,39021,R,R,R,R,R,R,R,R
+1918,Ohio,Clark,39023,D,D,D,R,R,R,R,R
+1919,Ohio,Clermont,39025,R,R,R,R,R,R,R,R
+1920,Ohio,Clinton,39027,R,R,R,R,R,R,R,R
+1921,Ohio,Columbiana,39029,D,D,R,R,R,R,R,R
+1922,Ohio,Coshocton,39031,D,R,R,R,R,R,R,R
+1923,Ohio,Crawford,39033,R,R,R,R,R,R,R,R
+1924,Ohio,Cuyahoga,39035,D,D,D,D,D,D,D,D
+1925,Ohio,Darke,39037,R,R,R,R,R,R,R,R
+1926,Ohio,Defiance,39039,R,R,R,R,R,R,R,R
+1927,Ohio,Delaware,39041,R,R,R,R,R,R,R,R
+1928,Ohio,Erie,39043,D,D,D,D,D,D,R,R
+1929,Ohio,Fairfield,39045,R,R,R,R,R,R,R,R
+1930,Ohio,Fayette,39047,R,R,R,R,R,R,R,R
+1931,Ohio,Franklin,39049,R,D,D,D,D,D,D,D
+1932,Ohio,Fulton,39051,R,R,R,R,R,R,R,R
+1933,Ohio,Gallia,39053,R,D,R,R,R,R,R,R
+1934,Ohio,Geauga,39055,R,R,R,R,R,R,R,R
+1935,Ohio,Greene,39057,R,R,R,R,R,R,R,R
+1936,Ohio,Guernsey,39059,D,D,R,R,R,R,R,R
+1937,Ohio,Hamilton,39061,R,R,R,R,D,D,D,D
+1938,Ohio,Hancock,39063,R,R,R,R,R,R,R,R
+1939,Ohio,Hardin,39065,R,R,R,R,R,R,R,R
+1940,Ohio,Harrison,39067,D,D,R,R,R,R,R,R
+1941,Ohio,Henry,39069,R,R,R,R,R,R,R,R
+1942,Ohio,Highland,39071,R,R,R,R,R,R,R,R
+1943,Ohio,Hocking,39073,D,D,R,R,R,R,R,R
+1944,Ohio,Holmes,39075,R,R,R,R,R,R,R,R
+1945,Ohio,Huron,39077,R,D,R,R,R,R,R,R
+1946,Ohio,Jackson,39079,R,D,R,R,R,R,R,R
+1947,Ohio,Jefferson,39081,D,D,D,D,D,R,R,R
+1948,Ohio,Knox,39083,R,R,R,R,R,R,R,R
+1949,Ohio,Lake,39085,R,D,R,R,D,R,R,R
+1950,Ohio,Lawrence,39087,D,D,R,R,R,R,R,R
+1951,Ohio,Licking,39089,R,R,R,R,R,R,R,R
+1952,Ohio,Logan,39091,R,R,R,R,R,R,R,R
+1953,Ohio,Lorain,39093,D,D,D,D,D,D,D,R
+1954,Ohio,Lucas,39095,D,D,D,D,D,D,D,D
+1955,Ohio,Madison,39097,R,R,R,R,R,R,R,R
+1956,Ohio,Mahoning,39099,D,D,D,D,D,D,D,R
+1957,Ohio,Marion,39101,R,R,R,R,R,R,R,R
+1958,Ohio,Medina,39103,R,R,R,R,R,R,R,R
+1959,Ohio,Meigs,39105,D,D,R,R,R,R,R,R
+1960,Ohio,Mercer,39107,R,R,R,R,R,R,R,R
+1961,Ohio,Miami,39109,R,R,R,R,R,R,R,R
+1962,Ohio,Monroe,39111,D,D,D,D,D,R,R,R
+1963,Ohio,Montgomery,39113,D,D,D,D,D,D,R,D
+1964,Ohio,Morgan,39115,R,R,R,R,R,R,R,R
+1965,Ohio,Morrow,39117,R,R,R,R,R,R,R,R
+1966,Ohio,Muskingum,39119,R,R,R,R,R,R,R,R
+1967,Ohio,Noble,39121,R,D,R,R,R,R,R,R
+1968,Ohio,Ottawa,39123,D,D,R,R,D,D,R,R
+1969,Ohio,Paulding,39125,R,R,R,R,R,R,R,R
+1970,Ohio,Perry,39127,D,D,R,R,R,R,R,R
+1971,Ohio,Pickaway,39129,R,R,R,R,R,R,R,R
+1972,Ohio,Pike,39131,D,D,R,R,R,R,R,R
+1973,Ohio,Portage,39133,D,D,D,D,D,D,R,R
+1974,Ohio,Preble,39135,R,R,R,R,R,R,R,R
+1975,Ohio,Putnam,39137,R,R,R,R,R,R,R,R
+1976,Ohio,Richland,39139,R,R,R,R,R,R,R,R
+1977,Ohio,Ross,39141,R,D,R,R,R,R,R,R
+1978,Ohio,Sandusky,39143,R,D,R,R,D,D,R,R
+1979,Ohio,Scioto,39145,D,D,R,R,R,R,R,R
+1980,Ohio,Seneca,39147,R,D,R,R,R,R,R,R
+1981,Ohio,Shelby,39149,R,R,R,R,R,R,R,R
+1982,Ohio,Stark,39151,D,D,R,D,D,D,R,R
+1983,Ohio,Summit,39153,D,D,D,D,D,D,D,D
+1984,Ohio,Trumbull,39155,D,D,D,D,D,D,R,R
+1985,Ohio,Tuscarawas,39157,D,D,R,R,D,R,R,R
+1986,Ohio,Union,39159,R,R,R,R,R,R,R,R
+1987,Ohio,Van Wert,39161,R,R,R,R,R,R,R,R
+1988,Ohio,Vinton,39163,D,D,R,R,R,R,R,R
+1989,Ohio,Warren,39165,R,R,R,R,R,R,R,R
+1990,Ohio,Washington,39167,R,R,R,R,R,R,R,R
+1991,Ohio,Wayne,39169,R,R,R,R,R,R,R,R
+1992,Ohio,Williams,39171,R,R,R,R,R,R,R,R
+1993,Ohio,Wood,39173,D,D,R,R,D,D,R,R
+1994,Ohio,Wyandot,39175,R,R,R,R,R,R,R,R
+1995,Oklahoma,Adair,40001,R,R,R,R,R,R,R,R
+1996,Oklahoma,Alfalfa,40003,R,R,R,R,R,R,R,R
+1997,Oklahoma,Atoka,40005,D,D,R,R,R,R,R,R
+1998,Oklahoma,Beaver,40007,R,R,R,R,R,R,R,R
+1999,Oklahoma,Beckham,40009,D,R,R,R,R,R,R,R
+2000,Oklahoma,Blaine,40011,R,R,R,R,R,R,R,R
+2001,Oklahoma,Bryan,40013,D,D,R,R,R,R,R,R
+2002,Oklahoma,Caddo,40015,D,D,R,R,R,R,R,R
+2003,Oklahoma,Canadian,40017,R,R,R,R,R,R,R,R
+2004,Oklahoma,Carter,40019,D,D,R,R,R,R,R,R
+2005,Oklahoma,Cherokee,40021,D,D,D,R,R,R,R,R
+2006,Oklahoma,Choctaw,40023,D,D,D,R,R,R,R,R
+2007,Oklahoma,Cimarron,40025,R,R,R,R,R,R,R,R
+2008,Oklahoma,Cleveland,40027,R,R,R,R,R,R,R,R
+2009,Oklahoma,Coal,40029,D,D,R,R,R,R,R,R
+2010,Oklahoma,Comanche,40031,R,R,R,R,R,R,R,R
+2011,Oklahoma,Cotton,40033,D,D,R,R,R,R,R,R
+2012,Oklahoma,Craig,40035,D,D,R,R,R,R,R,R
+2013,Oklahoma,Creek,40037,R,R,R,R,R,R,R,R
+2014,Oklahoma,Custer,40039,R,R,R,R,R,R,R,R
+2015,Oklahoma,Delaware,40041,D,R,R,R,R,R,R,R
+2016,Oklahoma,Dewey,40043,R,R,R,R,R,R,R,R
+2017,Oklahoma,Ellis,40045,R,R,R,R,R,R,R,R
+2018,Oklahoma,Garfield,40047,R,R,R,R,R,R,R,R
+2019,Oklahoma,Garvin,40049,D,D,R,R,R,R,R,R
+2020,Oklahoma,Grady,40051,R,R,R,R,R,R,R,R
+2021,Oklahoma,Grant,40053,R,R,R,R,R,R,R,R
+2022,Oklahoma,Greer,40055,D,D,R,R,R,R,R,R
+2023,Oklahoma,Harmon,40057,D,D,R,R,R,R,R,R
+2024,Oklahoma,Harper,40059,R,R,R,R,R,R,R,R
+2025,Oklahoma,Haskell,40061,D,D,D,R,R,R,R,R
+2026,Oklahoma,Hughes,40063,D,D,D,R,R,R,R,R
+2027,Oklahoma,Jackson,40065,R,R,R,R,R,R,R,R
+2028,Oklahoma,Jefferson,40067,D,D,R,R,R,R,R,R
+2029,Oklahoma,Johnston,40069,D,D,R,R,R,R,R,R
+2030,Oklahoma,Kay,40071,R,R,R,R,R,R,R,R
+2031,Oklahoma,Kingfisher,40073,R,R,R,R,R,R,R,R
+2032,Oklahoma,Kiowa,40075,D,D,R,R,R,R,R,R
+2033,Oklahoma,Latimer,40077,D,D,D,R,R,R,R,R
+2034,Oklahoma,Le Flore,40079,D,D,R,R,R,R,R,R
+2035,Oklahoma,Lincoln,40081,R,R,R,R,R,R,R,R
+2036,Oklahoma,Logan,40083,R,R,R,R,R,R,R,R
+2037,Oklahoma,Love,40085,D,D,R,R,R,R,R,R
+2038,Oklahoma,Major,40093,R,R,R,R,R,R,R,R
+2039,Oklahoma,Marshall,40095,D,D,R,R,R,R,R,R
+2040,Oklahoma,Mayes,40097,D,D,R,R,R,R,R,R
+2041,Oklahoma,Murray,40099,D,D,R,R,R,R,R,R
+2042,Oklahoma,Muskogee,40101,D,D,D,R,R,R,R,R
+2043,Oklahoma,Noble,40103,R,R,R,R,R,R,R,R
+2044,Oklahoma,Nowata,40105,D,D,R,R,R,R,R,R
+2045,Oklahoma,Okfuskee,40107,D,D,R,R,R,R,R,R
+2046,Oklahoma,Oklahoma,40109,R,R,R,R,R,R,R,R
+2047,Oklahoma,Okmulgee,40111,D,D,D,R,R,R,R,R
+2048,Oklahoma,Osage,40113,D,D,R,R,R,R,R,R
+2049,Oklahoma,Ottawa,40115,D,D,D,R,R,R,R,R
+2050,Oklahoma,Pawnee,40117,R,D,R,R,R,R,R,R
+2051,Oklahoma,Payne,40119,R,R,R,R,R,R,R,R
+2052,Oklahoma,Pittsburg,40121,D,D,R,R,R,R,R,R
+2053,Oklahoma,Pontotoc,40123,D,D,R,R,R,R,R,R
+2054,Oklahoma,Pottawatomie,40125,R,R,R,R,R,R,R,R
+2055,Oklahoma,Pushmataha,40127,D,D,R,R,R,R,R,R
+2056,Oklahoma,Roger Mills,40129,R,R,R,R,R,R,R,R
+2057,Oklahoma,Rogers,40131,R,R,R,R,R,R,R,R
+2058,Oklahoma,Seminole,40133,D,D,R,R,R,R,R,R
+2059,Oklahoma,Sequoyah,40135,D,D,R,R,R,R,R,R
+2060,Oklahoma,Stephens,40137,D,R,R,R,R,R,R,R
+2061,Oklahoma,Texas,40139,R,R,R,R,R,R,R,R
+2062,Oklahoma,Tillman,40141,D,D,R,R,R,R,R,R
+2063,Oklahoma,Tulsa,40143,R,R,R,R,R,R,R,R
+2064,Oklahoma,Wagoner,40145,R,R,R,R,R,R,R,R
+2065,Oklahoma,Washington,40147,R,R,R,R,R,R,R,R
+2066,Oklahoma,Washita,40149,D,R,R,R,R,R,R,R
+2067,Oklahoma,Woods,40151,R,R,R,R,R,R,R,R
+2068,Oklahoma,Woodward,40153,R,R,R,R,R,R,R,R
+2069,Oregon,Baker,41001,R,R,R,R,R,R,R,R
+2070,Oregon,Benton,41003,D,D,D,D,D,D,D,D
+2071,Oregon,Clackamas,41005,D,D,R,R,D,D,D,D
+2072,Oregon,Clatsop,41007,D,D,D,D,D,D,D,D
+2073,Oregon,Columbia,41009,D,D,D,D,D,D,R,R
+2074,Oregon,Coos,41011,D,D,R,R,R,R,R,R
+2075,Oregon,Crook,41013,R,R,R,R,R,R,R,R
+2076,Oregon,Curry,41015,D,R,R,R,R,R,R,R
+2077,Oregon,Deschutes,41017,D,R,R,R,R,R,R,D
+2078,Oregon,Douglas,41019,R,R,R,R,R,R,R,R
+2079,Oregon,Gilliam,41021,R,D,R,R,R,R,R,R
+2080,Oregon,Grant,41023,R,R,R,R,R,R,R,R
+2081,Oregon,Harney,41025,R,R,R,R,R,R,R,R
+2082,Oregon,Hood River,41027,D,D,D,D,D,D,D,D
+2083,Oregon,Jackson,41029,D,R,R,R,D,R,R,R
+2084,Oregon,Jefferson,41031,D,R,R,R,R,R,R,R
+2085,Oregon,Josephine,41033,R,R,R,R,R,R,R,R
+2086,Oregon,Klamath,41035,R,R,R,R,R,R,R,R
+2087,Oregon,Lake,41037,R,R,R,R,R,R,R,R
+2088,Oregon,Lane,41039,D,D,D,D,D,D,D,D
+2089,Oregon,Lincoln,41041,D,D,D,D,D,D,D,D
+2090,Oregon,Linn,41043,R,R,R,R,R,R,R,R
+2091,Oregon,Malheur,41045,R,R,R,R,R,R,R,R
+2092,Oregon,Marion,41047,R,D,R,R,D,R,R,D
+2093,Oregon,Morrow,41049,R,D,R,R,R,R,R,R
+2094,Oregon,Multnomah,41051,D,D,D,D,D,D,D,D
+2095,Oregon,Polk,41053,R,R,R,R,R,R,R,R
+2096,Oregon,Sherman,41055,R,R,R,R,R,R,R,R
+2097,Oregon,Tillamook,41057,D,D,R,R,D,D,R,R
+2098,Oregon,Umatilla,41059,R,R,R,R,R,R,R,R
+2099,Oregon,Union,41061,R,R,R,R,R,R,R,R
+2100,Oregon,Wallowa,41063,R,R,R,R,R,R,R,R
+2101,Oregon,Wasco,41065,D,D,R,R,D,R,R,R
+2102,Oregon,Washington,41067,D,D,D,D,D,D,D,D
+2103,Oregon,Wheeler,41069,R,R,R,R,R,R,R,R
+2104,Oregon,Yamhill,41071,R,R,R,R,R,R,R,R
+2105,Pennsylvania,Adams,42001,R,R,R,R,R,R,R,R
+2106,Pennsylvania,Allegheny,42003,D,D,D,D,D,D,D,D
+2107,Pennsylvania,Armstrong,42005,D,D,R,R,R,R,R,R
+2108,Pennsylvania,Beaver,42007,D,D,D,D,R,R,R,R
+2109,Pennsylvania,Bedford,42009,R,R,R,R,R,R,R,R
+2110,Pennsylvania,Berks,42011,R,R,R,R,D,R,R,R
+2111,Pennsylvania,Blair,42013,R,R,R,R,R,R,R,R
+2112,Pennsylvania,Bradford,42015,R,R,R,R,R,R,R,R
+2113,Pennsylvania,Bucks,42017,D,D,D,D,D,D,D,D
+2114,Pennsylvania,Butler,42019,R,R,R,R,R,R,R,R
+2115,Pennsylvania,Cambria,42021,D,D,D,R,D,R,R,R
+2116,Pennsylvania,Cameron,42023,R,R,R,R,R,R,R,R
+2117,Pennsylvania,Carbon,42025,D,D,D,R,D,R,R,R
+2118,Pennsylvania,Centre,42027,D,D,R,R,D,D,D,D
+2119,Pennsylvania,Chester,42029,R,R,R,R,D,R,D,D
+2120,Pennsylvania,Clarion,42031,R,R,R,R,R,R,R,R
+2121,Pennsylvania,Clearfield,42033,D,R,R,R,R,R,R,R
+2122,Pennsylvania,Clinton,42035,D,D,R,R,R,R,R,R
+2123,Pennsylvania,Columbia,42037,R,D,R,R,R,R,R,R
+2124,Pennsylvania,Crawford,42039,R,R,R,R,R,R,R,R
+2125,Pennsylvania,Cumberland,42041,R,R,R,R,R,R,R,R
+2126,Pennsylvania,Dauphin,42043,R,R,R,R,D,D,D,D
+2127,Pennsylvania,Delaware,42045,D,D,D,D,D,D,D,D
+2128,Pennsylvania,Elk,42047,D,D,R,R,D,R,R,R
+2129,Pennsylvania,Erie,42049,D,D,D,D,D,D,R,D
+2130,Pennsylvania,Fayette,42051,D,D,D,D,R,R,R,R
+2131,Pennsylvania,Forest,42053,D,D,R,R,R,R,R,R
+2132,Pennsylvania,Franklin,42055,R,R,R,R,R,R,R,R
+2133,Pennsylvania,Fulton,42057,R,R,R,R,R,R,R,R
+2134,Pennsylvania,Greene,42059,D,D,D,R,R,R,R,R
+2135,Pennsylvania,Huntingdon,42061,R,R,R,R,R,R,R,R
+2136,Pennsylvania,Indiana,42063,D,D,R,R,R,R,R,R
+2137,Pennsylvania,Jefferson,42065,R,R,R,R,R,R,R,R
+2138,Pennsylvania,Juniata,42067,R,R,R,R,R,R,R,R
+2139,Pennsylvania,Lackawanna,42069,D,D,D,D,D,D,D,D
+2140,Pennsylvania,Lancaster,42071,R,R,R,R,R,R,R,R
+2141,Pennsylvania,Lawrence,42073,D,D,D,R,R,R,R,R
+2142,Pennsylvania,Lebanon,42075,R,R,R,R,R,R,R,R
+2143,Pennsylvania,Lehigh,42077,D,D,D,D,D,D,D,D
+2144,Pennsylvania,Luzerne,42079,D,D,D,D,D,D,R,R
+2145,Pennsylvania,Lycoming,42081,R,R,R,R,R,R,R,R
+2146,Pennsylvania,Mercer,42085,D,D,D,R,R,R,R,R
+2147,Pennsylvania,Mifflin,42087,R,R,R,R,R,R,R,R
+2148,Pennsylvania,Monroe,42089,R,R,R,R,D,D,D,D
+2149,Pennsylvania,Montgomery,42091,D,D,D,D,D,D,D,D
+2150,Pennsylvania,Montour,42093,R,R,R,R,R,R,R,R
+2151,Pennsylvania,Northampton,42095,D,D,D,D,D,D,R,D
+2152,Pennsylvania,Northumberland,42097,R,R,R,R,R,R,R,R
+2153,Pennsylvania,Perry,42099,R,R,R,R,R,R,R,R
+2154,Pennsylvania,Philadelphia,42101,D,D,D,D,D,D,D,D
+2155,Pennsylvania,Pike,42103,R,R,R,R,R,R,R,R
+2156,Pennsylvania,Potter,42105,R,R,R,R,R,R,R,R
+2157,Pennsylvania,Schuylkill,42107,R,D,R,R,R,R,R,R
+2158,Pennsylvania,Snyder,42109,R,R,R,R,R,R,R,R
+2159,Pennsylvania,Somerset,42111,R,R,R,R,R,R,R,R
+2160,Pennsylvania,Sullivan,42113,R,R,R,R,R,R,R,R
+2161,Pennsylvania,Susquehanna,42115,R,R,R,R,R,R,R,R
+2162,Pennsylvania,Tioga,42117,R,R,R,R,R,R,R,R
+2163,Pennsylvania,Union,42119,R,R,R,R,R,R,R,R
+2164,Pennsylvania,Venango,42121,R,R,R,R,R,R,R,R
+2165,Pennsylvania,Warren,42123,D,D,R,R,R,R,R,R
+2166,Pennsylvania,Washington,42125,D,D,D,D,R,R,R,R
+2167,Pennsylvania,Wayne,42127,R,R,R,R,R,R,R,R
+2168,Pennsylvania,Westmoreland,42129,D,D,R,R,R,R,R,R
+2169,Pennsylvania,Wyoming,42131,R,R,R,R,R,R,R,R
+2170,Pennsylvania,York,42133,R,R,R,R,R,R,R,R
+2171,Rhode Island,Bristol,44001,D,D,D,D,D,D,D,D
+2172,Rhode Island,Kent,44003,D,D,D,D,D,D,D,D
+2173,Rhode Island,Newport,44005,D,D,D,D,D,D,D,D
+2174,Rhode Island,Providence,44007,D,D,D,D,D,D,D,D
+2175,Rhode Island,Washington,44009,D,D,D,D,D,D,D,D
+2176,South Carolina,Abbeville,45001,D,D,R,R,R,R,R,R
+2177,South Carolina,Aiken,45003,R,R,R,R,R,R,R,R
+2178,South Carolina,Allendale,45005,D,D,D,D,D,D,D,D
+2179,South Carolina,Anderson,45007,R,R,R,R,R,R,R,R
+2180,South Carolina,Bamberg,45009,D,D,D,D,D,D,D,D
+2181,South Carolina,Barnwell,45011,R,R,R,R,D,D,R,R
+2182,South Carolina,Beaufort,45013,R,R,R,R,R,R,R,R
+2183,South Carolina,Berkeley,45015,R,R,R,R,R,R,R,R
+2184,South Carolina,Calhoun,45017,D,D,R,R,D,D,R,R
+2185,South Carolina,Charleston,45019,R,R,R,R,D,D,D,D
+2186,South Carolina,Cherokee,45021,R,R,R,R,R,R,R,R
+2187,South Carolina,Chester,45023,D,D,D,R,D,D,R,R
+2188,South Carolina,Chesterfield,45025,D,D,R,R,R,R,R,R
+2189,South Carolina,Clarendon,45027,D,D,D,D,D,D,D,R
+2190,South Carolina,Colleton,45029,D,D,R,R,D,D,R,R
+2191,South Carolina,Darlington,45031,D,D,R,R,R,D,R,R
+2192,South Carolina,Dillon,45033,D,D,D,D,D,D,D,R
+2193,South Carolina,Dorchester,45035,R,R,R,R,R,R,R,R
+2194,South Carolina,Edgefield,45037,D,R,R,R,R,R,R,R
+2195,South Carolina,Fairfield,45039,D,D,D,D,D,D,D,D
+2196,South Carolina,Florence,45041,R,R,R,R,R,R,R,R
+2197,South Carolina,Georgetown,45043,D,D,R,R,R,R,R,R
+2198,South Carolina,Greenwood,45047,R,R,R,R,R,R,R,R
+2199,South Carolina,Hampton,45049,D,D,D,D,D,D,D,D
+2200,South Carolina,Horry,45051,R,R,R,R,R,R,R,R
+2201,South Carolina,Jasper,45053,D,D,D,D,D,D,D,D
+2202,South Carolina,Kershaw,45055,R,R,R,R,R,R,R,R
+2203,South Carolina,Lancaster,45057,D,D,R,R,R,R,R,R
+2204,South Carolina,Laurens,45059,R,R,R,R,R,R,R,R
+2205,South Carolina,Lee,45061,D,D,D,D,D,D,D,D
+2206,South Carolina,Lexington,45063,R,R,R,R,R,R,R,R
+2207,South Carolina,Marion,45067,D,D,D,D,D,D,D,D
+2208,South Carolina,Marlboro,45069,D,D,D,D,D,D,D,D
+2209,South Carolina,Newberry,45071,R,R,R,R,R,R,R,R
+2210,South Carolina,Oconee,45073,R,R,R,R,R,R,R,R
+2211,South Carolina,Orangeburg,45075,D,D,D,D,D,D,D,D
+2212,South Carolina,Pickens,45077,R,R,R,R,R,R,R,R
+2213,South Carolina,Saluda,45081,R,R,R,R,R,R,R,R
+2214,South Carolina,Spartanburg,45083,R,R,R,R,R,R,R,R
+2215,South Carolina,Sumter,45085,R,D,R,D,D,D,D,D
+2216,South Carolina,Union,45087,R,D,R,R,R,R,R,R
+2217,South Carolina,Williamsburg,45089,D,D,D,D,D,D,D,D
+2218,South Carolina,York,45091,R,R,R,R,R,R,R,R
+2219,South Dakota,Aurora,46003,D,R,R,R,R,R,R,R
+2220,South Dakota,Beadle,46005,D,D,R,R,R,R,R,R
+2221,South Dakota,Bennett,46007,R,R,R,R,R,R,R,R
+2222,South Dakota,Bon Homme,46009,D,D,R,R,R,R,R,R
+2223,South Dakota,Brookings,46011,R,R,R,R,D,R,R,R
+2224,South Dakota,Brown,46013,D,D,R,R,D,R,R,R
+2225,South Dakota,Brule,46015,D,D,R,R,R,R,R,R
+2226,South Dakota,Buffalo,46017,D,D,D,D,D,D,D,D
+2227,South Dakota,Butte,46019,R,R,R,R,R,R,R,R
+2228,South Dakota,Campbell,46021,R,R,R,R,R,R,R,R
+2229,South Dakota,Charles Mix,46023,D,D,R,R,R,R,R,R
+2230,South Dakota,Clark,46025,R,R,R,R,R,R,R,R
+2231,South Dakota,Clay,46027,D,D,D,D,D,D,D,D
+2232,South Dakota,Codington,46029,R,R,R,R,R,R,R,R
+2233,South Dakota,Corson,46031,R,D,R,D,D,D,R,R
+2234,South Dakota,Custer,46033,R,R,R,R,R,R,R,R
+2235,South Dakota,Davison,46035,D,R,R,R,R,R,R,R
+2236,South Dakota,Day,46037,D,D,R,D,D,D,R,R
+2237,South Dakota,Deuel,46039,D,D,R,R,R,R,R,R
+2238,South Dakota,Dewey,46041,D,D,D,D,D,D,D,D
+2239,South Dakota,Douglas,46043,R,R,R,R,R,R,R,R
+2240,South Dakota,Edmunds,46045,R,R,R,R,R,R,R,R
+2241,South Dakota,Fall River,46047,R,R,R,R,R,R,R,R
+2242,South Dakota,Faulk,46049,R,R,R,R,R,R,R,R
+2243,South Dakota,Grant,46051,R,D,R,R,R,R,R,R
+2244,South Dakota,Gregory,46053,R,R,R,R,R,R,R,R
+2245,South Dakota,Haakon,46055,R,R,R,R,R,R,R,R
+2246,South Dakota,Hamlin,46057,R,R,R,R,R,R,R,R
+2247,South Dakota,Hand,46059,R,R,R,R,R,R,R,R
+2248,South Dakota,Hanson,46061,D,R,R,R,R,R,R,R
+2249,South Dakota,Harding,46063,R,R,R,R,R,R,R,R
+2250,South Dakota,Hughes,46065,R,R,R,R,R,R,R,R
+2251,South Dakota,Hutchinson,46067,R,R,R,R,R,R,R,R
+2252,South Dakota,Hyde,46069,R,R,R,R,R,R,R,R
+2253,South Dakota,Jackson,46071,R,R,R,R,R,R,R,R
+2254,South Dakota,Jerauld,46073,D,D,R,R,R,R,R,R
+2255,South Dakota,Jones,46075,R,R,R,R,R,R,R,R
+2256,South Dakota,Kingsbury,46077,D,D,R,R,R,R,R,R
+2257,South Dakota,Lake,46079,D,D,R,R,D,R,R,R
+2258,South Dakota,Lawrence,46081,R,R,R,R,R,R,R,R
+2259,South Dakota,Lincoln,46083,R,R,R,R,R,R,R,R
+2260,South Dakota,Lyman,46085,R,R,R,R,R,R,R,R
+2261,South Dakota,Marshall,46091,D,D,R,R,D,D,R,R
+2262,South Dakota,Meade,46093,R,R,R,R,R,R,R,R
+2263,South Dakota,Mellette,46095,R,R,R,R,R,R,R,R
+2264,South Dakota,Miner,46097,D,D,R,R,D,R,R,R
+2265,South Dakota,Minnehaha,46099,D,D,R,R,D,R,R,R
+2266,South Dakota,Moody,46101,D,D,R,R,D,R,R,R
+2268,South Dakota,Pennington,46103,R,R,R,R,R,R,R,R
+2269,South Dakota,Perkins,46105,R,R,R,R,R,R,R,R
+2270,South Dakota,Potter,46107,R,R,R,R,R,R,R,R
+2271,South Dakota,Roberts,46109,D,D,R,D,D,D,R,R
+2272,South Dakota,Sanborn,46111,D,D,R,R,R,R,R,R
+2273,South Dakota,Spink,46115,D,R,R,R,R,R,R,R
+2274,South Dakota,Stanley,46117,R,R,R,R,R,R,R,R
+2275,South Dakota,Sully,46119,R,R,R,R,R,R,R,R
+2276,South Dakota,Todd,46121,D,D,D,D,D,D,D,D
+2277,South Dakota,Tripp,46123,R,R,R,R,R,R,R,R
+2278,South Dakota,Turner,46125,R,R,R,R,R,R,R,R
+2279,South Dakota,Union,46127,D,D,R,R,R,R,R,R
+2280,South Dakota,Walworth,46129,R,R,R,R,R,R,R,R
+2281,South Dakota,Yankton,46135,R,R,R,R,R,R,R,R
+2282,South Dakota,Ziebach,46137,R,D,R,D,D,D,R,D
+2283,Tennessee,Anderson,47001,D,D,R,R,R,R,R,R
+2284,Tennessee,Bedford,47003,D,D,D,R,R,R,R,R
+2285,Tennessee,Benton,47005,D,D,D,D,R,R,R,R
+2286,Tennessee,Bledsoe,47007,D,R,R,R,R,R,R,R
+2287,Tennessee,Blount,47009,R,R,R,R,R,R,R,R
+2288,Tennessee,Bradley,47011,R,R,R,R,R,R,R,R
+2289,Tennessee,Campbell,47013,D,D,D,R,R,R,R,R
+2290,Tennessee,Cannon,47015,D,D,D,R,R,R,R,R
+2291,Tennessee,Carroll,47017,D,D,R,R,R,R,R,R
+2292,Tennessee,Carter,47019,R,R,R,R,R,R,R,R
+2293,Tennessee,Cheatham,47021,D,D,R,R,R,R,R,R
+2294,Tennessee,Chester,47023,R,R,R,R,R,R,R,R
+2295,Tennessee,Claiborne,47025,D,R,R,R,R,R,R,R
+2296,Tennessee,Clay,47027,D,D,D,D,R,R,R,R
+2297,Tennessee,Cocke,47029,R,R,R,R,R,R,R,R
+2298,Tennessee,Coffee,47031,D,D,R,R,R,R,R,R
+2299,Tennessee,Crockett,47033,D,D,D,R,R,R,R,R
+2300,Tennessee,Cumberland,47035,R,R,R,R,R,R,R,R
+2301,Tennessee,Davidson,47037,D,D,D,D,D,D,D,D
+2302,Tennessee,Decatur,47039,D,D,D,R,R,R,R,R
+2303,Tennessee,Dickson,47043,D,D,D,R,R,R,R,R
+2304,Tennessee,Dyer,47045,D,D,R,R,R,R,R,R
+2305,Tennessee,Fayette,47047,D,D,R,R,R,R,R,R
+2306,Tennessee,Fentress,47049,D,D,R,R,R,R,R,R
+2307,Tennessee,Franklin,47051,D,D,D,R,R,R,R,R
+2308,Tennessee,Gibson,47053,D,D,D,R,R,R,R,R
+2309,Tennessee,Giles,47055,D,D,D,R,R,R,R,R
+2310,Tennessee,Grainger,47057,R,R,R,R,R,R,R,R
+2311,Tennessee,Greene,47059,R,R,R,R,R,R,R,R
+2312,Tennessee,Grundy,47061,D,D,D,D,R,R,R,R
+2313,Tennessee,Hamblen,47063,R,R,R,R,R,R,R,R
+2314,Tennessee,Hamilton,47065,R,R,R,R,R,R,R,R
+2315,Tennessee,Hancock,47067,R,R,R,R,R,R,R,R
+2316,Tennessee,Hardeman,47069,D,D,D,D,D,D,R,R
+2317,Tennessee,Hardin,47071,D,R,R,R,R,R,R,R
+2318,Tennessee,Hawkins,47073,R,R,R,R,R,R,R,R
+2319,Tennessee,Haywood,47075,D,D,D,D,D,D,D,D
+2320,Tennessee,Henderson,47077,R,R,R,R,R,R,R,R
+2321,Tennessee,Henry,47079,D,D,D,R,R,R,R,R
+2322,Tennessee,Hickman,47081,D,D,D,R,R,R,R,R
+2323,Tennessee,Houston,47083,D,D,D,D,D,R,R,R
+2324,Tennessee,Humphreys,47085,D,D,D,D,R,R,R,R
+2325,Tennessee,Jackson,47087,D,D,D,D,D,R,R,R
+2326,Tennessee,Jefferson,47089,R,R,R,R,R,R,R,R
+2327,Tennessee,Johnson,47091,R,R,R,R,R,R,R,R
+2328,Tennessee,Knox,47093,R,R,R,R,R,R,R,R
+2329,Tennessee,Lake,47095,D,D,D,D,R,R,R,R
+2330,Tennessee,Lauderdale,47097,D,D,D,D,R,R,R,R
+2331,Tennessee,Lawrence,47099,D,D,R,R,R,R,R,R
+2332,Tennessee,Lewis,47101,D,D,D,R,R,R,R,R
+2333,Tennessee,Lincoln,47103,D,R,R,R,R,R,R,R
+2334,Tennessee,Loudon,47105,R,R,R,R,R,R,R,R
+2335,Tennessee,Macon,47111,D,R,R,R,R,R,R,R
+2336,Tennessee,Madison,47113,R,R,R,R,R,R,R,R
+2337,Tennessee,Marion,47115,D,D,D,R,R,R,R,R
+2338,Tennessee,Marshall,47117,D,D,D,R,R,R,R,R
+2339,Tennessee,Maury,47119,D,D,R,R,R,R,R,R
+2340,Tennessee,Meigs,47121,D,D,R,R,R,R,R,R
+2341,Tennessee,Monroe,47123,R,R,R,R,R,R,R,R
+2342,Tennessee,Montgomery,47125,D,D,R,R,R,R,R,R
+2343,Tennessee,Moore,47127,D,D,R,R,R,R,R,R
+2344,Tennessee,Morgan,47129,D,D,R,R,R,R,R,R
+2345,Tennessee,Obion,47131,D,D,R,R,R,R,R,R
+2346,Tennessee,Overton,47133,D,D,D,D,R,R,R,R
+2347,Tennessee,Perry,47135,D,D,D,D,R,R,R,R
+2348,Tennessee,Pickett,47137,D,R,R,R,R,R,R,R
+2349,Tennessee,Polk,47139,D,D,R,R,R,R,R,R
+2350,Tennessee,Putnam,47141,D,D,R,R,R,R,R,R
+2351,Tennessee,Rhea,47143,R,R,R,R,R,R,R,R
+2352,Tennessee,Roane,47145,D,D,R,R,R,R,R,R
+2353,Tennessee,Robertson,47147,D,D,D,R,R,R,R,R
+2354,Tennessee,Rutherford,47149,D,R,R,R,R,R,R,R
+2355,Tennessee,Scott,47151,R,R,R,R,R,R,R,R
+2356,Tennessee,Sequatchie,47153,D,D,R,R,R,R,R,R
+2357,Tennessee,Sevier,47155,R,R,R,R,R,R,R,R
+2358,Tennessee,Shelby,47157,D,D,D,D,D,D,D,D
+2359,Tennessee,Smith,47159,D,D,D,D,R,R,R,R
+2360,Tennessee,Stewart,47161,D,D,D,D,R,R,R,R
+2361,Tennessee,Sullivan,47163,R,R,R,R,R,R,R,R
+2362,Tennessee,Sumner,47165,D,R,R,R,R,R,R,R
+2363,Tennessee,Tipton,47167,R,R,R,R,R,R,R,R
+2364,Tennessee,Trousdale,47169,D,D,D,D,R,R,R,R
+2365,Tennessee,Unicoi,47171,R,R,R,R,R,R,R,R
+2366,Tennessee,Union,47173,D,D,R,R,R,R,R,R
+2367,Tennessee,Van Buren,47175,D,D,D,D,R,R,R,R
+2368,Tennessee,Warren,47177,D,D,D,R,R,R,R,R
+2369,Tennessee,Washington,47179,R,R,R,R,R,R,R,R
+2370,Tennessee,Wayne,47181,R,R,R,R,R,R,R,R
+2371,Tennessee,Weakley,47183,D,D,R,R,R,R,R,R
+2372,Tennessee,White,47185,D,D,D,R,R,R,R,R
+2373,Tennessee,Williamson,47187,R,R,R,R,R,R,R,R
+2374,Tennessee,Wilson,47189,D,R,R,R,R,R,R,R
+2375,Texas,Anderson,48001,R,R,R,R,R,R,R,R
+2376,Texas,Andrews,48003,R,R,R,R,R,R,R,R
+2377,Texas,Angelina,48005,D,R,R,R,R,R,R,R
+2378,Texas,Aransas,48007,R,R,R,R,R,R,R,R
+2379,Texas,Archer,48009,R,R,R,R,R,R,R,R
+2380,Texas,Armstrong,48011,R,R,R,R,R,R,R,R
+2381,Texas,Atascosa,48013,R,D,R,R,R,R,R,R
+2382,Texas,Austin,48015,R,R,R,R,R,R,R,R
+2383,Texas,Bailey,48017,R,R,R,R,R,R,R,R
+2384,Texas,Bandera,48019,R,R,R,R,R,R,R,R
+2385,Texas,Bastrop,48021,D,D,R,R,R,R,R,R
+2386,Texas,Baylor,48023,D,D,R,R,R,R,R,R
+2387,Texas,Bee,48025,D,D,R,R,R,R,R,R
+2388,Texas,Bell,48027,R,R,R,R,R,R,R,R
+2389,Texas,Bexar,48029,D,D,R,R,D,D,D,D
+2390,Texas,Blanco,48031,R,R,R,R,R,R,R,R
+2391,Texas,Borden,48033,R,R,R,R,R,R,R,R
+2392,Texas,Bosque,48035,R,R,R,R,R,R,R,R
+2393,Texas,Bowie,48037,D,D,R,R,R,R,R,R
+2394,Texas,Brazoria,48039,R,R,R,R,R,R,R,R
+2395,Texas,Brazos,48041,R,R,R,R,R,R,R,R
+2396,Texas,Brewster,48043,D,D,R,R,D,R,R,R
+2397,Texas,Briscoe,48045,D,R,R,R,R,R,R,R
+2398,Texas,Brooks,48047,D,D,D,D,D,D,D,D
+2399,Texas,Brown,48049,R,R,R,R,R,R,R,R
+2400,Texas,Burleson,48051,D,D,R,R,R,R,R,R
+2401,Texas,Burnet,48053,R,R,R,R,R,R,R,R
+2402,Texas,Caldwell,48055,D,D,R,R,R,R,R,R
+2403,Texas,Calhoun,48057,R,R,R,R,R,R,R,R
+2404,Texas,Callahan,48059,R,R,R,R,R,R,R,R
+2405,Texas,Cameron,48061,D,D,D,R,D,D,D,D
+2406,Texas,Camp,48063,D,D,R,R,R,R,R,R
+2407,Texas,Carson,48065,R,R,R,R,R,R,R,R
+2408,Texas,Cass,48067,D,D,R,R,R,R,R,R
+2409,Texas,Castro,48069,R,R,R,R,R,R,R,R
+2410,Texas,Chambers,48071,R,R,R,R,R,R,R,R
+2411,Texas,Cherokee,48073,R,R,R,R,R,R,R,R
+2412,Texas,Childress,48075,R,R,R,R,R,R,R,R
+2413,Texas,Clay,48077,D,R,R,R,R,R,R,R
+2414,Texas,Cochran,48079,R,R,R,R,R,R,R,R
+2415,Texas,Coke,48081,R,R,R,R,R,R,R,R
+2416,Texas,Coleman,48083,D,R,R,R,R,R,R,R
+2417,Texas,Collin,48085,R,R,R,R,R,R,R,R
+2418,Texas,Collingsworth,48087,R,R,R,R,R,R,R,R
+2419,Texas,Colorado,48089,R,R,R,R,R,R,R,R
+2420,Texas,Comal,48091,R,R,R,R,R,R,R,R
+2421,Texas,Comanche,48093,D,D,R,R,R,R,R,R
+2422,Texas,Concho,48095,D,R,R,R,R,R,R,R
+2423,Texas,Cooke,48097,R,R,R,R,R,R,R,R
+2424,Texas,Coryell,48099,R,R,R,R,R,R,R,R
+2425,Texas,Cottle,48101,D,D,R,R,R,R,R,R
+2426,Texas,Crane,48103,R,R,R,R,R,R,R,R
+2427,Texas,Crockett,48105,D,R,R,R,R,R,R,R
+2428,Texas,Crosby,48107,D,D,R,R,R,R,R,R
+2429,Texas,Culberson,48109,D,D,D,R,D,D,D,D
+2430,Texas,Dallam,48111,R,R,R,R,R,R,R,R
+2431,Texas,Dallas,48113,R,R,R,R,D,D,D,D
+2432,Texas,Dawson,48115,R,R,R,R,R,R,R,R
+2433,Texas,Deaf Smith,48117,R,R,R,R,R,R,R,R
+2434,Texas,Delta,48119,D,D,R,R,R,R,R,R
+2435,Texas,Denton,48121,R,R,R,R,R,R,R,R
+2436,Texas,Dickens,48125,D,D,R,R,R,R,R,R
+2437,Texas,Dimmit,48127,D,D,D,D,D,D,D,D
+2438,Texas,Donley,48129,R,R,R,R,R,R,R,R
+2439,Texas,Duval,48131,D,D,D,D,D,D,D,D
+2440,Texas,Eastland,48133,R,R,R,R,R,R,R,R
+2441,Texas,Ector,48135,R,R,R,R,R,R,R,R
+2442,Texas,Edwards,48137,R,R,R,R,R,R,R,R
+2443,Texas,El Paso,48141,D,D,D,D,D,D,D,D
+2444,Texas,Ellis,48139,R,R,R,R,R,R,R,R
+2445,Texas,Erath,48143,R,R,R,R,R,R,R,R
+2446,Texas,Falls,48145,D,D,R,R,R,R,R,R
+2447,Texas,Fannin,48147,D,D,R,R,R,R,R,R
+2448,Texas,Fayette,48149,R,R,R,R,R,R,R,R
+2449,Texas,Fisher,48151,D,D,R,R,R,R,R,R
+2450,Texas,Floyd,48153,R,R,R,R,R,R,R,R
+2451,Texas,Foard,48155,D,D,R,R,R,R,R,R
+2452,Texas,Fort Bend,48157,R,R,R,R,R,R,D,D
+2453,Texas,Franklin,48159,D,R,R,R,R,R,R,R
+2454,Texas,Freestone,48161,D,R,R,R,R,R,R,R
+2455,Texas,Frio,48163,D,D,D,R,D,D,D,R
+2456,Texas,Gaines,48165,R,R,R,R,R,R,R,R
+2457,Texas,Galveston,48167,D,D,R,R,R,R,R,R
+2458,Texas,Garza,48169,R,R,R,R,R,R,R,R
+2459,Texas,Gillespie,48171,R,R,R,R,R,R,R,R
+2460,Texas,Glasscock,48173,R,R,R,R,R,R,R,R
+2461,Texas,Goliad,48175,R,R,R,R,R,R,R,R
+2462,Texas,Gonzales,48177,R,R,R,R,R,R,R,R
+2463,Texas,Gray,48179,R,R,R,R,R,R,R,R
+2465,Texas,Gregg,48183,R,R,R,R,R,R,R,R
+2466,Texas,Grimes,48185,D,D,R,R,R,R,R,R
+2467,Texas,Guadalupe,48187,R,R,R,R,R,R,R,R
+2468,Texas,Hale,48189,R,R,R,R,R,R,R,R
+2469,Texas,Hall,48191,D,D,R,R,R,R,R,R
+2470,Texas,Hamilton,48193,R,R,R,R,R,R,R,R
+2471,Texas,Hansford,48195,R,R,R,R,R,R,R,R
+2472,Texas,Hardeman,48197,D,D,R,R,R,R,R,R
+2473,Texas,Hardin,48199,D,R,R,R,R,R,R,R
+2474,Texas,Harris,48201,R,R,R,R,D,D,D,D
+2475,Texas,Harrison,48203,D,D,R,R,R,R,R,R
+2476,Texas,Hartley,48205,R,R,R,R,R,R,R,R
+2477,Texas,Haskell,48207,D,D,R,R,R,R,R,R
+2478,Texas,Hays,48209,D,R,R,R,R,R,R,D
+2479,Texas,Hemphill,48211,R,R,R,R,R,R,R,R
+2480,Texas,Henderson,48213,D,R,R,R,R,R,R,R
+2481,Texas,Hidalgo,48215,D,D,D,D,D,D,D,D
+2482,Texas,Hill,48217,D,R,R,R,R,R,R,R
+2483,Texas,Hockley,48219,R,R,R,R,R,R,R,R
+2484,Texas,Hood,48221,R,R,R,R,R,R,R,R
+2485,Texas,Hopkins,48223,D,D,R,R,R,R,R,R
+2486,Texas,Houston,48225,D,R,R,R,R,R,R,R
+2487,Texas,Howard,48227,R,R,R,R,R,R,R,R
+2488,Texas,Hudspeth,48229,D,D,R,R,R,R,R,R
+2489,Texas,Hunt,48231,R,R,R,R,R,R,R,R
+2490,Texas,Hutchinson,48233,R,R,R,R,R,R,R,R
+2492,Texas,Jack,48237,D,R,R,R,R,R,R,R
+2493,Texas,Jackson,48239,R,R,R,R,R,R,R,R
+2494,Texas,Jasper,48241,D,D,R,R,R,R,R,R
+2495,Texas,Jeff Davis,48243,R,R,R,R,R,R,R,R
+2496,Texas,Jefferson,48245,D,D,D,D,D,D,R,R
+2497,Texas,Jim Hogg,48247,D,D,D,D,D,D,D,D
+2498,Texas,Jim Wells,48249,D,D,D,D,D,D,D,R
+2499,Texas,Johnson,48251,R,R,R,R,R,R,R,R
+2500,Texas,Jones,48253,D,D,R,R,R,R,R,R
+2501,Texas,Karnes,48255,R,D,R,R,R,R,R,R
+2502,Texas,Kaufman,48257,R,R,R,R,R,R,R,R
+2503,Texas,Kendall,48259,R,R,R,R,R,R,R,R
+2504,Texas,Kenedy,48261,D,D,D,D,D,R,D,R
+2505,Texas,Kent,48263,D,D,R,R,R,R,R,R
+2506,Texas,Kerr,48265,R,R,R,R,R,R,R,R
+2507,Texas,Kimble,48267,R,R,R,R,R,R,R,R
+2508,Texas,King,48269,R,R,R,R,R,R,R,R
+2509,Texas,Kinney,48271,R,R,R,R,R,R,R,R
+2510,Texas,Kleberg,48273,D,D,R,R,D,D,D,R
+2511,Texas,Knox,48275,D,D,R,R,R,R,R,R
+2512,Texas,La Salle,48283,D,D,D,D,D,D,D,R
+2513,Texas,Lamar,48277,D,R,R,R,R,R,R,R
+2514,Texas,Lamb,48279,R,R,R,R,R,R,R,R
+2515,Texas,Lampasas,48281,R,R,R,R,R,R,R,R
+2516,Texas,Lavaca,48285,R,R,R,R,R,R,R,R
+2517,Texas,Lee,48287,R,R,R,R,R,R,R,R
+2518,Texas,Leon,48289,R,R,R,R,R,R,R,R
+2519,Texas,Liberty,48291,D,R,R,R,R,R,R,R
+2520,Texas,Limestone,48293,D,D,R,R,R,R,R,R
+2521,Texas,Lipscomb,48295,R,R,R,R,R,R,R,R
+2522,Texas,Live Oak,48297,R,R,R,R,R,R,R,R
+2523,Texas,Llano,48299,R,R,R,R,R,R,R,R
+2525,Texas,Lubbock,48303,R,R,R,R,R,R,R,R
+2526,Texas,Lynn,48305,R,R,R,R,R,R,R,R
+2527,Texas,Madison,48313,D,R,R,R,R,R,R,R
+2528,Texas,Marion,48315,D,D,R,R,R,R,R,R
+2529,Texas,Martin,48317,R,R,R,R,R,R,R,R
+2530,Texas,Mason,48319,R,R,R,R,R,R,R,R
+2531,Texas,Matagorda,48321,R,R,R,R,R,R,R,R
+2532,Texas,Maverick,48323,D,D,D,D,D,D,D,D
+2533,Texas,Medina,48325,R,R,R,R,R,R,R,R
+2534,Texas,Menard,48327,D,D,R,R,R,R,R,R
+2535,Texas,Midland,48329,R,R,R,R,R,R,R,R
+2536,Texas,Milam,48331,D,D,R,R,R,R,R,R
+2537,Texas,Mills,48333,D,R,R,R,R,R,R,R
+2538,Texas,Mitchell,48335,D,D,R,R,R,R,R,R
+2539,Texas,Montague,48337,D,R,R,R,R,R,R,R
+2540,Texas,Montgomery,48339,R,R,R,R,R,R,R,R
+2541,Texas,Moore,48341,R,R,R,R,R,R,R,R
+2542,Texas,Morris,48343,D,D,D,R,R,R,R,R
+2543,Texas,Motley,48345,R,R,R,R,R,R,R,R
+2544,Texas,Nacogdoches,48347,R,R,R,R,R,R,R,R
+2545,Texas,Navarro,48349,D,D,R,R,R,R,R,R
+2546,Texas,Newton,48351,D,D,D,R,R,R,R,R
+2547,Texas,Nolan,48353,D,D,R,R,R,R,R,R
+2548,Texas,Nueces,48355,D,D,R,R,R,R,R,R
+2549,Texas,Ochiltree,48357,R,R,R,R,R,R,R,R
+2550,Texas,Oldham,48359,R,R,R,R,R,R,R,R
+2551,Texas,Orange,48361,D,D,R,R,R,R,R,R
+2552,Texas,Palo Pinto,48363,D,D,R,R,R,R,R,R
+2553,Texas,Panola,48365,D,D,R,R,R,R,R,R
+2554,Texas,Parker,48367,R,R,R,R,R,R,R,R
+2555,Texas,Parmer,48369,R,R,R,R,R,R,R,R
+2556,Texas,Pecos,48371,R,D,R,R,R,R,R,R
+2557,Texas,Polk,48373,D,R,R,R,R,R,R,R
+2558,Texas,Potter,48375,R,R,R,R,R,R,R,R
+2559,Texas,Presidio,48377,D,D,D,D,D,D,D,D
+2560,Texas,Rains,48379,D,D,R,R,R,R,R,R
+2561,Texas,Randall,48381,R,R,R,R,R,R,R,R
+2562,Texas,Reagan,48383,R,R,R,R,R,R,R,R
+2563,Texas,Real,48385,R,R,R,R,R,R,R,R
+2564,Texas,Red River,48387,D,D,R,R,R,R,R,R
+2565,Texas,Reeves,48389,D,D,D,R,D,D,D,R
+2566,Texas,Refugio,48391,D,D,R,R,R,R,R,R
+2567,Texas,Roberts,48393,R,R,R,R,R,R,R,R
+2568,Texas,Robertson,48395,D,D,D,R,R,R,R,R
+2569,Texas,Rockwall,48397,R,R,R,R,R,R,R,R
+2570,Texas,Runnels,48399,R,R,R,R,R,R,R,R
+2571,Texas,Rusk,48401,R,R,R,R,R,R,R,R
+2572,Texas,Sabine,48403,D,D,R,R,R,R,R,R
+2573,Texas,San Augustine,48405,D,D,R,R,R,R,R,R
+2574,Texas,San Jacinto,48407,D,R,R,R,R,R,R,R
+2575,Texas,San Patricio,48409,D,D,R,R,R,R,R,R
+2576,Texas,San Saba,48411,R,R,R,R,R,R,R,R
+2577,Texas,Schleicher,48413,R,R,R,R,R,R,R,R
+2578,Texas,Scurry,48415,R,R,R,R,R,R,R,R
+2579,Texas,Shackelford,48417,R,R,R,R,R,R,R,R
+2580,Texas,Shelby,48419,D,D,R,R,R,R,R,R
+2581,Texas,Sherman,48421,R,R,R,R,R,R,R,R
+2582,Texas,Smith,48423,R,R,R,R,R,R,R,R
+2584,Texas,Starr,48427,D,D,D,D,D,D,D,D
+2585,Texas,Stephens,48429,R,R,R,R,R,R,R,R
+2586,Texas,Sterling,48431,R,R,R,R,R,R,R,R
+2587,Texas,Stonewall,48433,D,D,R,R,R,R,R,R
+2588,Texas,Sutton,48435,R,R,R,R,R,R,R,R
+2589,Texas,Swisher,48437,D,D,R,R,R,R,R,R
+2590,Texas,Tarrant,48439,R,R,R,R,R,R,R,D
+2591,Texas,Taylor,48441,R,R,R,R,R,R,R,R
+2592,Texas,Terrell,48443,D,D,R,R,R,R,R,R
+2593,Texas,Terry,48445,R,R,R,R,R,R,R,R
+2594,Texas,Throckmorton,48447,D,R,R,R,R,R,R,R
+2595,Texas,Titus,48449,D,D,R,R,R,R,R,R
+2596,Texas,Tom Green,48451,R,R,R,R,R,R,R,R
+2597,Texas,Travis,48453,D,D,R,D,D,D,D,D
+2598,Texas,Trinity,48455,D,D,R,R,R,R,R,R
+2599,Texas,Tyler,48457,D,D,R,R,R,R,R,R
+2600,Texas,Upshur,48459,D,R,R,R,R,R,R,R
+2601,Texas,Upton,48461,R,R,R,R,R,R,R,R
+2602,Texas,Uvalde,48463,R,R,R,R,R,R,R,R
+2603,Texas,Val Verde,48465,D,D,R,R,D,D,D,R
+2604,Texas,Van Zandt,48467,R,R,R,R,R,R,R,R
+2605,Texas,Victoria,48469,R,R,R,R,R,R,R,R
+2606,Texas,Walker,48471,R,R,R,R,R,R,R,R
+2607,Texas,Waller,48473,D,D,R,R,R,R,R,R
+2608,Texas,Ward,48475,R,D,R,R,R,R,R,R
+2609,Texas,Washington,48477,R,R,R,R,R,R,R,R
+2610,Texas,Webb,48479,D,D,D,D,D,D,D,D
+2611,Texas,Wharton,48481,R,R,R,R,R,R,R,R
+2612,Texas,Wheeler,48483,R,R,R,R,R,R,R,R
+2613,Texas,Wichita,48485,R,R,R,R,R,R,R,R
+2614,Texas,Wilbarger,48487,R,R,R,R,R,R,R,R
+2615,Texas,Willacy,48489,D,D,D,D,D,D,D,D
+2616,Texas,Williamson,48491,R,R,R,R,R,R,R,D
+2617,Texas,Wilson,48493,R,R,R,R,R,R,R,R
+2618,Texas,Winkler,48495,R,R,R,R,R,R,R,R
+2619,Texas,Wise,48497,R,R,R,R,R,R,R,R
+2620,Texas,Wood,48499,R,R,R,R,R,R,R,R
+2621,Texas,Yoakum,48501,R,R,R,R,R,R,R,R
+2622,Texas,Young,48503,R,R,R,R,R,R,R,R
+2623,Texas,Zapata,48505,D,D,D,D,D,D,D,R
+2624,Texas,Zavala,48507,D,D,D,D,D,D,D,D
+2625,Utah,Beaver,49001,R,R,R,R,R,R,R,R
+2626,Utah,Box Elder,49003,R,R,R,R,R,R,R,R
+2627,Utah,Cache,49005,R,R,R,R,R,R,R,R
+2628,Utah,Carbon,49007,D,D,R,R,R,R,R,R
+2629,Utah,Daggett,49009,R,R,R,R,R,R,R,R
+2630,Utah,Davis,49011,R,R,R,R,R,R,R,R
+2631,Utah,Duchesne,49013,R,R,R,R,R,R,R,R
+2632,Utah,Emery,49015,R,R,R,R,R,R,R,R
+2633,Utah,Garfield,49017,R,R,R,R,R,R,R,R
+2634,Utah,Grand,49019,D,R,R,R,D,R,R,D
+2635,Utah,Iron,49021,R,R,R,R,R,R,R,R
+2636,Utah,Juab,49023,R,R,R,R,R,R,R,R
+2637,Utah,Kane,49025,R,R,R,R,R,R,R,R
+2638,Utah,Millard,49027,R,R,R,R,R,R,R,R
+2639,Utah,Morgan,49029,R,R,R,R,R,R,R,R
+2640,Utah,Piute,49031,R,R,R,R,R,R,R,R
+2641,Utah,Rich,49033,R,R,R,R,R,R,R,R
+2642,Utah,Salt Lake,49035,R,R,R,R,D,R,D,D
+2643,Utah,San Juan,49037,R,R,R,R,R,R,R,R
+2644,Utah,Sanpete,49039,R,R,R,R,R,R,R,R
+2645,Utah,Sevier,49041,R,R,R,R,R,R,R,R
+2646,Utah,Summit,49043,R,D,R,R,D,R,D,D
+2647,Utah,Tooele,49045,R,D,R,R,R,R,R,R
+2648,Utah,Uintah,49047,R,R,R,R,R,R,R,R
+2649,Utah,Utah,49049,R,R,R,R,R,R,R,R
+2650,Utah,Wasatch,49051,R,R,R,R,R,R,R,R
+2651,Utah,Washington,49053,R,R,R,R,R,R,R,R
+2652,Utah,Wayne,49055,R,R,R,R,R,R,R,R
+2653,Utah,Weber,49057,R,R,R,R,R,R,R,R
+2654,Vermont,Addison,50001,D,D,D,D,D,D,D,D
+2655,Vermont,Bennington,50003,D,D,D,D,D,D,D,D
+2656,Vermont,Caledonia,50005,D,D,R,D,D,D,D,D
+2657,Vermont,Chittenden,50007,D,D,D,D,D,D,D,D
+2658,Vermont,Essex,50009,D,D,R,R,D,D,R,R
+2659,Vermont,Franklin,50011,D,D,D,D,D,D,D,D
+2660,Vermont,Grand Isle,50013,D,D,D,D,D,D,D,D
+2661,Vermont,Lamoille,50015,D,D,D,D,D,D,D,D
+2662,Vermont,Orange,50017,D,D,R,D,D,D,D,D
+2663,Vermont,Orleans,50019,D,D,R,D,D,D,D,D
+2664,Vermont,Rutland,50021,D,D,D,D,D,D,D,D
+2665,Vermont,Washington,50023,D,D,D,D,D,D,D,D
+2666,Vermont,Windham,50025,D,D,D,D,D,D,D,D
+2667,Vermont,Windsor,50027,D,D,D,D,D,D,D,D
+2668,Virginia,Accomack,51001,R,D,R,R,R,R,R,R
+2669,Virginia,Albemarle,51003,R,R,R,D,D,D,D,D
+2670,Virginia,Alleghany,51005,D,D,R,R,R,R,R,R
+2671,Virginia,Amelia,51007,R,R,R,R,R,R,R,R
+2672,Virginia,Amherst,51009,R,R,R,R,R,R,R,R
+2673,Virginia,Appomattox,51011,R,R,R,R,R,R,R,R
+2674,Virginia,Arlington,51013,D,D,D,D,D,D,D,D
+2675,Virginia,Augusta,51015,R,R,R,R,R,R,R,R
+2676,Virginia,Bath,51017,R,D,R,R,R,R,R,R
+2677,Virginia,Bedford,51019,R,R,R,R,R,R,R,R
+2678,Virginia,Bland,51021,R,R,R,R,R,R,R,R
+2679,Virginia,Botetourt,51023,R,R,R,R,R,R,R,R
+2680,Virginia,Brunswick,51025,D,D,D,D,D,D,D,D
+2681,Virginia,Buchanan,51027,D,D,D,D,R,R,R,R
+2682,Virginia,Buckingham,51029,R,D,R,R,D,D,R,R
+2683,Virginia,Campbell,51031,R,R,R,R,R,R,R,R
+2684,Virginia,Caroline,51033,D,D,D,R,D,D,R,R
+2685,Virginia,Carroll,51035,R,R,R,R,R,R,R,R
+2686,Virginia,Charles City,51036,D,D,D,D,D,D,D,D
+2687,Virginia,Charlotte,51037,R,R,R,R,R,R,R,R
+2688,Virginia,Chesterfield,51041,R,R,R,R,R,R,R,D
+2689,Virginia,Clarke,51043,R,R,R,R,R,R,R,R
+2690,Virginia,Craig,51045,R,R,R,R,R,R,R,R
+2691,Virginia,Culpeper,51047,R,R,R,R,R,R,R,R
+2692,Virginia,Cumberland,51049,R,R,R,R,R,R,R,R
+2693,Virginia,Dickenson,51051,D,D,D,D,R,R,R,R
+2694,Virginia,Dinwiddie,51053,R,D,R,R,R,R,R,R
+2695,Virginia,Essex,51057,R,D,R,R,D,D,R,R
+2696,Virginia,Fairfax,51059,R,R,R,D,D,D,D,D
+2697,Virginia,Fauquier,51061,R,R,R,R,R,R,R,R
+2698,Virginia,Floyd,51063,R,R,R,R,R,R,R,R
+2699,Virginia,Fluvanna,51065,R,R,R,R,R,R,R,R
+2700,Virginia,Franklin,51067,R,R,R,R,R,R,R,R
+2701,Virginia,Frederick,51069,R,R,R,R,R,R,R,R
+2702,Virginia,Giles,51071,D,D,R,R,R,R,R,R
+2703,Virginia,Gloucester,51073,R,R,R,R,R,R,R,R
+2704,Virginia,Goochland,51075,R,R,R,R,R,R,R,R
+2705,Virginia,Grayson,51077,R,R,R,R,R,R,R,R
+2706,Virginia,Greene,51079,R,R,R,R,R,R,R,R
+2707,Virginia,Greensville,51081,D,D,D,D,D,D,D,D
+2708,Virginia,Halifax,51083,R,R,R,R,R,R,R,R
+2709,Virginia,Hanover,51085,R,R,R,R,R,R,R,R
+2710,Virginia,Henrico,51087,R,R,R,R,D,D,D,D
+2711,Virginia,Henry,51089,D,R,R,R,R,R,R,R
+2712,Virginia,Highland,51091,R,R,R,R,R,R,R,R
+2713,Virginia,James City,51095,R,R,R,R,R,R,R,D
+2714,Virginia,King George,51099,R,R,R,R,R,R,R,R
+2715,Virginia,King William,51101,R,R,R,R,R,R,R,R
+2716,Virginia,Lancaster,51103,R,R,R,R,R,R,R,R
+2717,Virginia,Lee,51105,D,D,R,R,R,R,R,R
+2718,Virginia,Loudoun,51107,R,R,R,R,D,D,D,D
+2719,Virginia,Louisa,51109,R,R,R,R,R,R,R,R
+2720,Virginia,Lunenburg,51111,R,R,R,R,R,R,R,R
+2721,Virginia,Madison,51113,R,R,R,R,R,R,R,R
+2722,Virginia,Mathews,51115,R,R,R,R,R,R,R,R
+2723,Virginia,Mecklenburg,51117,R,R,R,R,R,R,R,R
+2724,Virginia,Middlesex,51119,R,R,R,R,R,R,R,R
+2725,Virginia,Montgomery,51121,D,D,R,R,D,R,D,D
+2726,Virginia,Nelson,51125,D,D,R,D,D,D,R,R
+2727,Virginia,New Kent,51127,R,R,R,R,R,R,R,R
+2728,Virginia,Northampton,51131,D,D,D,D,D,D,D,D
+2729,Virginia,Northumberland,51133,R,R,R,R,R,R,R,R
+2730,Virginia,Nottoway,51135,R,R,R,R,R,R,R,R
+2731,Virginia,Orange,51137,R,R,R,R,R,R,R,R
+2732,Virginia,Page,51139,R,R,R,R,R,R,R,R
+2733,Virginia,Patrick,51141,R,R,R,R,R,R,R,R
+2734,Virginia,Pittsylvania,51143,R,R,R,R,R,R,R,R
+2735,Virginia,Powhatan,51145,R,R,R,R,R,R,R,R
+2736,Virginia,Prince Edward,51147,R,D,R,D,D,D,D,D
+2737,Virginia,Prince George,51149,R,R,R,R,R,R,R,R
+2738,Virginia,Prince William,51153,R,R,R,R,D,D,D,D
+2739,Virginia,Pulaski,51155,R,R,R,R,R,R,R,R
+2740,Virginia,Rappahannock,51157,R,R,R,R,R,R,R,R
+2741,Virginia,Richmond,51159,R,R,R,R,R,R,R,R
+2742,Virginia,Roanoke,51161,R,R,R,R,R,R,R,R
+2743,Virginia,Rockbridge,51163,R,R,R,R,R,R,R,R
+2744,Virginia,Rockingham,51165,R,R,R,R,R,R,R,R
+2745,Virginia,Russell,51167,D,D,D,R,R,R,R,R
+2746,Virginia,Scott,51169,R,R,R,R,R,R,R,R
+2747,Virginia,Shenandoah,51171,R,R,R,R,R,R,R,R
+2748,Virginia,Smyth,51173,R,D,R,R,R,R,R,R
+2749,Virginia,Southampton,51175,D,D,D,R,R,R,R,R
+2750,Virginia,Spotsylvania,51177,R,R,R,R,R,R,R,R
+2751,Virginia,Stafford,51179,R,R,R,R,R,R,R,D
+2752,Virginia,Surry,51181,D,D,D,D,D,D,D,D
+2753,Virginia,Sussex,51183,D,D,D,D,D,D,D,D
+2754,Virginia,Tazewell,51185,D,D,R,R,R,R,R,R
+2755,Virginia,Warren,51187,R,R,R,R,R,R,R,R
+2756,Virginia,Washington,51191,R,R,R,R,R,R,R,R
+2757,Virginia,Westmoreland,51193,D,D,R,R,D,D,R,R
+2758,Virginia,Wise,51195,D,D,R,R,R,R,R,R
+2759,Virginia,Wythe,51197,R,R,R,R,R,R,R,R
+2760,Virginia,York,51199,R,R,R,R,R,R,R,R
+2761,Washington,Adams,53001,R,R,R,R,R,R,R,R
+2762,Washington,Asotin,53003,D,D,R,R,R,R,R,R
+2763,Washington,Benton,53005,R,R,R,R,R,R,R,R
+2764,Washington,Chelan,53007,R,R,R,R,R,R,R,R
+2765,Washington,Clallam,53009,D,D,R,R,D,D,R,D
+2766,Washington,Clark,53011,D,D,R,R,D,D,D,D
+2767,Washington,Columbia,53013,R,R,R,R,R,R,R,R
+2768,Washington,Cowlitz,53015,D,D,D,D,D,D,R,R
+2769,Washington,Douglas,53017,R,R,R,R,R,R,R,R
+2770,Washington,Ferry,53019,D,D,R,R,R,R,R,R
+2771,Washington,Franklin,53021,R,R,R,R,R,R,R,R
+2772,Washington,Garfield,53023,R,R,R,R,R,R,R,R
+2773,Washington,Grant,53025,R,R,R,R,R,R,R,R
+2774,Washington,Grays Harbor,53027,D,D,D,D,D,D,R,R
+2775,Washington,Island,53029,D,R,R,R,D,D,D,D
+2776,Washington,Jefferson,53031,D,D,D,D,D,D,D,D
+2777,Washington,King,53033,D,D,D,D,D,D,D,D
+2778,Washington,Kitsap,53035,D,D,D,D,D,D,D,D
+2779,Washington,Kittitas,53037,D,D,R,R,R,R,R,R
+2780,Washington,Klickitat,53039,D,D,R,R,D,R,R,R
+2781,Washington,Lewis,53041,R,R,R,R,R,R,R,R
+2782,Washington,Lincoln,53043,R,R,R,R,R,R,R,R
+2783,Washington,Mason,53045,D,D,D,D,D,D,R,R
+2784,Washington,Okanogan,53047,D,R,R,R,R,R,R,R
+2785,Washington,Pacific,53049,D,D,D,D,D,D,R,R
+2786,Washington,Pend Oreille,53051,D,D,R,R,R,R,R,R
+2787,Washington,Pierce,53053,D,D,D,D,D,D,D,D
+2788,Washington,San Juan,53055,D,D,D,D,D,D,D,D
+2789,Washington,Skagit,53057,D,D,R,R,D,D,D,D
+2790,Washington,Skamania,53059,D,D,R,R,D,R,R,R
+2791,Washington,Snohomish,53061,D,D,D,D,D,D,D,D
+2792,Washington,Spokane,53063,D,D,R,R,R,R,R,R
+2793,Washington,Stevens,53065,R,R,R,R,R,R,R,R
+2794,Washington,Thurston,53067,D,D,D,D,D,D,D,D
+2795,Washington,Wahkiakum,53069,D,D,R,R,D,R,R,R
+2796,Washington,Walla Walla,53071,R,R,R,R,R,R,R,R
+2797,Washington,Whatcom,53073,D,D,R,D,D,D,D,D
+2798,Washington,Whitman,53075,D,D,R,R,D,R,D,D
+2799,Washington,Yakima,53077,R,R,R,R,R,R,R,R
+2800,West Virginia,Barbour,54001,D,D,R,R,R,R,R,R
+2801,West Virginia,Berkeley,54003,R,R,R,R,R,R,R,R
+2802,West Virginia,Boone,54005,D,D,D,D,D,R,R,R
+2803,West Virginia,Braxton,54007,D,D,D,D,D,R,R,R
+2804,West Virginia,Brooke,54009,D,D,D,D,R,R,R,R
+2805,West Virginia,Cabell,54011,D,D,R,R,R,R,R,R
+2806,West Virginia,Calhoun,54013,D,D,R,R,R,R,R,R
+2807,West Virginia,Clay,54015,D,D,R,R,R,R,R,R
+2808,West Virginia,Doddridge,54017,R,R,R,R,R,R,R,R
+2809,West Virginia,Fayette,54019,D,D,D,D,R,R,R,R
+2810,West Virginia,Gilmer,54021,D,D,R,R,R,R,R,R
+2811,West Virginia,Grant,54023,R,R,R,R,R,R,R,R
+2812,West Virginia,Greenbrier,54025,D,D,R,R,R,R,R,R
+2813,West Virginia,Hampshire,54027,R,R,R,R,R,R,R,R
+2814,West Virginia,Hancock,54029,D,D,R,R,R,R,R,R
+2815,West Virginia,Hardy,54031,R,D,R,R,R,R,R,R
+2816,West Virginia,Harrison,54033,D,D,D,R,R,R,R,R
+2817,West Virginia,Jackson,54035,D,D,R,R,R,R,R,R
+2818,West Virginia,Jefferson,54037,D,D,R,R,D,R,R,R
+2819,West Virginia,Kanawha,54039,D,D,D,R,R,R,R,R
+2820,West Virginia,Lewis,54041,D,D,R,R,R,R,R,R
+2821,West Virginia,Lincoln,54043,D,D,D,R,R,R,R,R
+2822,West Virginia,Logan,54045,D,D,D,D,R,R,R,R
+2823,West Virginia,Marion,54049,D,D,D,D,D,R,R,R
+2824,West Virginia,Marshall,54051,D,D,R,R,R,R,R,R
+2825,West Virginia,Mason,54053,D,D,R,R,R,R,R,R
+2826,West Virginia,Mercer,54055,D,D,R,R,R,R,R,R
+2827,West Virginia,Mineral,54057,R,R,R,R,R,R,R,R
+2828,West Virginia,Mingo,54059,D,D,D,D,R,R,R,R
+2829,West Virginia,Monongalia,54061,D,D,R,R,D,R,R,R
+2830,West Virginia,Monroe,54063,D,D,R,R,R,R,R,R
+2831,West Virginia,Morgan,54065,R,R,R,R,R,R,R,R
+2832,West Virginia,Nicholas,54067,D,D,R,R,R,R,R,R
+2833,West Virginia,Ohio,54069,D,D,R,R,R,R,R,R
+2834,West Virginia,Pendleton,54071,D,D,R,R,R,R,R,R
+2835,West Virginia,Pleasants,54073,D,D,R,R,R,R,R,R
+2836,West Virginia,Pocahontas,54075,D,D,R,R,R,R,R,R
+2837,West Virginia,Preston,54077,R,R,R,R,R,R,R,R
+2838,West Virginia,Putnam,54079,R,R,R,R,R,R,R,R
+2839,West Virginia,Raleigh,54081,D,D,R,R,R,R,R,R
+2840,West Virginia,Randolph,54083,D,D,R,R,R,R,R,R
+2841,West Virginia,Ritchie,54085,R,R,R,R,R,R,R,R
+2842,West Virginia,Roane,54087,D,D,R,R,R,R,R,R
+2843,West Virginia,Summers,54089,D,D,R,R,R,R,R,R
+2844,West Virginia,Taylor,54091,D,D,R,R,R,R,R,R
+2845,West Virginia,Tucker,54093,D,D,R,R,R,R,R,R
+2846,West Virginia,Tyler,54095,R,D,R,R,R,R,R,R
+2847,West Virginia,Upshur,54097,R,R,R,R,R,R,R,R
+2848,West Virginia,Wayne,54099,D,D,R,R,R,R,R,R
+2849,West Virginia,Webster,54101,D,D,D,D,D,R,R,R
+2850,West Virginia,Wetzel,54103,D,D,R,R,R,R,R,R
+2851,West Virginia,Wirt,54105,D,R,R,R,R,R,R,R
+2852,West Virginia,Wood,54107,R,R,R,R,R,R,R,R
+2853,West Virginia,Wyoming,54109,D,D,D,R,R,R,R,R
+2854,Wisconsin,Adams,55001,D,D,D,D,D,D,R,R
+2855,Wisconsin,Ashland,55003,D,D,D,D,D,D,D,D
+2856,Wisconsin,Barron,55005,D,D,R,R,D,R,R,R
+2857,Wisconsin,Bayfield,55007,D,D,D,D,D,D,D,D
+2858,Wisconsin,Brown,55009,R,D,R,R,D,R,R,R
+2859,Wisconsin,Buffalo,55011,D,D,D,D,D,D,R,R
+2860,Wisconsin,Burnett,55013,D,D,R,R,D,R,R,R
+2861,Wisconsin,Calumet,55015,R,R,R,R,D,R,R,R
+2862,Wisconsin,Chippewa,55017,D,D,R,R,D,R,R,R
+2863,Wisconsin,Clark,55019,D,D,R,R,D,R,R,R
+2864,Wisconsin,Columbia,55021,D,D,D,R,D,D,R,R
+2865,Wisconsin,Crawford,55023,D,D,D,D,D,D,R,R
+2866,Wisconsin,Dane,55025,D,D,D,D,D,D,D,D
+2867,Wisconsin,Dodge,55027,R,R,R,R,R,R,R,R
+2868,Wisconsin,Door,55029,R,D,R,R,D,D,R,D
+2869,Wisconsin,Douglas,55031,D,D,D,D,D,D,D,D
+2870,Wisconsin,Dunn,55033,D,D,D,D,D,D,R,R
+2871,Wisconsin,Eau Claire,55035,D,D,D,D,D,D,D,D
+2872,Wisconsin,Florence,55037,D,R,R,R,R,R,R,R
+2873,Wisconsin,Forest,55041,D,D,R,R,D,D,R,R
+2874,Wisconsin,Grant,55043,D,D,D,D,D,D,R,R
+2875,Wisconsin,Green,55045,D,D,D,D,D,D,D,D
+2876,Wisconsin,Green Lake,55047,R,R,R,R,R,R,R,R
+2877,Wisconsin,Iowa,55049,D,D,D,D,D,D,D,D
+2878,Wisconsin,Iron,55051,D,D,R,D,D,R,R,R
+2879,Wisconsin,Jackson,55053,D,D,D,D,D,D,R,R
+2880,Wisconsin,Jefferson,55055,R,D,R,R,D,R,R,R
+2881,Wisconsin,Juneau,55057,D,D,R,R,D,D,R,R
+2882,Wisconsin,Kenosha,55059,D,D,D,D,D,D,R,R
+2883,Wisconsin,Kewaunee,55061,D,D,R,R,D,R,R,R
+2884,Wisconsin,La Crosse,55063,D,D,D,D,D,D,D,D
+2885,Wisconsin,Lafayette,55065,D,D,D,D,D,D,R,R
+2886,Wisconsin,Langlade,55067,R,D,R,R,D,R,R,R
+2887,Wisconsin,Lincoln,55069,D,D,R,R,D,D,R,R
+2888,Wisconsin,Manitowoc,55071,D,D,R,R,D,R,R,R
+2889,Wisconsin,Marathon,55073,D,D,R,R,D,R,R,R
+2890,Wisconsin,Marinette,55075,R,D,R,R,D,R,R,R
+2891,Wisconsin,Marquette,55077,D,D,R,R,D,D,R,R
+2892,Wisconsin,Menominee,55078,D,D,D,D,D,D,D,D
+2893,Wisconsin,Milwaukee,55079,D,D,D,D,D,D,D,D
+2894,Wisconsin,Monroe,55081,D,D,R,R,D,R,R,R
+2895,Wisconsin,Oconto,55083,D,D,R,R,D,R,R,R
+2896,Wisconsin,Oneida,55085,D,D,R,R,D,R,R,R
+2897,Wisconsin,Outagamie,55087,R,D,R,R,D,R,R,R
+2898,Wisconsin,Ozaukee,55089,R,R,R,R,R,R,R,R
+2899,Wisconsin,Pepin,55091,D,D,D,D,D,D,R,R
+2900,Wisconsin,Pierce,55093,D,D,D,D,D,R,R,R
+2901,Wisconsin,Polk,55095,D,D,R,R,R,R,R,R
+2902,Wisconsin,Portage,55097,D,D,D,D,D,D,D,D
+2903,Wisconsin,Price,55099,D,D,R,D,D,D,R,R
+2904,Wisconsin,Racine,55101,D,D,R,R,D,D,R,R
+2905,Wisconsin,Richland,55103,D,D,R,R,D,D,R,R
+2906,Wisconsin,Rock,55105,D,D,D,D,D,D,D,D
+2907,Wisconsin,Rusk,55107,D,D,R,R,D,R,R,R
+2908,Wisconsin,Sauk,55111,D,D,D,D,D,D,R,D
+2909,Wisconsin,Sawyer,55113,D,D,R,R,D,D,R,R
+2910,Wisconsin,Shawano,55115,R,D,R,R,D,R,R,R
+2911,Wisconsin,Sheboygan,55117,R,D,R,R,R,R,R,R
+2913,Wisconsin,Taylor,55119,R,D,R,R,R,R,R,R
+2914,Wisconsin,Trempealeau,55121,D,D,D,D,D,D,R,R
+2915,Wisconsin,Vernon,55123,D,D,D,D,D,D,R,R
+2916,Wisconsin,Vilas,55125,R,R,R,R,R,R,R,R
+2917,Wisconsin,Walworth,55127,R,R,R,R,R,R,R,R
+2918,Wisconsin,Washburn,55129,D,D,R,R,D,R,R,R
+2919,Wisconsin,Washington,55131,R,R,R,R,R,R,R,R
+2920,Wisconsin,Waukesha,55133,R,R,R,R,R,R,R,R
+2921,Wisconsin,Waupaca,55135,R,R,R,R,D,R,R,R
+2922,Wisconsin,Waushara,55137,R,D,R,R,D,R,R,R
+2923,Wisconsin,Winnebago,55139,R,D,R,R,D,D,R,R
+2924,Wisconsin,Wood,55141,R,D,R,R,D,R,R,R
