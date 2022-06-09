@@ -1,0 +1,76 @@
+---
+title: "visualization"
+author: "Shou Shimaya"
+date: "4/17/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(ggplot2)
+library(ggridges)
+```
+
+```{r}
+df <- read.csv("C:/Users/sshim/JupyterNotebook/STATS170AB/Project/df.csv")
+```
+
+```{r}
+glimpse(df)
+```
+
+```{r}
+df <- df %>%
+  mutate(poll_error = DemPoll / (DemPoll + RepPoll) * 100 - demvotesmajorpercent)
+df<- df %>% 
+  mutate(white = wa_male + wa_female)
+```
+
+```{r}
+df_pres <- df %>% 
+  filter(office == "President")
+df_sen <- df %>% 
+  filter(office == "Senate")
+df_gov <- df %>% 
+  filter(office == "Governor")
+```
+
+```{r}
+# ggplot(df_pres, aes(x=poll_error)) + 
+#   geom_histogram
+
+ggplot(df_pres, aes(x=poll_error, y = year, group = year)) +
+  geom_density_ridges() +
+  xlab("Estimate Error on Democrats Voting Percent") +
+  ggtitle("Poll Error")
+```
+
+```{r}
+# ggplot(df, aes(x=white, y = demvotesmajorpercent)) + 
+#   geom_point(size=.7) +
+#   geom_smooth() +
+#   ylab("Percent Democrats Vote Compared to Republicans") +
+#   xlab("Proportion of White People in the County") +
+#   ggtitle("Proportion of White People on Election Outcome")
+
+ggplot(df, aes(x=white, y = demvotesmajorpercent)) + 
+  geom_point(size=.7) +
+  geom_smooth() +
+  ylab("Percentage of Democrat votes") +
+  xlab("Proportion of White People in the County") +
+  ggtitle("Proportion of White People vs Election Outcome") + 
+  theme(plot.title = element_text(size = 20),
+        axis.title = element_text(size = 15)) 
+```
+```{r}
+df <- df %>% 
+  na.omit() %>% 
+  mutate(change = demvotesmajorpercent - demvotesmajorpercent_prev)
+```
+
+
+```{r}
+ggplot(df, aes(x=change)) + 
+  geom_histogram()
+```
