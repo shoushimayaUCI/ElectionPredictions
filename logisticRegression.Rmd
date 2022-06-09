@@ -1,0 +1,179 @@
+---
+title: "ml"
+author: "Shou Shimaya"
+date: "5/16/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+```{r}
+df <- read.csv("C:/Users/sshim/JupyterNotebook/STATS170AB/Project/df_ml.csv")
+glimpse(df)
+```
+
+```{r}
+df <- df %>% 
+  mutate(year_since_1990 = year - 1990)
+df_pres <- df %>% 
+  filter(office == "President")
+df_gov <- df %>% 
+  filter(office == "Governor")
+df_sen <- df %>% 
+  filter(office == "Senate")
+
+drops <- c("state","county","office","year","X")
+df_pres = df_pres[ , !(names(df_pres) %in% drops)]
+df_gov = df_gov[ , !(names(df_gov) %in% drops)]
+df_sen = df_sen[ , !(names(df_sen) %in% drops)]
+```
+
+```{r}
+model_pres <- glm(demWon ~ . + I(year_since_1990*DemPoll) + I(year_since_1990*RepPoll),
+                  data=df_pres,
+                  family = "binomial")
+
+df_pres_no_age <- df_pres[,!grepl("^age",names(df_pres))]
+model_pres_no_age <- glm(demWon ~ . + I(year_since_1990*DemPoll) + I(year_since_1990*RepPoll),
+                  data=df_pres_no_age,
+                  family = "binomial")
+
+df_pres_no_genderrace <- df_pres[,!grepl(".*male$",names(df_pres))]
+model_pres_no_genderrace <- glm(demWon ~ . + I(year_since_1990*DemPoll) + I(year_since_1990*RepPoll),
+                               data=df_pres_no_genderrace,
+                               family = "binomial")
+
+model_pres_no_incumbent <- glm(demWon ~ . + I(year_since_1990*DemPoll) + I(year_since_1990*RepPoll) - 
+                                 dem_incumbent - rep_incumbent,
+                               data=df_pres,
+                               family = "binomial")
+
+model_pres_no_interaction <- glm(demWon ~ .,
+                                 data=df_pres,
+                                 family = "binomial")
+```
+
+```{r}
+anova(model_pres, model_pres_no_genderrace, test="Chisq")
+```
+
+
+```{r}
+model_gov <- glm(demWon ~ . + I(year_since_1990*DemPoll) + I(year_since_1990*RepPoll),
+                  data=df_gov,
+                  family = "binomial")
+
+df_gov_no_age <- df_gov[,!grepl("^age",names(df_gov))]
+model_gov_no_age <- glm(demWon ~ . + I(year_since_1990*DemPoll) + I(year_since_1990*RepPoll),
+                  data=df_gov_no_age,
+                  family = "binomial")
+
+df_gov_no_genderrace <- df_gov[,!grepl(".*male$",names(df_gov))]
+model_gov_no_genderrace <- glm(demWon ~ . + I(year_since_1990*DemPoll) + I(year_since_1990*RepPoll),
+                               data=df_gov_no_genderrace,
+                               family = "binomial")
+
+model_gov_no_incumbent <- glm(demWon ~ . + I(year_since_1990*DemPoll) + I(year_since_1990*RepPoll) - 
+                                 dem_incumbent - rep_incumbent,
+                               data=df_gov,
+                               family = "binomial")
+
+model_gov_no_education <- glm(demWon ~ . + I(year_since_1990*DemPoll) + I(year_since_1990*RepPoll) - 
+                                 X._HS_Only - X._Some_College - X._Bachelors,
+                               data=df_gov,
+                               family = "binomial")
+
+model_gov_no_poll <- glm(demWon ~ .  - DemPoll - RepPoll,
+                               data=df_gov,
+                               family = "binomial")
+
+model_gov_no_interaction <- glm(demWon ~ .,
+                                 data=df_gov,
+                                 family = "binomial")
+```
+
+```{r}
+anova(model_gov, model_gov_no_interaction, test="Chisq")
+```
+
+
+
+
+
+```{r}
+model_sen <- glm(demWon ~ . + I(year_since_1990*DemPoll) + I(year_since_1990*RepPoll),
+                  data=df_sen,
+                  family = "binomial")
+
+df_sen_no_age <- df_sen[,!grepl("^age",names(df_sen))]
+model_sen_no_age <- glm(demWon ~ . + I(year_since_1990*DemPoll) + I(year_since_1990*RepPoll),
+                  data=df_sen_no_age,
+                  family = "binomial")
+
+df_sen_no_genderrace <- df_sen[,!grepl(".*male$",names(df_sen))]
+model_sen_no_genderrace <- glm(demWon ~ . + I(year_since_1990*DemPoll) + I(year_since_1990*RepPoll),
+                               data=df_sen_no_genderrace,
+                               family = "binomial")
+
+model_sen_no_incumbent <- glm(demWon ~ . + I(year_since_1990*DemPoll) + I(year_since_1990*RepPoll) - 
+                                 dem_incumbent - rep_incumbent,
+                               data=df_sen,
+                               family = "binomial")
+
+model_sen_no_education <- glm(demWon ~ . + I(year_since_1990*DemPoll) + I(year_since_1990*RepPoll) - 
+                                 X._HS_Only - X._Some_College - X._Bachelors,
+                               data=df_sen,
+                               family = "binomial")
+
+model_sen_no_poll <- glm(demWon ~ .  - DemPoll - RepPoll,
+                               data=df_sen,
+                               family = "binomial")
+
+model_sen_no_interaction <- glm(demWon ~ .,
+                                 data=df_sen,
+                                 family = "binomial")
+```
+
+```{r}
+anova(model_sen, model_sen_no_interaction, test="Chisq")
+```
+
+```{r}
+glimpse(df)
+```
+
+
+```{r}
+df_pres2 <- df_pres %>% 
+  mutate(avg_age = 2*age04 + 7*age59 + 12*age1014 + 17*age1519 + 22*age2024 + 27*age2529 + 
+           32*age3034 + 37*age3539 + 42*age4044 + 47*age4549 + 52*age5054 + 57*age5559 + 
+           62*age6064 + 67*age6569 + 72*age7074 + 77*age7579 + 82*age8084 + 87*age85plus,
+         white = wa_male + wa_female,
+         education_level = X._HS_Only + X._Some_College, X._Bachelors)
+df_pres2 <- df_pres2[, !grepl("^age", names(df_pres2))]
+df_pres2 <- df_pres2[, !grepl("^X._", names(df_pres2))]
+df_pres2 <- df_pres2[, !grepl(".*male$",names(df_pres2))]
+```
+
+```{r}
+model_pres2 <- glm(demWon ~ . + I(year_since_1990*DemPoll) + I(year_since_1990*RepPoll),
+                  data=df_pres2,
+                  family = "binomial")
+```
+
+```{r}
+library(MASS)
+model_pres <- stepAIC(model_pres, direction="backward")
+```
+
+```{r}
+X <- df_pres %>% 
+  mutate(year.DemPoll = year_since_1990 * DemPoll,
+         year.RepPoll = year_since_1990 * RepPoll) %>% 
+  drop(demWon)
+
+model_pres3 <- glmnet(X, df_pres$demWon)
+```
