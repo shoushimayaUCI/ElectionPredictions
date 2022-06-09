@@ -13,7 +13,7 @@ library(ggridges)
 ```
 
 ```{r}
-df <- read.csv("C:/Users/sshim/JupyterNotebook/STATS170AB/Project/df.csv")
+df <- read.csv("./df_vis.csv")
 ```
 
 ```{r}
