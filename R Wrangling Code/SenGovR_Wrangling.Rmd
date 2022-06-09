@@ -1,0 +1,155 @@
+```{r}
+library(foreign)
+library(haven)
+library(dplyr)
+```
+
+```{r}
+# 2020 File not available, use president polls
+
+data2018 = read.spss("/Users/royminato/Desktop/RawSPSSPollFiles/SenPolls/31116394_National 2018.por", to.data.frame = TRUE)
+data2018 <- mutate(data2018, 'year' = 2018) 
+names(data2018)[names(data2018) == 'STANUM'] <-"STATE"
+data2018 <- select(data2018, c("year","STATE","SEN","GOV"))
+
+# 2016 File does not contain senate/governor poll questions, use president polls
+
+data2014 = read.spss("/Users/royminato/Desktop/RawSPSSPollFiles/SenPolls/31115091_National_2014.por", to.data.frame = TRUE)
+data2014 <- mutate(data2014, 'year' = 2014) 
+names(data2014)[names(data2014) == 'STANUM'] <-"STATE"
+data2014 <- select(data2014, c("year","STATE","SEN","GOV"))
+
+# 2012 File does not contain senate/governor poll questions, use president polls
+
+data2010 = read.spss("/Users/royminato/Desktop/RawSPSSPollFiles/SenPolls/usmi2010-natelec.por", to.data.frame = TRUE)
+data2010 <- mutate(data2010, 'year' = 2010) 
+names(data2010)[names(data2010) == 'STANUM'] <-"STATE"
+data2010 <- select(data2010, c("year","STATE","SEN","GOV"))
+
+# 2008 File does not contain senate/governor poll questions, use president polls
+
+data2006 = read.spss("/Users/royminato/Desktop/RawSPSSPollFiles/SenPolls/mi2006natelec.por", to.data.frame = TRUE)
+data2006 <- mutate(data2006, 'year' = 2006)
+names(data2006)[names(data2006) == 'STANUM'] <-"STATE"
+data2006 <- select(data2006, c("year","STATE","SEN","GOV"))
+
+# 2004 File does not contain senate/governor poll questions, use president polls
+
+data2002 = read.spss("/Users/royminato/Desktop/RawSPSSPollFiles/SenPolls/vns2002natelec.por", to.data.frame = TRUE)
+data2002 <- mutate(data2002, 'year' = 2002)
+names(data2002)[names(data2002) == 'QSEN'] <-"SEN"
+names(data2002)[names(data2002) == 'QGOV'] <-"GOV"
+data2002 <- select(data2002, c("year","STATE","SEN","GOV"))
+
+data2000 = read.spss("/Users/royminato/Desktop/RawSPSSPollFiles/SenPolls/vns2000natelec.por", to.data.frame = TRUE)
+data2000 <- mutate(data2000, 'year' = 2000)
+names(data2000)[names(data2000) == 'STATEID'] <- "STATE"
+data2000 <- select(data2000, c("year","STATE","SEN","GOV"))
+
+#Start using haven library to be able to read SPSS file format #FIX STATE ID NUMBERS TO STATE NAME IN PANDAS 
+data1998 = read_por("/Users/royminato/Desktop/RawSPSSPollFiles/SenPolls/vns1998natelec.por")
+data1998 <- data1998 %>% 
+  mutate('SEN' = case_when(
+    QD == 1 ~ "D",
+    QD == 2 ~ "R",
+    QD > 2 ~ "Other"
+  ))
+data1998 <- data1998 %>% 
+  mutate('GOV' = case_when(
+    QC == 1 ~ "D",
+    QC == 2 ~ "R",
+    QC > 2 ~ "Other"
+  ))
+data1998$STATE.ID <- as.character(data1998$STATE.ID)
+names(data1998)[names(data1998) == 'STATE.ID'] <-"STATE"
+data1998 <- mutate(data1998, 'year' = 1998)
+data1998 <- select(data1998, c("year","STATE","SEN","GOV"))
+
+data1996 = read_por("/Users/royminato/Desktop/RawSPSSPollFiles/SenPolls/usvns1996-natelec.por")
+data1996 <- data1996 %>% 
+  mutate('SEN' = case_when(
+    QI == 1 ~ "D",
+    QI == 2 ~ "R",
+    QI > 2 ~ "Other"
+  ))
+data1996 <- data1996 %>% 
+  mutate('GOV' = case_when(
+    GOVERNOR == 1 ~ "D",
+    GOVERNOR == 2 ~ "R",
+    GOVERNOR > 2 ~ "Other"
+  ))
+data1996$STATE.ID <- as.character(data1996$STATE.ID)
+names(data1996)[names(data1996) == 'STATE.ID'] <-"STATE"
+data1996 <- mutate(data1996, 'year' = 1996)
+data1996 <- select(data1996, c("year","STATE","SEN","GOV"))
+
+data1994 = read_por("/Users/royminato/Desktop/RawSPSSPollFiles/SenPolls/usvns1994-natelec.por")
+data1994 <- data1994 %>% 
+  mutate('SEN' = case_when(
+    QC == 1 ~ "D",
+    QC == 2 ~ "R",
+    QC > 2 ~ "Other"
+  ))
+data1994 <- data1994 %>% 
+  mutate('GOV' = case_when(
+    QD == 1 ~ "D",
+    QD == 2 ~ "R",
+    QD > 2 ~ "Other"
+  ))
+data1994$STATE <- as.character(data1994$STATE)
+data1994 <- mutate(data1994, 'year' = 1994)
+data1994 <- select(data1994, c("year","STATE","SEN","GOV"))
+
+data1992 = read_por("/Users/royminato/Desktop/RawSPSSPollFiles/SenPolls/vrs1992natelec.por")
+data1992 <- data1992 %>% 
+  mutate('SEN' = case_when(
+    QIW_QHP == 1 ~ "D",
+    QIW_QHP == 2 ~ "R",
+    QIW_QHP > 2 ~ "Other"
+  ))
+data1992$GOVERNOR <- as.character(data1992$GOVERNOR)
+data1992 <- data1992 %>% 
+  mutate('GOV' = case_when(
+    GOVERNOR == 1 ~ "D",
+    GOVERNOR == 2 ~ "R"
+  ))
+names(data1992)[names(data1992) == 'STATE#'] <-"STATE"
+data1992$STATE <- as.character(data1992$STATE)
+data1992 <- mutate(data1992, 'year' = 1992)
+data1992 <- select(data1992, c("year","STATE","SEN","GOV"))
+
+data1990 = read_por("/Users/royminato/Desktop/RawSPSSPollFiles/SenPolls/vrs1990natelec.por")
+data1990 <- data1990 %>% 
+  mutate('SEN' = case_when(
+    QH_QI == 1 ~ "D",
+    QH_QI == 2 ~ "R",
+    QH_QI > 2 ~ "Other"
+  ))
+data1990 <- data1990 %>% 
+  mutate('GOV' = case_when(
+    QC == 1 ~ "D",
+    QC == 2 ~ "R",
+    QC > 2 ~ "Other"
+  ))
+data1990$ST.CODE <- as.character(data1990$ST.CODE)
+names(data1990)[names(data1990) == 'ST.CODE'] <-"STATE"
+data1990 <- mutate(data1990, 'year' = 1990)
+data1990 <- select(data1990, c("year","STATE","SEN","GOV"))
+```
+
+```{r}
+#Fix/append/merge in python/pandas
+write.csv(data1990, "SenGov1990.csv", row.names = FALSE)
+write.csv(data1992, "SenGov1992.csv", row.names = FALSE)
+write.csv(data1994, "SenGov1994.csv", row.names = FALSE)
+write.csv(data1996, "SenGov1996.csv", row.names = FALSE)
+write.csv(data1998, "SenGov1998.csv", row.names = FALSE)
+write.csv(data2000, "SenGov2000.csv", row.names = FALSE)
+write.csv(data2002, "SenGov2002.csv", row.names = FALSE)
+write.csv(data2006, "SenGov2006.csv", row.names = FALSE)
+write.csv(data2010, "SenGov2010.csv", row.names = FALSE)
+write.csv(data2014, "SenGov2014.csv", row.names = FALSE)
+write.csv(data2018, "SenGov2018.csv", row.names = FALSE)
+```
+
+

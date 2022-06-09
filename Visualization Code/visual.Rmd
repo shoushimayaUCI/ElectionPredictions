@@ -1,0 +1,93 @@
+```{r}
+library(ggplot2)
+library(dplyr)
+```
+
+```{r}
+data = read.csv("combinedData.csv")
+```
+
+#For this visualization I want to look at the correctness of the averaged polling data from FiveThirtyEight.
+#Originally poll values were only available for presidential elections and were extended to senatorial and gubernatorial elections.
+
+```{r}
+pollData <- subset(data,select = c(year, office, state, DemPoll, RepPoll, StateResult)) #For each county
+pollData <- distinct(pollData) #For each state (Since all counties in a state have statewide polls)
+```
+
+```{r}
+presPolls <- subset(pollData, office == 'President')
+senPolls <- subset(pollData, office == 'Senate')
+govPolls <- subset(pollData, office == 'Governor')
+```
+
+```{r}
+ggplot( data = presPolls, aes(x = RepPoll, y = DemPoll, color = StateResult)) +
+  geom_point() +
+  geom_abline(intercept = 0, slope = 1) +
+  scale_color_manual(values = c('blue','red'), labels = c("D" = "Democrat", "R" = "Republican")) +
+  ggtitle("Presidential State Level Polling and Outcome (1992-2020)") +
+  labs( x = "% Responding Republican", y = "% Responding Democrat", color = "State Outcome") +
+  theme(axis.title.x = element_text(size = 12.5),
+        axis.title.y = element_text(size = 12.5),
+        axis.text = element_text(size = 13.25),
+        plot.title = element_text(size = 15)) +
+  xlim(20,70) +
+  ylim(20,70)
+```
+```{r}
+#Test correction of assumption (proportion of things that come out correct and match polls)
+#s1 <- subset(senPer, LastDemVotePercent > LastRepVotePercent)
+#s1 <- subset(s1, winningParty == "D")
+```
+
+
+
+```{r}
+ggplot( data = senPolls, aes(x = RepPoll, y = DemPoll, color = StateResult)) +
+  geom_point() +
+  geom_abline(intercept = 0, slope = 1) +
+  scale_color_manual(values = c('blue','red'), labels = c("D" = "Democrat", "R" = "Republican")) +
+  ggtitle("Senatorial Election Polling and Outcome (1990-2020)") +
+  labs( x = "% Responding Republican", y = "% Responding Democrat", color = "State Outcome") +
+  theme(axis.title.x = element_text(size = 12.5),
+        axis.title.y = element_text(size = 12.5),
+        axis.text = element_text(size = 13.25),
+        plot.title = element_text(size = 15)) +
+  xlim(20,70) +
+  ylim(20,70)
+```
+
+
+```{r}
+ggplot( data = govPolls, aes(x = RepPoll, y = DemPoll, color = StateResult)) +
+  geom_point() +
+  geom_abline(intercept = 0, slope = 1) +
+  scale_color_manual(values = c('blue','red'), labels = c("D" = "Democrat", "R" = "Republican")) +
+  ggtitle("Gubernatorial Polling and Outcome (1990-2020)") +
+  labs( x = "% Responding Republican", y = "% Responding Democrat", color = "State Outcome") +
+  theme(axis.title.x = element_text(size = 12.5),
+        axis.title.y = element_text(size = 12.5),
+        axis.text = element_text(size = 13.25),
+        plot.title = element_text(size = 15)) +
+  xlim(20,70) +
+  ylim(20,70)
+```
+
+
+```{r}
+UR = read.csv("NationalUnemploymentRatesFixed.csv")
+```
+
+```{r}
+ggplot(data = UR, aes(x = Year, y = National.Unemployment..)) +
+  geom_line(color = "skyblue3", size = 1.5) +
+  geom_point(color = "black",size = 2.5) +
+  ggtitle("US Annual National Unemployment Rate (1990-2020)") +
+  labs( x = "Year", y = "Unemployment Rate (%)") +
+  theme(axis.title.x = element_text(size = 13),
+        axis.title.y = element_text(size = 12.5),
+        axis.text = element_text(size = 13.25),
+        plot.title = element_text(size = 15)) 
+```
+
